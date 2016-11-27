@@ -34,6 +34,6 @@ footer {
 }
 
 /* make current language in lang selector bold */
-.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+.en:lang(en), .fr:lang(fr), .zh:lang(zh), .ru:lang(ru) {
     font-weight: bold;
 }
