@@ -1,5 +1,13 @@
 name:
   ru: Сообщество церковнославянской информатики
   en: Slavonic Computing Initiative
+
+description:
+  ru: Работаем над этим
+  en: TODO
+ 
+email:
+  pgmmpk@gmail.com
+
 markdown:
   kramdown
