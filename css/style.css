@@ -32,3 +32,8 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+
+/* make current language in lang selector bold */
+.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+    font-weight: bold;
+}
