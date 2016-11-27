@@ -15,7 +15,7 @@ You can check live version of this site at https://slavonic.github.io
    lang: en
    ---
    
-   Your valuable thoughts
+   My valuable thoughts
    ```
 3. Note that you can yse any valid layout template for this new file, not necessarily a `default` one
 4. Note that you must supply a unique `ref` value. Best convention is to use the file name without extension
@@ -33,9 +33,17 @@ Now, lets add a translation to `ru`
    lang: ru
    ---
    
-   Ваши умные мысли
+   Мои умные мысли
    ```
 3. Again, note that you are not restricted to the `default` layout template. But you better use the same layout
    as in English version of this page
 4. Note that `ref` value must be exactly the same as in the English page
-5. 
+5. Note that lang is declared to be `ru`
+
+## Conventions
+
+1. Place translations under top-level directory with the language name
+2. Mirror website tree in each language directory
+3. Use `ref` as file name base. Name of translated page file is the same as the name of the English file. 
+   The only difference is that translated page resides under its language directory tree
+
