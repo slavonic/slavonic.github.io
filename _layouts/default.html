@@ -7,16 +7,23 @@
 	</head>
 	<body>
 		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/software">Software</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/software">Software</a></li>
+				<li><a href="/blog">Blog</a></li>
+			</ul>
 		</nav>
+		<div class="lang-selector" style="text-align: right; line-height: 2em">
+			{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+			{% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+
+			{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+			{% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+		</div>
 		<div class="container">
-        {{content}}
-		</div><!-- /.container -->
+			{{content}}
+		</div>
 		<footer>
     		<ul>
         		<li><a href="mailto:pgmmpk@gmail.com">email</a></li>
