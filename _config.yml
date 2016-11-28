@@ -7,29 +7,25 @@ keywords:
   en: "Church Slavic, Church Slavonic, Old Church Slavonic, Old Slavonic, Old Bulgarian, Old Church Slavic, unicode, Slavonic unicode, fonts, Slavonic fonts, Slavic fonts, keyboard layout, hyphenation, transliteration, Glagolitic, Glagolica, Cyrillic fonts, Glagolitic fonts, Znamenny notation, Znamenny fonts, OpenType, TrueType, Graphite, SIL Graphite, private use area"
 
 nav:
-  home:
-    en: 
+  - en: 
       title: Home
       link:  /
     ru:
       title: Основная
       link:  /ru
-  about:
-    en: 
+  - en: 
       title: About
       link:  /about
     ru: 
       title: Инфо
       link:  /ru/info
-  software:
-    en: 
+  - en: 
       title: Software
       link:  /software
     ru: 
       title: Программы
       link:  /ru/software
-  blog:
-    en: 
+  - en: 
       title: Blog
       link:  /blog
     ru: 
