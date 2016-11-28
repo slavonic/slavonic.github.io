@@ -1,22 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{page.lang}}">
-	{{ include head.html }}
+<html lang="{{ page.lang }}">
+	{% include head.html %}
 	<body>
-		<nav>
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/software">Software</a></li>
-				<li><a href="/blog">Blog</a></li>
-			</ul>
-		</nav>
-		<div class="lang-selector" style="text-align: right; line-height: 2em">
-			{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-			{% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
-
-			{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-			{% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
-		</div>
+		{% include header.html %}
 		<div class="container">
 			{{content}}
 		</div>
