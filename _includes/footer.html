@@ -1,6 +1,7 @@
 <footer>
     {{ page.lang }}
     {{ site.contact | json }}
+    {{ site.contact[page.lang] | json }}
     <ul>
         <li><a>&copy; 2005-{{ 'now' | date: "%Y" }}</a></li>
         <li><a href="{{ site.contact[page.lang].link">{{ site.contact[page.lang].title }}</a></li>
