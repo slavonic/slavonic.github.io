@@ -1,11 +1,11 @@
 <footer>
     {{ page.lang }}|{{ page.lang }}
     {{ site.contact | json }}
+    {{ site.contact.en | json }}
     {{ site.contact[page.lang] | json }}
     {{ site.contact["en"] | json }}
     <ul>
-        <li><a>&copy; 2005-{{ 'now' | date: "%Y" }}</a></li>
+        <li><a href="{{ site.legal[page.lang].link }}">&copy; 2005-{{ 'now' | date: "%Y" }} {{ site.legal[page.lang].title }}</a></li>
         <li><a href="{{ site.contact[page.lang].link">{{ site.contact[page.lang].title }}</a></li>
-        <li><a href="{{ site.legal[page.lang].link }}">{{ site.legal[page.lang].title }}</a></li>
   </ul>
 </footer>
