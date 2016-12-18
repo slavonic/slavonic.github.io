@@ -23,7 +23,7 @@ Permission is granted to copy, distribute and/or modify this information
  with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts OR
  under the terms of the (Creative Commons 3.0 Attribution Share-Alike Unported License)[http://creativecommons.org/licenses/by-sa/3.0/us/], at your choosing.
 
-###Ackwnoledgements:
+### Ackwnoledgements:
 
 Lives of the saints in Russian are taken from the Nastol'naya Kniga Tserkovnosvyachennosluzhitelya,
 Moscow Patriachate, 1978.
