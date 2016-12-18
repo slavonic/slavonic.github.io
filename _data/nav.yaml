@@ -5,6 +5,8 @@ en:
     link:  /fonts.html
   - title: Keyboard
     link:  /keyboard.html
+  - title: Editors
+    link:  /users.html
   - title: About
     link:  /about
   - title: Software
@@ -19,6 +21,8 @@ ru:
     link:  /ru/fonts.html
   - title: Клавиатура
     link:  /ru/keyboard.html
+  - title: Набор
+    link:  /ru/users.html
   - title: Инфо
     link:  /ru/info
   - title: Программы
