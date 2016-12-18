@@ -1,3 +1,9 @@
+---
+layout: default
+ref: index
+lang: en
+---
+
 ## Disclaimer and Other Fancy Legal Stuff
 
 All information on this website, including the perpetual calendar of the Orthodox Church, is a free service provided by 
