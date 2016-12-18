@@ -1,0 +1,19 @@
+en:
+  - title: Home
+    link:  /
+  - title: About
+    link:  /about
+  - title: Software
+    link:  /software
+  - title: Blog
+    link:  /blog
+
+ru:
+  - title: Основная
+    link:  /ru
+  - title: Инфо
+    link:  /ru/info
+  - title: Программы
+    link:  /ru/software
+  - title: Блог
+    link:  /ru/blog
