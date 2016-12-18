@@ -1,6 +1,10 @@
 en:
   - title: Home
     link:  /
+  - title: Fonts
+    link:  /fonts.html
+  - title: Keyboard
+    link:  /keyboard.html
   - title: About
     link:  /about
   - title: Software
@@ -11,6 +15,10 @@ en:
 ru:
   - title: Основная
     link:  /ru
+  - title: Шрифты
+    link:  /ru/fonts.html
+  - title: Клавиатура
+    link:  /ru/keyboard.html
   - title: Инфо
     link:  /ru/info
   - title: Программы
