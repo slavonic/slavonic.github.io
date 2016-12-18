@@ -34,15 +34,15 @@ nav:
 
 legal:
   - en:
-      title: Legal info
+      title: "Slavonic Computing Initiative"
       link: /legal.html
     ru:
-      title: Правовая информация
+      title: "Инициативная группа славянской информатики"
       link: /ru/legal.html
 
 contact:
   - en:
-      title: Contact us
+      title: "Contact us"
       link: mailto:aleksandr.andreev@gmail.com
     ru:
       title: Контакты
