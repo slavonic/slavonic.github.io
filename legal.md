@@ -1,6 +1,6 @@
 ---
 layout: default
-ref: index
+ref: legal
 lang: en
 ---
 
