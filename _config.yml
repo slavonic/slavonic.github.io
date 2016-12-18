@@ -6,52 +6,7 @@ keywords:
   ru: "церковнославянский язык, церковно-славянский язык, старославянский язык, церковнославянский шрифт, старославянский шрифт, церковно-славянский шрифт, славянский шрифт, Юникод, славянский Юникод, церковнославянская типографика"
   en: "Church Slavic, Church Slavonic, Old Church Slavonic, Old Slavonic, Old Bulgarian, Old Church Slavic, unicode, Slavonic unicode, fonts, Slavonic fonts, Slavic fonts, keyboard layout, hyphenation, transliteration, Glagolitic, Glagolica, Cyrillic fonts, Glagolitic fonts, Znamenny notation, Znamenny fonts, OpenType, TrueType, Graphite, SIL Graphite, private use area"
 
-nav:
-  - en: 
-      title: Home
-      link:  /
-    ru:
-      title: Основная
-      link:  /ru
-  - en: 
-      title: About
-      link:  /about
-    ru: 
-      title: Инфо
-      link:  /ru/info
-  - en: 
-      title: Software
-      link:  /software
-    ru: 
-      title: Программы
-      link:  /ru/software
-  - en: 
-      title: Blog
-      link:  /blog
-    ru: 
-      title: Блог
-      link:  /ru/blog
-
-legal:
-  - en:
-      title: "Slavonic Computing Initiative"
-      link: /legal.html
-    ru:
-      title: "Инициативная группа славянской информатики"
-      link: /ru/legal.html
-
-contact:
-  - en:
-      title: "Contact us"
-      link: mailto:aleksandr.andreev@gmail.com
-    ru:
-      title: Контакты
-      link: mailto:aleksandr.andreev@gmail.com
-
 google_analytics: UA-12187460-2
  
-email:
-  pgmmpk@gmail.com
-
 markdown:
   kramdown
