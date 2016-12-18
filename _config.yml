@@ -32,6 +32,22 @@ nav:
       title: Блог
       link:  /ru/blog
 
+legal:
+  - en:
+      title: Legal info
+      link: /legal.html
+    ru:
+      title: Правовая информация
+      link: /ru/legal.html
+
+contact:
+  - en:
+      title: Contact us
+      link: mailto:aleksandr.andreev@gmail.com
+    ru:
+      title: Контакты
+      link: mailto:aleksandr.andreev@gmail.com
+
 google_analytics: UA-12187460-2
  
 email:
