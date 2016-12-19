@@ -47,8 +47,9 @@ lang: ru
   Мы советуем посмотреть документацию [пакета Polyglossia](http://mirror.unl.edu/ctan/macros/latex/contrib/polyglossia/polyglossia.pdf)
   и [пакета `churchslavonic`](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-ru.pdf).
   
-* Если Вы не знаете, как начать, смотрите <A href="" Target="_blank">
-  [примерный TeX файл](http://www.ponomar.net/files/sample.tex) и его [результат в PDF](http://www.ponomar.net/files/sample.pdf).
+* Если Вы не знаете, как начать, смотрите 
+  [примерный TeX файл](http://www.ponomar.net/files/sample.tex) 
+  и его [результат в PDF](http://www.ponomar.net/files/sample.pdf).
 
 ### Libre Office
 
@@ -100,8 +101,10 @@ lang: ru
   все содержимое документа. Исходный код надстройки доступен [здесь](https://github.com/slavonic/cuconverter-LO).
   
 * Пока существуют некоторые баги: 
-   - [БАГ: Нельзя указать подчеркивание (_) как символ переноса](https://bugs.documentfoundation.org/show_bug.cgi?id=85731)
-   - [БАГ: Нет конвертации из строчных букв в заглавные для символов в блоке Cyrillic Extended-B](https://bugs.documentfoundation.org/show_bug.cgi?id=96343)
+   - [85731](https://bugs.documentfoundation.org/show_bug.cgi?id=85731): Нельзя указать 
+     подчеркивание (`_`) как символ переноса
+   - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Нет конвертации из строчных букв в заглавные 
+     для символов в блоке Cyrillic Extended-B
 
 ### Apache OpenOffice
 
