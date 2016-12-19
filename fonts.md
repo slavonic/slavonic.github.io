@@ -17,9 +17,9 @@ css: fonts
   It may also be used to typeset liturgical texts in Romanian (Moldovan) Cyrillic, Aleut and Sakha (Yakut)
   [Download](http://www.ponomar.net/files/PonomarUnicode.zip)
   <div class="ponomar sample" contenteditable="true">
-  Влⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
-  приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
-  предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
+    Влⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
+    приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
+    предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
   </div>
 
 * Fedorovsk Unicode is designed to mimick the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
