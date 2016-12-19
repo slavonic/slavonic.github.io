@@ -56,7 +56,7 @@
   font-family: 'Monomakh Unicode';
 }
 
-.pomorsky:first-class:first-letter {
+.pomorsky:first-child:first-letter {
   font-family: 'Pomorsky Unicode';
   font-size: 400%;
   float : left;
@@ -65,12 +65,13 @@
   margin-top: -0.2em;
 }
 
-.indiction {
+.indiction:first-child:first-letter {
   font-family: 'Indiction Unicode';
-  font-size: 300%;
+  font-size: 400%;
   float : left;
   width : 1em;
   color : red;
+  margin-top: -0.2em;
 }
 
 .sample {
