@@ -7,4 +7,10 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	<!-- link to main stylesheet -->
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<!-- support for page-specific styles -->
+	{% if page.css %}
+  	{% for stylesheet in page.css %}
+  	<link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
+	{% endfor %}
+	{% endif %}	
 </head>
