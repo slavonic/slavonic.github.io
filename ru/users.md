@@ -20,7 +20,7 @@ lang: ru
   ```
   tlmgr install hyphen-churchslavonic
   ```
-  Затем следует перестроить форматы XeLaTeX и LuaLaTeX используя комманду: 
+  Затем следует перестроить форматы XeLaTeX и LuaLaTeX используя команду: 
   ```
   fmtutil --byfmt xelatex
   fmtutil --byfmt lualatex
