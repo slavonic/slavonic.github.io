@@ -63,3 +63,9 @@
 .indiction {
   font-family: 'Indiction Unicode';
 }
+
+.sample {
+  margin: 1em 5em 1em 5em;
+  padding: 0.5em;
+  border: 1pt solid lightgrey;
+}
