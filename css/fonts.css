@@ -59,11 +59,17 @@
 .pomorsky {
   font-family: 'Pomorsky Unicode';
   font-size: 300%;
+  float : left;
+  width : 1em;
+  color : red;
 }
 
 .indiction {
   font-family: 'Indiction Unicode';
   font-size: 300%;
+  float : left;
+  width : 1em;
+  color : red;
 }
 
 .sample {
