@@ -63,7 +63,8 @@ css: fonts
   published since the late 19th century.
   [Download](http://www.ponomar.net/files/IndictionUnicode.zip)
   <div class="ponomar sample" contenteditable="true">
-  <span class="indiction-dropcaps">В</span>лⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
+  <span class="indiction-dropcaps">В</span>лⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, 
+  моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
   приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
   предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
   </div>
