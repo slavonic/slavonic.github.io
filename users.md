@@ -14,14 +14,17 @@ To work with Church Slavonic texts in TeX, you will need to use a modern Unicode
 Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The following will be helpful:
 
 * Install the hyphenation patterns for Church Slavonic. To do this, run the following command: 
+
   ```
   tlmgr install hyphen-churchslavonic
   ```
+  
   Then rebuild the XeLaTeX and LuaLaTeX formats with this command: 
   ```
   fmtutil --byfmt xelatex 
   fmtutil --byfmt lualatex
   ```
+  
 * Install the `churchslavonic` package. This will install a set of Church Slavonic OpenType fonts, additional macros, 
   and handlers for polyglossia. You can install the package by running the command 
   ```
