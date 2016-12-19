@@ -23,6 +23,7 @@ lang: ru
   ```
 
   Затем следует перестроить форматы XeLaTeX и LuaLaTeX используя команду: 
+  
   ```
   fmtutil --byfmt xelatex
   fmtutil --byfmt lualatex
