@@ -5,6 +5,61 @@
   src: local('Ponomar Unicode'), url(https://slavonic.github.io/files/PonomarUnicode.woff2) format('woff2');
 }
 
+@font-face {
+  font-family: 'Fedorovsk Unicode';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fedorovsk Unicode'), url(https://slavonic.github.io/files/FedorovskUnicode.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Menaion Unicode';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Menaion Unicode'), url(https://slavonic.github.io/files/MenaionUnicode.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Monomakh Unicode';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Monomakh Unicode'), url(https://slavonic.github.io/files/MonomakhUnicode.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Pomorsky Unicode';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pomorsky Unicode'), url(https://slavonic.github.io/files/PomorskyUnicode.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Indiction Unicode';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Indiction Unicode'), url(https://slavonic.github.io/files/IndictionUnicode.woff2) format('woff2');
+}
+
 .ponomar {
   font-family: 'Ponomar Unicode';
+}
+
+.fedorovsk {
+  font-family: 'Fedorovsk Unicode';
+}
+
+.menaion {
+  font-family: 'Menaion Unicode';
+}
+
+.monomakh {
+  font-family: 'Monomakh Unicode';
+}
+
+.pomorsky {
+  font-family: 'Pomorsky Unicode';
+}
+
+.indiction {
+  font-family: 'Indiction Unicode';
 }
