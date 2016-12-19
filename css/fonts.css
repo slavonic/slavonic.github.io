@@ -60,9 +60,9 @@
   font-family: 'Pomorsky Unicode';
   font-size: 400%;
   float : left;
-  width : 1em;
   color : red;
-  margin-top: -0.2em;
+  margin-top: -0.1em;
+  margin-right: 0.1em;
 }
 
 .indiction-dropcaps {
