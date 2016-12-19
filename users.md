@@ -20,6 +20,7 @@ Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The 
   ```
   
   Then rebuild the XeLaTeX and LuaLaTeX formats with this command: 
+  
   ```
   fmtutil --byfmt xelatex 
   fmtutil --byfmt lualatex
@@ -27,17 +28,22 @@ Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The 
   
 * Install the `churchslavonic` package. This will install a set of Church Slavonic OpenType fonts, additional macros, 
   and handlers for polyglossia. You can install the package by running the command 
+  
   ```
   tlmgr install churchslavonic
   ```
+  
 * If you have an older version of TeX Live or another distribution of TeX, you may need to install the hyphenation patterns 
-  and additional packages manually. You can get the hyphenation patterns [here](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
-  and [hruch Slavonic package on CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
+  and additional packages manually. You can get the hyphenation patterns 
+  [here](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
+  and [Church Slavonic package on CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
   Follow the instructions in the documentation.
+
 * You can now type Church Slavonic texts using the standard commands of Polyglossia. The `churchslavonic` package 
   offers additional macros for Cyrillic numerals, drop caps and other features. See the documentation for 
   [Polyglossia](http://mirror.unl.edu/ctan/macros/latex/contrib/polyglossia/polyglossia.pdf)
   and [churchslavonic](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-en.pdf) for details.
+
 * Here is a [sample TeX file](http://www.ponomar.net/files/sample.tex)
   and its [resulting PDF output](http://www.ponomar.net/files/sample.pdf) to get you started.
 
