@@ -4,3 +4,7 @@
   font-weight: 400;
   src: local('Ponomar Unicode'), url(https://slavonic.github.io/files/PonomarUnicode.woff2) format('woff2');
 }
+
+.ponomar {
+  font-family: 'Ponomar Unicode';
+}
