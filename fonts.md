@@ -53,8 +53,8 @@ css: fonts
 * Pomorsky Unicode is a decorative font intended for drop caps (<i>bukvitsy</i>) and decorative titling. It reproduces the 
   calligraphic style of book and chapter titles  used by Priestless Old Ritualists of the Vyg Hermitage.
   [Download](http://www.ponomar.net/files/PomorskyUnicode.zip)
-  <div class="ponomar sample" contenteditable="true">
-  <span class="pomorsky">В</span>лⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
+  <div class="ponomar pomorsky sample" contenteditable="true">
+  Влⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
   приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
   предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
   </div>
