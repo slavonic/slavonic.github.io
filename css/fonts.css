@@ -56,12 +56,13 @@
   font-family: 'Monomakh Unicode';
 }
 
-.pomorsky {
+.pomorsky:first-class:first-letter {
   font-family: 'Pomorsky Unicode';
-  font-size: 300%;
+  font-size: 400%;
   float : left;
   width : 1em;
   color : red;
+  margin-top: -0.2em;
 }
 
 .indiction {
