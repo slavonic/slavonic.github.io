@@ -28,7 +28,7 @@ _Все документы на английском и в формате PDF_
 
 * Y. Shardt and A. Andreev. [Proposal to Encode the Typikon Symbols in Unicode](http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3772.pdf) [**Accepted**]
 
-* Y. Shardt, N. Simmons and A. Andreev. [Proposal to Encode the Typikon Symbols in Unicode Part 2: Old-Rite Symbols](http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3971.pdf"> [**Accepted**]
+* Y. Shardt, N. Simmons and A. Andreev. [Proposal to Encode the Typikon Symbols in Unicode Part 2: Old-Rite Symbols](http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3971.pdf) [**Accepted**]
 
 * Y. Shardt, N. Simmons and A. Andreev. [Proposal to Encode Some Outsanding Early Cyrillic Characters in Unicode](http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3974.pdf) [**Accepted**]
 
