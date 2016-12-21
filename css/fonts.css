@@ -4,7 +4,8 @@
   font-weight: 400;
   src: local('Ponomar Unicode'), 
     url(https://slavonic.github.io/files/PonomarUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/PonomarUnicode.woff) format('woff');
+    url(https://slavonic.github.io/files/PonomarUnicode.woff) format('woff'),
+    url(https://slavonic.github.io/files/PonomarUnicode.ttf) format('ttf');
 }
 
 @font-face {
@@ -13,7 +14,8 @@
   font-weight: 400;
   src: local('Fedorovsk Unicode'), 
     url(https://slavonic.github.io/files/FedorovskUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/FedorovskUnicode.woff) format('woff');
+    url(https://slavonic.github.io/files/FedorovskUnicode.woff) format('woff'),
+    url(https://slavonic.github.io/files/FedorovskUnicode.ttf) format('ttf');
 }
 
 @font-face {
@@ -22,7 +24,8 @@
   font-weight: 400;
   src: local('Menaion Unicode'), 
     url(https://slavonic.github.io/files/MenaionUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/MenaionUnicode.woff) format('woff');
+    url(https://slavonic.github.io/files/MenaionUnicode.woff) format('woff'),
+    url(https://slavonic.github.io/files/MenaionUnicode.ttf) format('ttf');
 }
 
 @font-face {
@@ -31,7 +34,8 @@
   font-weight: 400;
   src: local('Monomakh Unicode'), 
     url(https://slavonic.github.io/files/MonomakhUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/MonomakhUnicode.woff) format('woff');
+    url(https://slavonic.github.io/files/MonomakhUnicode.woff) format('woff'),
+    url(https://slavonic.github.io/files/MonomakhUnicode.ttf) format('ttf');
 }
 
 @font-face {
@@ -40,7 +44,8 @@
   font-weight: 400;
   src: local('Pomorsky Unicode'), 
     url(https://slavonic.github.io/files/PomorskyUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/PomorskyUnicode.woff) format('woff');
+    url(https://slavonic.github.io/files/PomorskyUnicode.woff) format('woff'),
+    url(https://slavonic.github.io/files/PomorskyUnicode.ttf) format('ttf');
 }
 
 @font-face {
@@ -49,7 +54,8 @@
   font-weight: 400;
   src: local('Indiction Unicode'), 
     url(https://slavonic.github.io/files/IndictionUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/IndictionUnicode.woff) format('woff');
+    url(https://slavonic.github.io/files/IndictionUnicode.woff) format('woff'),
+    url(https://slavonic.github.io/files/IndictionUnicode.ttf) format('ttf');
 }
 
 .ponomar {
