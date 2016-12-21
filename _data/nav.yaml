@@ -11,10 +11,8 @@ en:
     link:  /dox
   - title: Znamenny Notation
     link:  /music
-  - title: About
-    link:  /about
-  - title: Software
-    link:  /software
+  - title: Kievan Notation
+    link:  /kievan
   - title: Blog
     link:  /blog
 
@@ -31,6 +29,8 @@ ru:
     link:  /ru/dox
   - title: Знаменная нотация
     link: /ru/music
+  - title: Киевская нотация
+    link: /ru/kievan
   - title: Инфо
     link:  /ru/info
   - title: Программы
