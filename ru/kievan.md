@@ -30,109 +30,97 @@ lang: ru
   [по-немецки](http://lilypond.org/doc/v2.18/Documentation/notation/typesetting-kievan-square-notation.de.html)
   или [по-французски](http://lilypond.org/doc/v2.18/Documentation/notation/typesetting-kievan-square-notation.fr.html)
 
+Примеры партитур в киевской нотации
 
-		<h5>Примеры партитур в киевской нотации</h5>
-		<ul>
-		<li>
-		Дал еси знамение (самоподобен, глас 4, знаменный роспев): <a href="http://www.ponomar.net/files/dalesi.ly">исходный файл LilyPond</a> |
-		<a href="http://www.ponomar.net/files/dalesi.pdf">PDF</a> | <a href="http://www.ponomar.net/files/dalesi.midi">MIDI</a></li>
-		<li>Седален, глас 5, болгарский роспев: <a href="http://www.ponomar.net/files/sessional5.ly">исходный файл LilyPond</a> |
-		<a href="http://www.ponomar.net/files/sessional5.pdf">PDF</a> | <a href="http://www.ponomar.net/files/sessional5.midi">MIDI</a>
-		</li>
-		</ul>
+* Дал еси знамение (самоподобен, глас 4, знаменный роспев): 
+  [Исходный код LilyPond](http://www.ponomar.net/files/dalesi.ly) |
+  [PDF](http://www.ponomar.net/files/dalesi.pdf) |
+  [MIDI](http://www.ponomar.net/files/dalesi.midi)
+* Седален, глас 5, болгарский роспев: 
+  [Исходный код LilyPond](http://www.ponomar.net/files/sessional5.ly) |
+  [PDF](http://www.ponomar.net/files/sessional5.pdf) |
+  [MIDI](http://www.ponomar.net/files/sessional5.midi)
 
-		<h4><a name="conv">Преобразователи</a></h4>
-		<p>Утилита zf2ly преобразует материал с сайта <a href="http://www.znamen.ru/" Target="_new">Знаменного фонда</a> в формат LilyPond. Крюки пока не поддерживаются, преобразуется только подтекстовка и ноты, либо в круглую, либо в квадратную нотацию. Используйте на свой страх и риск. Скачать: <A Href="http://www.ponomar.net/cgi-bin/fetch_script.cgi?target=zf2ly">отсюда</A> (под Windows Вам потребуется <a href="http://strawberryperl.com/" target="_blank">Strawberry Perl</a>)
-		</p>
-		
-		<h5>Примеры партитур с Знаменного фонда</h5>
-		<p>
-		Богородичен от малых, Глас 1. Круглая нотация: (<a href="http://www.ponomar.net/files/lesser_theotokion1.pdf">PDF</a> | <a href="http://www.ponomar.net/files/lesser_theotokion1.ly">Исходный код LilyPond</a>) | Квадратная нотация (<a href="http://www.ponomar.net/files/lesser_theotokion1_k.pdf">PDF</a> | <a href="http://www.ponomar.net/files/lesser_theotokion1_k.ly">Исходный код LilyPond</a>) | (<a href="http://www.ponomar.net/files/lesser_theotokion1.midi">MIDI</a>)<br>
-		Богородичен от малых, Глас 2. Круглая нотация:  (<a href="http://www.ponomar.net/files/lesser_theotokion2.pdf">PDF</a> | <a href="http://www.ponomar.net/files/lesser_theotokion2.ly">Исходный код LilyPond</a>) | Квадратная нотация (<a href="http://www.-ponomar.net/files/lesser_theotokion2_k.pdf">PDF</a> | <a href="http://www.ponomar.net/files/lesser_theotokion2_k.ly">Исходный код LilyPond</a>) | (<a href="http://www.ponomar.net/files/lesser_theotokion2.mido">MIDI</a>)<br>
-		</p>
 
-		<p>Освободитесь наконец от рабства закрытым программам по набору музыкальных партитур! Эти утилиты помогут Вам сконвертировать партитуры в LilyPond:
-		<ul>
-			<li>Преобразователь из NoteWorthy Composer в LilyPond (<a href="http://nwc2ly.sourceforge.net/" target="_blank">здесь</a>)</li>
-			<li>Преобразователь из формата MusicXML в LilyPond (<a href="http://www.nongnu.org/xml2ly/" target="_blank">здесь</a>) [этот преобразователь можно использовать для конвертирования из формата Finale]</li>
-			<li>Преобразователь из Sibelius в LilyPond (<a href="http://sib2ly.sourceforge.net/" target="_blank">здесь</a>)</li>
-		</ul>
-		</p>
-		
-		<h4>Шрифты для киевской нотации</h4>
-		<ul>
-			<li>Если Вы набираете партитуры, мы советуем использовать программу <a href="http://www.lilypond.org/" target="_blank">LilyPond</a></li>
-			<li>Если Вам нужны глифы киевских нот для набора текстов, мы рекомендуем шрифт Musica с сайта Георгия Дуроса: <a href="http://users.teilar.gr/~g1951d/" target="_blank">скачать</a>;</li>
-			<li>Или шрифт Bravura, <a href="http://www.smufl.org/fonts/" target="_blank">доступный с сайта SMuFL</a></li>
-		</ul>
-		<p>Шрифт Metasuprasl изначально разработан авторами проекта для набора квадратной нотации. Глифы теперь включены в состав функциональных шрифтов Musica и Bravura. Однако шрифт может быть полезен для настройки программ набора нотации для работы с квадратной нотой</p>
-		
-		<table cellpadding=0 cellspacing=0 border=0 align="center">
-		<tr>
-			<td><b>Наименование</b></td>
-			<td><b>Скачать</b><td>
-		</tr>
-		<tr>
-			<td valign="top">Metasuprasl Regular</td>
-			<td valign="top">
-			Версия 1.3<br>
-			<b>Шрифтовые файлы</b>:<br>
-			Формат OpenType (<A Href="http://www.ponomar.net/files/Metasuprasl-Regular.otf">здесь</a>)<br>
-			Формат TrueType, фичи OpenType и Graphite (<A Href="http://www.ponomar.net/files/Metasuprasl-SIL.ttf">отсюда</a>)<br>
-			<br>
-			<b>Исходный код</b>:<br>
-			<A HREF="http://www.ponomar.net/files/Metasuprasl-Regular.sfd">FontForge</A><br>
-			<A Href="http://www.ponomar.net/files/Metasuprasl-Regular.gdl">Файл Graphite Description Language (GDL)</A><BR>
-			<br>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">Шрифт Metasuprasl Regular можно использовать для набора квадратной ноты в текстовом редакторе. Вариант половинной ноты с длинным хвостом вверх доступен через фичу <I>salt</I></td>
-		</tr>
-		
-		<tr>
-			<td valign="top">Metasuprasl Notational</td>
-			<td valign="top">
-			Версия 1.1<br>
-			<b>Исходный код</b>:<br>
-			<A Href="http://www.ponomar.net/files/metasuprasl.mf">На языке METAFONT</A>
-			<br>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">Шрифт Metasuprasl Notational предназначен для загрузки в программы по набору нот. Измените метрику шрифта в файле METAFONT для вашей программы, скомпилируйте его в формат Type1 используя <A Href="http://www.ctan.org/pkg/mf2pt1" Target="_blank">mf2pt1</A>. <B>Лицензия</B>: Metasuprasl распространяется согласно с условиями лицензии GNU GPL (v. 3 или выше) с обычным исключением для шрифтов или, по вашему усмотрению, согласно с условиями лицензии SIL Open Font License.</td>
-		</tr>
-		</table>
-		</p>
-		
-		<h4>Кодирование</h4>
-		<p>
-		<ul>
-			<LI>A. Andreev, Y. Shardt, and N. Simmons. <A Href="http://www.ponomar.net/files/kievan.pdf">Proposal to Encode Medieval East-Slavic Music Notation in Unicode</A> [Accepted]</LI>
-			<LI>Документация стандарта SMuFL (Standard Music Font Layout), который описывает кодирование дополнительных музыкальных символов в Зоне личного пользования (<A Href="http://www.smufl.org/download/" target="_blank">здесь</a>)</LI>
-		</ul>
-		</p>
-		
-		<h4>Музыковедение</h4>
-		<p>
-		Разная информация для работы с музыкальными источниками
-		<ul>
-			<li><A href="http://www.ponomar.net/files/automela.pdf">Standardization of Automela</A> [PONOMAR GREEN PAPER]</li>
-		</ul>
-		</p>
+### Преобразователи
 
-	</tr>
-	<tr>
-		<td colspan="5" class="copyright">
-		Материалы проекта Пономарь &copy; 2005-2015 Александр Андреев  и другие
-		<br>
-		Вся информация на этом сайте предоставлена без каких бы то ни было гарантийных обязательств.
-		<br>
-		<center><a href="javascript:openWindow('http://www.ponomar.net/legal.html');">Юридическая справка</a>
-		| <a href="javascript:openWindow('http://www.ponomar.net/mailme.html');">Обратная связь</a></center>
-		</td>
-	</tr>
-</table>
-</body>
-</html> 
+Утилита `zf2ly` преобразует материал с сайта [Знаменного фонда](http://www.znamen.ru/) в формат LilyPond. 
+Крюки пока не поддерживаются, преобразуется только подтекстовка и ноты, либо в круглую, либо в квадратную нотацию. 
+Используйте на свой страх и риск. Скачать: [отсюда](http://www.ponomar.net/cgi-bin/fetch_script.cgi?target=zf2ly)
+(под Windows Вам потребуется [Strawberry Perl](http://strawberryperl.com/))
+		
+Примеры партитур с Знаменного фонда
 
+* Богородичен от малых, Глас 1. 
+  [MIDI](http://www.ponomar.net/files/lesser_theotokion1.midi)
+  + Круглая нотация: 
+    [Исходный код LilyPond](http://www.ponomar.net/files/lesser_theotokion1.ly) |
+    [PDF](http://www.ponomar.net/files/lesser_theotokion1.pdf)
+  + Квадратная нотация:
+    [Исходный код LilyPond](http://www.ponomar.net/files/lesser_theotokion1_k.ly) |
+    [PDF](http://www.ponomar.net/files/lesser_theotokion1_k.pdf)
+* Богородичен от малых, Глас 2. 
+  [MIDI](http://www.ponomar.net/files/lesser_theotokion2.midi)
+  + Круглая нотация:
+    [Исходный код LilyPond](http://www.ponomar.net/files/lesser_theotokion2.ly) |
+    [PDF](http://www.ponomar.net/files/lesser_theotokion2.pdf)
+  + Квадратная нотация:
+    [Исходный код LilyPond](http://www.ponomar.net/files/lesser_theotokion2_k.ly) |
+    [PDF](http://www.-ponomar.net/files/lesser_theotokion2_k.pdf)
+
+
+Освободитесь наконец от рабства закрытым программам по набору музыкальных партитур! 
+Эти утилиты помогут Вам сконвертировать партитуры в LilyPond:
+
+* Преобразователь из NoteWorthy Composer в LilyPond ([здесь](http://nwc2ly.sourceforge.net/)
+* Преобразователь из формата MusicXML в LilyPond ([здесь](http://www.nongnu.org/xml2ly/)) 
+  [этот преобразователь можно использовать для конвертирования из формата Finale]
+* Преобразователь из Sibelius в LilyPond ([здесь](http://sib2ly.sourceforge.net/))
+
+### Шрифты для киевской нотации
+
+*  Если Вы набираете партитуры, мы советуем использовать программу [LilyPond](http://www.lilypond.org/)
+* Если Вам нужны глифы киевских нот для набора текстов, мы рекомендуем шрифт Musica с сайта Георгия Дуроса: 
+  [скачать](http://users.teilar.gr/~g1951d/);
+* Или шрифт Bravura, [доступный с сайта SMuFL](http://www.smufl.org/fonts/)
+
+Шрифт Metasuprasl изначально разработан авторами проекта для набора квадратной нотации. 
+Глифы теперь включены в состав функциональных шрифтов Musica и Bravura. 
+Однако шрифт может быть полезен для настройки программ набора нотации для работы с квадратной нотой
+
+#### Metasuprasl Regular, Версия 1.3
+
+* **Шрифтовые файлы**:
+  + Формат OpenType ([здесь](http://www.ponomar.net/files/Metasuprasl-Regular.otf)
+  + Формат TrueType, возможности OpenType и Graphite ([отсюда](http://www.ponomar.net/files/Metasuprasl-SIL.ttf))
+* **Исходный код**:
+  + [FontForge](http://www.ponomar.net/files/Metasuprasl-Regular.sfd)
+  + [Файл Graphite Description Language (GDL)](http://www.ponomar.net/files/Metasuprasl-Regular.gdl)
+  
+Шрифт Metasuprasl Regular можно использовать для набора квадратной ноты в текстовом редакторе. 
+Вариант половинной ноты с длинным хвостом вверх доступен через фичу _salt_
+
+#### Metasuprasl Notational, Версия 1.1
+
+* **Исходный код**:
+  + [На языке METAFONT](http://www.ponomar.net/files/metasuprasl.mf)
+
+Шрифт Metasuprasl Notational предназначен для загрузки в программы по набору нот. 
+Измените метрику шрифта в файле METAFONT для вашей программы, скомпилируйте его в формат Type1 используя 
+[`mf2pt1`](http://www.ctan.org/pkg/mf2pt1).
+
+**Лицензия**: Metasuprasl распространяется согласно с условиями лицензии GNU GPL (v. 3 или выше) с 
+обычным исключением для шрифтов или, по вашему усмотрению, согласно с условиями лицензии SIL Open Font License.
+
+### Кодирование
+
+* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Medieval East-Slavic Music Notation in Unicode](http://www.ponomar.net/files/kievan.pdf) [Accepted]
+
+* Документация стандарта SMuFL (Standard Music Font Layout), который описывает кодирование дополнительных 
+  музыкальных символов в Зоне личного пользования ([здесь](http://www.smufl.org/download/))
+
+### Музыковедение
+
+Разная информация для работы с музыкальными источниками
+
+* [Standardization of Automela](http://www.ponomar.net/files/automela.pdf) [PONOMAR GREEN PAPER]
