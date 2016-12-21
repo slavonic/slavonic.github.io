@@ -54,24 +54,6 @@ _Все документы на английском и в формате PDF_
 
 * A. Andreev, M. Chin and Y. Shardt. [Proposal to Add the Palladius Transcription to the UniHan Database](http://www.ponomar.net/files/palladius.pdf) [**Submitted**]
 
-???
-
-* Y. Shardt and A. Andreev. <A Href="http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3772.pdf">Proposal to Encode the Typikon Symbols in Unicode</A> [<B>Accepted</B>]</LI>
-	<LI>Y. Shardt, N. Simmons and A. Andreev. <A Href="http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3971.pdf"> Proposal to Encode the Typikon Symbols in Unicode Part 2: Old-Rite Symbols</A> [<B>Accepted</B>]</LI>
-	<LI>Y. Shardt, N. Simmons and A. Andreev. <A Href="http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3974.pdf">Proposal to Encode Some Outsanding Early Cyrillic Characters in Unicode</A> [<B>Accepted</B>]</LI>
-	<LI>A. Andreev, Y. Shardt, and N. Simmons. <A Href="http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3998.pdf">Proposal to Encode the Mark's Chapter Glyph in Unicode</A> [<B>Accepted</B>]</LI>
-	<LI>A. Andreev, Y. Shardt, and N. Simmons. <A Href="http://www.ponomar.net/files/letteref.pdf">Proposal to Encode an Outsanding Early Cyrillic Character in Unicode</A> [<B>Accepted</B>]</LI>
-	<LI>Y. Shardt, M. Chin, A. Andreev and D. Andersen (<a href="http://linguistics.berkeley.edu/sei/" target="_blank">UC Berkeley</a>). <A Href="http://www.ponomar.net/files/sinographs.pdf">Proposal to Encode Chinese Characters used to Transliterate Slavonic</A> [<B>Accepted</B>]</LI>
-	
-	<LI>A. Andreev, Y. Shardt, and N. Simmons. <A Href="http://www.ponomar.net/files/variants_final2.pdf">Proposal to Encode Additional Cyrillic Characters used in Church Slavonic</A> <b>[Accepted]</b></LI>
-	<LI>A. Andreev, Y. Shardt, and N. Simmons. <A Href="http://www.ponomar.net/files/halfmarks.pdf">Proposal to Encode Combining Half Marks Used for Cyrillic Supralineation in Unicode</A> <b>[Accepted]</b></LI>
-	<LI>A. Andreev, Y. Shardt, and N. Simmons. <A Href="http://www.ponomar.net/files/dash_with_upturn.pdf">Proposal to Encode a Slavonic Punctuation Character in Unicode</A><b> [Accepted]</b></LI>
-	<LI>A. Andreev, H. Miklas, and Y. Shardt. <A Href="http://www.ponomar.net/files/glagolitic.pdf">Proposal to Encode Combining Glagolitic Letters in Unicode</A><b> [Accepted]</b></LI>
-	<LI>A. Andreev, Y. Shardt and N. Simmons <A href="http://www.ponomar.net/files/double_titli.pdf">Request for Clarifications Regarding the Encoding of Certain Cyrillic Characters</A> <b>[Accepted]</b></LI>
-	<LI>A. Andreev, Y. Shardt and N. Simmons <A Href="http://www.ponomar.net/files/typicon_additional.pdf">Proposal to Encode some Additional Symbols used in
-Church Slavonic Text</A><b> [Accepted]</b></LI>
-	<LI>A. Andreev, M. Chin and Y. Shardt <A Href="http://www.ponomar.net/files/palladius.pdf">Proposal to Add the Palladius Transcription to the UniHan Database</A> (транскрипция китайских иероглифов кириллицей)<b> [Submitted]</b></LI>
-	</UL></p>
 
 ### Станадртизация церковнославянского языка
 
@@ -83,11 +65,3 @@ Church Slavonic Text</A><b> [Accepted]</b></LI>
 * [Church Slavonic Plural Rules](http://www.ponomar.net/files/plurals.pdf)
 
 * [Church Slavonic Style Manual](http://www.ponomar.net/wiki/doku.php?id=church_slavonic_style_manual)
-
-
-		<ul>
-			<li><A href="http://www.ponomar.net/files/cldr.zip">Materials for an Application to Create a Church Slavonic Locale in the Common Locale Data Repository (CLDR) of Unicode</A></li>
-			<li><A href="http://www.ponomar.net/files/plurals.pdf">Church Slavonic Plural Rules</A></li>
-			<li> <a href="http://www.ponomar.net/wiki/doku.php?id=church_slavonic_style_manual">Church Slavonic Style Manual</A></li>
-		</ul>
-
