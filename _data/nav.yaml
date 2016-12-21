@@ -7,6 +7,8 @@ en:
     link:  /keyboard.html
   - title: Editors
     link:  /users.html
+  - title: Technical Specs
+    link:  /dox
   - title: About
     link:  /about
   - title: Software
@@ -23,6 +25,8 @@ ru:
     link:  /ru/keyboard.html
   - title: Набор
     link:  /ru/users.html
+  - title: Документация
+    link:  /ru/dox
   - title: Инфо
     link:  /ru/info
   - title: Программы
