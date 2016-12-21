@@ -9,6 +9,8 @@ en:
     link:  /users.html
   - title: Technical Specs
     link:  /dox
+  - title: Znamenny Notation
+    link:  /music
   - title: About
     link:  /about
   - title: Software
@@ -27,6 +29,8 @@ ru:
     link:  /ru/users.html
   - title: Документация
     link:  /ru/dox
+  - title: Знаменная нотация
+     link: /ru/music
   - title: Инфо
     link:  /ru/info
   - title: Программы
