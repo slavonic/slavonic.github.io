@@ -77,19 +77,22 @@
 
 .pomorsky-dropcaps {
   font-family: 'Pomorsky Unicode';
-  font-size: 400%;
+  font-size: 5em;
   float : left;
   color : red;
   margin-top: -0.1em;
-  margin-right: 0.1em;
+  margin-right: 0.05em;
+  margin-bottom: -0.5em;
 }
 
 .indiction-dropcaps {
   font-family: 'Indiction Unicode';
-  font-size: 400%;
+  font-size: 4em;
   float : left;
   color : red;
-  margin-top: -0.2em;
+  margin-top: -0.3em;
+  margin-right: 0.05em;
+  margin-bottom: -0.5em;
 }
 
 .sample {
