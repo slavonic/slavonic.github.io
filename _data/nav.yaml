@@ -13,8 +13,8 @@ en:
     link:  /music
   - title: Kievan Notation
     link:  /kievan
-  - title: Blog
-    link:  /blog
+  - title: Tools
+    link:  /tools
 
 ru:
   - title: Основная
@@ -31,5 +31,5 @@ ru:
     link: /ru/music
   - title: Киевская нотация
     link: /ru/kievan
-  - title: Блог
-    link:  /ru/blog
+  - title: Инструментарий
+    link:  /ru/tools
