@@ -22,7 +22,7 @@ The Church Slavonic virtual keyboard allows you to type in Church Slavonic witho
 the text into your browser and then copy/paste it into a text editor. Both the Church Slavonic keyboard and the 
 Extended Russian are available (click on CU in the lower left-hand corner of the virtual keyboard to switch layouts).
 
-[Click here to proceed to the virtual keyboard](http://ponomar.net/cu_vkeyb.html)
+[Click here to proceed to the virtual keyboard](http://www.ponomar.net/cu_vkeyb.html)
 
 ### Installable keyboard drivers
 
@@ -35,7 +35,7 @@ This section provides software that you can install onto your computer in order 
 
 #### Apple OS X
 
-* [Russian Extended](href="http://www.ponomar.net/files/ru-ext_mac.zip)
+* [Russian Extended](http://www.ponomar.net/files/ru-ext_mac.zip)
 * [Church Slavonic Standard](http://www.ponomar.net/files/cukeyb_mac1.zip)
 
 #### Linux
