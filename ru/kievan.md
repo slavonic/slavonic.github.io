@@ -66,7 +66,7 @@ lang: ru
     [PDF](http://www.ponomar.net/files/lesser_theotokion2.pdf)
   + Квадратная нотация:
     [Исходный код LilyPond](http://www.ponomar.net/files/lesser_theotokion2_k.ly) |
-    [PDF](http://www.-ponomar.net/files/lesser_theotokion2_k.pdf)
+    [PDF](http://www.ponomar.net/files/lesser_theotokion2_k.pdf)
 
 
 Освободитесь наконец от рабства закрытым программам по набору музыкальных партитур! 
