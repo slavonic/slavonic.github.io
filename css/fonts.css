@@ -5,36 +5,36 @@
   font-family: 'Ponomar Unicode';
   font-weight: normal;
   font-style: normal;
-  src: url('PonomarUnicode.eot');
+  src: url('/files/PonomarUnicode.eot');
   src: local('☺︎'),
-       url('PonomarUnicode.eot?#iefix') format('embedded-opentype'),
-       url('PonomarUnicode.woff2') format('woff2'),
-       url('PonomarUnicode.woff') format('woff'),
-       url('PonomarUnicode.ttf') format('truetype');
+       url('/files/PonomarUnicode.eot?#iefix') format('embedded-opentype'),
+       url('/files/PonomarUnicode.woff2') format('woff2'),
+       url('/files/PonomarUnicode.woff') format('woff'),
+       url('/files/PonomarUnicode.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Fedorovsk Unicode';
   font-weight: normal;
   font-style: normal;
-  src: url('FedorovskUnicode.eot');
+  src: url('/files/FedorovskUnicode.eot');
   src: local('☺︎'),
-       url('FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
-       url('FedorovskUnicode.woff2') format('woff2'),
-       url('FedorovskUnicode.woff') format('woff'),
-       url('FedorovskUnicode.ttf') format('truetype');
+       url('/files/FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
+       url('/files/FedorovskUnicode.woff2') format('woff2'),
+       url('/files/FedorovskUnicode.woff') format('woff'),
+       url('/files/FedorovskUnicode.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Menaion Unicode';
   font-weight: normal;
   font-style: normal;
-  src: url('MenaionUnicode.eot');
+  src: url('/files/MenaionUnicode.eot');
   src: local('☺︎'),
-       url('MenaionUnicode.eot?#iefix') format('embedded-opentype'),
-       url('MenaionUnicode.woff2') format('woff2'),
-       url('MenaionUnicode.woff') format('woff'),
-       url('MenaionUnicode.ttf') format('truetype');
+       url('/files/MenaionUnicode.eot?#iefix') format('embedded-opentype'),
+       url('/files/MenaionUnicode.woff2') format('woff2'),
+       url('/files/MenaionUnicode.woff') format('woff'),
+       url('/files/MenaionUnicode.ttf') format('truetype');
 }
 
 @font-face {
@@ -43,32 +43,32 @@
   font-style: normal;
   src: url('MonomakhUnicode.eot');
   src: local('☺︎'),
-       url('MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
-       url('MonomakhUnicode.woff2') format('woff2'),
-       url('MonomakhUnicode.woff') format('woff'),
-       url('MonomakhUnicode.ttf') format('truetype');
+       url('/files/MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
+       url('/files/MonomakhUnicode.woff2') format('woff2'),
+       url('/files/MonomakhUnicode.woff') format('woff'),
+       url('/files/MonomakhUnicode.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Indiction Unicode';
   font-weight: normal;
   font-style: normal;
-  src: url('IndictionUnicode.eot');
+  src: url('/files/IndictionUnicode.eot');
   src: local('☺︎'),
-       url('IndictionUnicode.eot?#iefix') format('embedded-opentype'),
-       url('IndictionUnicode.woff2') format('woff2'),
-       url('IndictionUnicode.woff') format('woff'),
-       url('IndictionUnicode.ttf') format('truetype');
+       url('/files/IndictionUnicode.eot?#iefix') format('embedded-opentype'),
+       url('/files/IndictionUnicode.woff2') format('woff2'),
+       url('/files/IndictionUnicode.woff') format('woff'),
+       url('/files/IndictionUnicode.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Pomorsky Unicode';
   font-weight: normal;
   font-style: normal;
-  src: url('PomorskyUnicode.eot');
+  src: url('/files/PomorskyUnicode.eot');
   src: local('☺︎'),
-       url('PomorskyUnicode.eot?#iefix') format('embedded-opentype'),
-       url('PomorskyUnicode.woff2') format('woff2'),
-       url('PomorskyUnicode.woff') format('woff'),
-       url('PomorskyUnicode.ttf') format('truetype');
+       url('/files/PomorskyUnicode.eot?#iefix') format('embedded-opentype'),
+       url('/files/PomorskyUnicode.woff2') format('woff2'),
+       url('/files/PomorskyUnicode.woff') format('woff'),
+       url('/files/PomorskyUnicode.ttf') format('truetype');
 }
