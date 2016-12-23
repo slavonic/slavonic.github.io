@@ -2,7 +2,9 @@
 layout: default
 ref: fonts
 lang: ru
-css: fonts
+css:
+  - fonts
+  - sample
 ---
 ## Церковнославянские шрифты в Юникоде
 
