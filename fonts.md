@@ -2,7 +2,9 @@
 layout: default
 ref: fonts
 lang: en
-css: fonts
+css: 
+  - fonts
+  - sample
 ---
 ## Church Slavonic Fonts in Unicode
 
