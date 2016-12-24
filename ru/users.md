@@ -70,7 +70,7 @@ lang: ru
   документа церковнославянский и не сможете использовать перенос слов и другие возможности.
   
 * Установите словарь церковнославянских переносов. Для этого скачайте словарь 
-  [отсюда](http://extensions.libreoffice.org/extension-center/church-slavonic-dictionary). 
+  [отсюда](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary). 
   Далее откройте LibreOffice, в меню `Tools` выберите `Extension Manager`. В окне `Extension Manager` щелкните 
   кнопку `Add...` и выберите файл `cu-lo.oxt`. Щелкните `Accept` чтобы принять лицензионное соглашение.
   ![install extension](http://www.ponomar.net/images/extension_install.png)
