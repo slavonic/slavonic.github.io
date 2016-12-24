@@ -132,7 +132,7 @@ lang: ru
 
 Если Вы установили церковнославянские шрифты [с этой страницы](http://www.ponomar.net/cu_support/fonts.html),
 то Вы сможете верстать церковнославянский текст в программе Adobe InDesign. Для поддержки переноса слов, 
-скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extension-center/church-slavonic-dictionary); 
+скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary); 
 затем следуйте инструкции [здесь](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
 чтобы установить их в InDesign. Нумерация страниц кириллической цифирью не поддерживается. 
 Попытайтесь связаться с [Adobe](https://helpx.adobe.com/contact.html?step=IDSN) или перейдите на LibreOffice.
