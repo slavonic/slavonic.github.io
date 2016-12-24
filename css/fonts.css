@@ -1,103 +1,69 @@
-@font-face {
-  font-family: 'Ponomar Unicode';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Ponomar Unicode'), 
-    url(https://slavonic.github.io/files/PonomarUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/PonomarUnicode.woff) format('woff'),
-    url(https://slavonic.github.io/files/PonomarUnicode.ttf) format('ttf');
-}
+/* Web Font CSS declaration for Church Slavonic fonts */
+/* Slavonic Computing Initiative (http://sci.ponomar.net/) */
 
 @font-face {
-  font-family: 'Fedorovsk Unicode';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Fedorovsk Unicode'), 
-    url(https://slavonic.github.io/files/FedorovskUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/FedorovskUnicode.woff) format('woff'),
-    url(https://slavonic.github.io/files/FedorovskUnicode.ttf) format('ttf');
+    font-family: 'Ponomar Unicode';
+    src: url('../fonts/PonomarUnicode.eot');
+    src: url('../fonts/PonomarUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PonomarUnicode.woff2') format('woff2'),
+	url('../fonts/PonomarUnicode.woff') format('woff'),
+	url('../fonts/PonomarUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Menaion Unicode';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Menaion Unicode'), 
-    url(https://slavonic.github.io/files/MenaionUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/MenaionUnicode.woff) format('woff'),
-    url(https://slavonic.github.io/files/MenaionUnicode.ttf) format('ttf');
+    font-family: 'Fedorovsk Unicode';
+    src: url('../fonts/FedorovskUnicode.eot');
+    src: url('../fonts/FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/FedorovskUnicode.woff2') format('woff2'),
+	url('../fonts/FedorovskUnicode.woff') format('woff'),
+	url('../fonts/FedorovskUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Monomakh Unicode';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Monomakh Unicode'), 
-    url(https://slavonic.github.io/files/MonomakhUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/MonomakhUnicode.woff) format('woff'),
-    url(https://slavonic.github.io/files/MonomakhUnicode.ttf) format('ttf');
+    font-family: 'Menaion Unicode';
+    src: url('../fonts/MenaionUnicode.eot');
+    src: url('../fonts/MenaionUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/MenaionUnicode.woff2') format('woff2'),
+	url('../fonts/MenaionUnicode.woff') format('woff'),
+	url('../fonts/MenaionUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Pomorsky Unicode';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Pomorsky Unicode'), 
-    url(https://slavonic.github.io/files/PomorskyUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/PomorskyUnicode.woff) format('woff'),
-    url(https://slavonic.github.io/files/PomorskyUnicode.ttf) format('ttf');
+    font-family: 'Monomakh Unicode';
+    src: url('../fonts/MonomakhUnicode.eot');
+    src: url('../fonts/MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/MonomakhUnicode.woff2') format('woff2'),
+	url('../fonts/MonomakhUnicode.woff') format('woff'),
+	url('../fonts/MonomakhUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: 'Indiction Unicode';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Indiction Unicode'), 
-    url(https://slavonic.github.io/files/IndictionUnicode.woff2) format('woff2'),
-    url(https://slavonic.github.io/files/IndictionUnicode.woff) format('woff'),
-    url(https://slavonic.github.io/files/IndictionUnicode.ttf) format('ttf');
+    font-family: 'Indiction Unicode';
+    src: url('../fonts/IndictionUnicode.eot');
+    src: url('../fonts/IndictionUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/IndictionUnicode.woff2') format('woff2'),
+	url('../fonts/IndictionUnicode.woff') format('woff'),
+	url('../fonts/IndictionUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
-.ponomar {
-  font-family: 'Ponomar Unicode';
+@font-face {
+    font-family: 'Pomorsky Unicode';
+    src: url('../fonts/PomorskyUnicode.eot');
+    src: url('../fonts/PomorskyUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PomorskyUnicode.woff2') format('woff2'),
+	url('../fonts/PomorskyUnicode.woff') format('woff'),
+	url('../fonts/PomorskyUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
-.fedorovsk {
-  font-family: 'Fedorovsk Unicode';
-}
-
-.menaion {
-  font-family: 'Menaion Unicode';
-  line-height: 1.5em;
-}
-
-.monomakh {
-  font-family: 'Monomakh Unicode';
-}
-
-.pomorsky-dropcaps {
-  font-family: 'Pomorsky Unicode';
-  font-size: 5em;
-  float : left;
-  color : red;
-  margin-top: -0.1em;
-  margin-right: 0.05em;
-  margin-bottom: -0.5em;
-}
-
-.indiction-dropcaps {
-  font-family: 'Indiction Unicode';
-  font-size: 4em;
-  float : left;
-  color : red;
-  margin-top: -0.3em;
-  margin-right: 0.05em;
-  margin-bottom: -0.5em;
-}
-
-.sample {
-  margin: 1em 5em 1em 5em;
-  padding: 0.5em;
-  border: 1pt solid lightgrey;
-  font-size: 1.5em;
-}
