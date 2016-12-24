@@ -131,7 +131,7 @@ We suggest [using LibreOffice](https://www.libreoffice.org/download/libreoffice-
 Once you have installed the Church Slavonic fonts from [this page](fonts.html), you should be able to work with Church 
 Slavonic texts in Adobe InDesign. To get support for Church Slavonic hyphenation, 
 download the 
-[Church Slavonic Dictionary Extension for LibreOffce](http://extensions.libreoffice.org/extension-center/church-slavonic-dictionary);
+[Church Slavonic Dictionary Extension for LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary);
 then follow the instructions [here](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html) to install it into InDesign.
 Page numbering using Cyrillic numerals is not available. If you need it, [ask Adobe](https://helpx.adobe.com/contact.html?step=IDSN)
 to add this feature or switch to LibreOffice.
