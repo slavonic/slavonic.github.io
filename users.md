@@ -66,7 +66,7 @@ hyphenation and sorting.
   of hyphenation and other features.
 
 * Install the Church Slavonic Hyphenation extension. To do this, download the extension from 
-  [here](http://extensions.libreoffice.org/extension-center/church-slavonic-dictionary).
+  [here](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary).
   To install, open LibreOffice, from the Tools menu select Extension Manager. The Extension Manager window will open. 
   Click the Add... button, and select the cu-lo.oxt file. When the License Agreement window opens, scroll to the end of 
   the license agreement text and click Accept.
