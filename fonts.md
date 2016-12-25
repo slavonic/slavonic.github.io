@@ -45,6 +45,7 @@ css:
   [Download](http://www.ponomar.net/files/MenaionUnicode.zip)
   <div class="menaion sample" contenteditable="true">
      Искони бѣ слово и слово бѣ отъ б҃а и б҃ъ бѣ слово  𝀏
+  </div>
   <div class="menaion sample" contenteditable="true">
       Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
   </div>
