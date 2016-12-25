@@ -35,23 +35,19 @@ css:
   что удобно для набора текстов на разных языках.
   [Скачать](http://www.ponomar.net/files/MonomakhUnicode.zip)
   <div class="monomakh sample" contenteditable="true">
-    <div style="float: left; width=45%">
-      Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де на совѣ́тъ нечести́выхъ, и҆ на пꙋтѝ грѣ́шныхъ не ста̀, и҆ на сѣда́лищи гꙋби́телей не сѣ́де: но въ зако́нѣ гдⷭ҇ни во́лѧ є҆гѡ̀, и҆ въ зако́нѣ є҆гѡ̀ поꙋчи́тсѧ де́нь и҆ но́щь.
-    </div>
-    <div style="float: right; width=45%">
-      Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
-    </div>
+    Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де на совѣ́тъ нечести́выхъ, и҆ на пꙋтѝ грѣ́шныхъ не ста̀, и҆ на сѣда́лищи гꙋби́телей не сѣ́де: но въ зако́нѣ гдⷭ҇ни во́лѧ є҆гѡ̀, и҆ въ зако́нѣ є҆гѡ̀ поꙋчи́тсѧ де́нь и҆ но́щь.
+  </div>
+  <div class="monomakh sample" contenteditable="true">
+    Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
   </div>
 
 * Menaion Unicode рассчитан для набора текста кириллических и глаголических рукописей периода устава (X-XV вв.). 
   [Скачать](http://www.ponomar.net/files/MenaionUnicode.zip)
   <div class="menaion sample" contenteditable="true">
-    <div style="float: left; width=45%">
        Искони бѣ слово и слово бѣ отъ б҃а и б҃ъ бѣ слово  𝀏
-     </div>
-     <div style="float: left; width=45%>
+  </div>
+  <div class="menaion sample" contenteditable="true">
         Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
-     </div>
   </div>
 
 * Pomorsky Unicode предназначен для оформления декоративных заголовков и буквиц, воспроизводит начертание декоративных 
