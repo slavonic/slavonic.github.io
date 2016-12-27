@@ -2,7 +2,7 @@
   <a class="navbar-brand" href="/">{{ site.data.name[page.lang] }}</a>
   <ul class="nav navbar-nav">
     {% for item in site.data.nav[page.lang] %}
-      {% if item.url == page.url %}
+      {% if item.link == page.url %}
         <li class="nav-item active"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
       {% else %}
         <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
