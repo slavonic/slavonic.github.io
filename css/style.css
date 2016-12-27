@@ -20,4 +20,6 @@ a:hover {
 
 .small-logo {
     width: 24px;
+    margin-top: -12px;
+    margin-left: -12px;
 }
