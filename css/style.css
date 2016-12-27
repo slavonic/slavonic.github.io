@@ -17,3 +17,7 @@ a:hover {
     color: #373a3c;
     text-decoration: underline;
 }
+
+.small-logo {
+    width: 24px;
+}
