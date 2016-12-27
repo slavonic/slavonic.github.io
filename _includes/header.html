@@ -1,5 +1,5 @@
 <nav class="navbar navbar-static-top navbar-dark bg-inverse">
-  <a class="navbar-brand" href="/">site.data.name[page.lang]</a>
+  <a class="navbar-brand" href="/">{{ site.data.name[page.lang] }}</a>
   <ul class="nav navbar-nav">
     {% for item in site.data.nav[page.lang] %}
       {% if item.url == page.url %}
