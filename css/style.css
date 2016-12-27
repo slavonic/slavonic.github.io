@@ -3,6 +3,11 @@
     font-weight: bold;
 }
 
+.lang-selector {
+    text-align: right;
+    margin-right: 1em;
+}
+
 a {
     color: #818a91;
     text-decoration: none
