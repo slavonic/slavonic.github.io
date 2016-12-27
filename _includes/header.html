@@ -2,14 +2,14 @@
   <a class="navbar-brand" href="/">site.data.name[page.lang]</a>
   <ul class="nav navbar-nav">
     {% for item in site.data.nav[page.lang] %}
-      <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+      {% if item.url == page.url %}
+        <li class="nav-item active"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+      {% else %}
+        <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 </nav>
-{{ page.url | json }}
-{% for item in site.data.nav[page.lang] %}
-  {{ item | json }}
-{% endfor %}
 <div class="lang-selector" style="text-align: right; line-height: 2em">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
