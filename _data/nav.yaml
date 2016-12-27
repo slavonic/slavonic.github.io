@@ -1,31 +1,31 @@
 en:
   - title: Fonts
-    link:  /fonts
+    link:  /fonts.html
   - title: Keyboard
-    link:  /keyboard
+    link:  /keyboard.html
   - title: Editors
-    link:  /users
+    link:  /users.html
   - title: Technical Specs
-    link:  /dox
+    link:  /dox.html
   - title: Znamenny Notation
-    link:  /music
+    link:  /music.html
   - title: Kievan Notation
-    link:  /kievan
+    link:  /kievan.html
   - title: Tools
-    link:  /tools
+    link:  /tools.html
 
 ru:
   - title: Шрифты
-    link:  /ru/fonts
+    link:  /ru/fonts.html
   - title: Клавиатура
-    link:  /ru/keyboard
+    link:  /ru/keyboard.html
   - title: Набор
-    link:  /ru/users
+    link:  /ru/users.html
   - title: Документация
-    link:  /ru/dox
+    link:  /ru/dox.html
   - title: Знаменная нотация
-    link: /ru/music
+    link: /ru/music.html
   - title: Киевская нотация
-    link: /ru/kievan
+    link: /ru/kievan.html
   - title: Инструментарий
-    link:  /ru/tools
+    link:  /ru/tools.html
