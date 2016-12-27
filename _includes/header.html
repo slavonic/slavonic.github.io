@@ -1,7 +1,8 @@
-<nav>
-  <ul>
+<nav class="navbar navbar-static-top navbar-dark bg-inverse">
+  <a class="navbar-brand" href="/">site.data.name[page.lang]</a>
+  <ul class="nav navbar-nav">
     {% for item in site.data.nav[page.lang] %}
-      <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
     {% endfor %}
   </ul>
 </nav>
