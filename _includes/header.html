@@ -10,7 +10,7 @@
     {% endfor %}
   </ul>
 </nav>
-<div class="lang-selector" style="text-align: right; line-height: 2em">
+<div class="lang-selector">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
 
