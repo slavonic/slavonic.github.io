@@ -1,17 +1,3 @@
-footer ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
-
 /* make current language in lang selector bold */
 .en:lang(en), .fr:lang(fr), .zh:lang(zh), .ru:lang(ru) {
     font-weight: bold;
