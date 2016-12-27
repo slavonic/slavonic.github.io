@@ -17,3 +17,8 @@ a:hover {
     color: #373a3c;
     text-decoration: underline;
 }
+
+.footer {
+    margin-left: 1em;
+    margin-right: 1em;
+}
