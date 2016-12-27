@@ -1,12 +1,10 @@
 en:
-  - title: Home
-    link:  /
   - title: Fonts
-    link:  /fonts.html
+    link:  /fonts
   - title: Keyboard
-    link:  /keyboard.html
+    link:  /keyboard
   - title: Editors
-    link:  /users.html
+    link:  /users
   - title: Technical Specs
     link:  /dox
   - title: Znamenny Notation
@@ -17,14 +15,12 @@ en:
     link:  /tools
 
 ru:
-  - title: Основная
-    link:  /ru
   - title: Шрифты
-    link:  /ru/fonts.html
+    link:  /ru/fonts
   - title: Клавиатура
-    link:  /ru/keyboard.html
+    link:  /ru/keyboard
   - title: Набор
-    link:  /ru/users.html
+    link:  /ru/users
   - title: Документация
     link:  /ru/dox
   - title: Знаменная нотация
