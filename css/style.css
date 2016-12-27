@@ -22,3 +22,7 @@ a:hover {
     margin-top: -12px;
     margin-left: -12px;
 }
+
+.navbar {
+    margin-bottom: 2em;
+}
