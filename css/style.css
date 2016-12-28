@@ -44,3 +44,7 @@ a:hover {
 .featurette-image {
     width: 400px;
 }
+
+.featurette-divider {
+    margin-bottom: 3rem;
+}
