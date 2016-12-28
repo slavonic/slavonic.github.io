@@ -1,5 +1,9 @@
 <head>
+	{% if page.title %}
 	<title>{{ page.title }}</title>
+	{% else %}
+	<title>{{ site.title[page.lang] }}</title>
+	{% endif %}
 	
 	<!-- Required meta tags always come first -->
 	<meta charset="utf-8">
