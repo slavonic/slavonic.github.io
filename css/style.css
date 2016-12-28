@@ -23,6 +23,12 @@ a:hover {
     margin-left: -12px;
 }
 
+.big-log {
+    width: 32px;
+    margin-top: -4px;
+    margin-left: -4px;
+}
+
 .spacer {
     margin-bottom: 2em;
 }
