@@ -40,3 +40,7 @@ a:hover {
     border-radius: 0;
     padding: 6rem 2rem;
 }
+
+.featurette-image {
+    width: 400px;
+}
