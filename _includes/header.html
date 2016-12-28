@@ -1,27 +1,29 @@
 <nav class="navbar navbar-full navbar-light bg-faded">
-  {% assign home_link = "/" | append: page.lang | append: "/" %}
-  {% if home_link == "/en/" %}
-    {% assign home_link = "/" %}
-  {% endif %}
-  <a class="navbar-brand" href="{{ home_link }}">
-    <img class="big-logo" src="/images/logo.svg" alt="" />
-  </a>
-  <ul class="nav navbar-nav">
-    {% for item in site.data.nav[page.lang] %}
-      {% if item.link == page.url %}
-        <li class="nav-item active"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
-      {% else %}
-        <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  <ul class="nav navbar-nav navbar-right">
-    <li class="nav-item lang-selector">
-      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-      {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+  <div class="container-fluid">
+    {% assign home_link = "/" | append: page.lang | append: "/" %}
+    {% if home_link == "/en/" %}
+      {% assign home_link = "/" %}
+    {% endif %}
+    <a class="navbar-brand" href="{{ home_link }}">
+      <img class="big-logo" src="/images/logo.svg" alt="" />
+    </a>
+    <ul class="nav navbar-nav">
+      {% for item in site.data.nav[page.lang] %}
+        {% if item.link == page.url %}
+          <li class="nav-item active"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+        {% else %}
+          <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="nav-item lang-selector">
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
 
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-      {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
-    </li>
-  </ul>
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+      </li>
+    </ul>
+  </div>
 </nav>
