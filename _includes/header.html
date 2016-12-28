@@ -8,8 +8,8 @@
         <img class="big-logo" src="/images/logo.svg" alt="" />
       </a>
     </div>
-    <button class="navbar-toggler hidden-lg-up float-xs-right" type="button" data-toggle="collapse" data-target="#sciNavbar" aria-controls="sciNavbar" aria-expanded="false" aria-label="Toggle navigation"></button>
-    <div class="collapse navbar-toggleable-md" id="sciNavbar">
+    <button class="navbar-toggler hidden-md-up float-xs-right" type="button" data-toggle="collapse" data-target="#sciNavbar" aria-controls="sciNavbar" aria-expanded="false" aria-label="Toggle navigation"></button>
+    <div class="collapse navbar-toggleable-sm" id="sciNavbar">
       <ul class="nav navbar-nav">
         {% for item in site.data.nav[page.lang] %}
           {% if item.link == page.url %}
