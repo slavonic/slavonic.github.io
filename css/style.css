@@ -32,4 +32,5 @@ a:hover {
     background-size: cover;
     color: white;
     text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.8);
+    border-radius: 0;
 }
