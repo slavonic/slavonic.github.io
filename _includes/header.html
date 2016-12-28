@@ -4,7 +4,7 @@
     {% assign home_link = '/' %}
   {% endif %}
   <a class="navbar-brand" href="{{ home_link }}">
-    <object class="navbar-brand big-logo" data="/images/logo.svg" type="image/svg+xml"></object>
+    <img class="big-logo" src="/images/logo.svg" alt="" />
   </a>
   <ul class="nav navbar-nav">
     {% for item in site.data.nav[page.lang] %}
