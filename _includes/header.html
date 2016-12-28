@@ -9,7 +9,7 @@
         <img class="big-logo" src="/images/logo.svg" alt="" />
       </a>
     </div>
-    <div class="collapse navbar-collapse" id="sciNavbar">
+    <div class="" id="sciNavbar">
       <ul class="nav navbar-nav">
         {% for item in site.data.nav[page.lang] %}
           {% if item.link == page.url %}
@@ -19,7 +19,7 @@
           {% endif %}
         {% endfor %}
       </ul>
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav pull-sm-right">
         <li class="nav-item lang-selector">
           {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
           {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
