@@ -1,5 +1,10 @@
 <nav class="navbar navbar-full navbar-light bg-faded">
-  <object class="navbar-brand big-logo" data="/images/logo.svg" type="image/svg+xml"></object>
+  {% assign home_link = '/' + page.lang + '/' %}
+  {% if home_link == '/en/' %}
+  {% assign home_link = '/' %}
+  <a class="nav-link" href="{{ home_link }}">
+    <object class="navbar-brand big-logo" data="/images/logo.svg" type="image/svg+xml"></object>
+  </a>
   <ul class="nav navbar-nav">
     {% for item in site.data.nav[page.lang] %}
       {% if item.link == page.url %}
