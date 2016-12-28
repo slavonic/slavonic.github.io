@@ -1,8 +1,8 @@
 <nav class="navbar navbar-full navbar-light bg-faded">
-  {% assign home_link = '/' + page.lang + '/' %}
+  {% assign home_link = "/" | append: page.lang | append: "/" %}
     {{ home_link }}
-  {% if home_link == '/en/' %}
-    {% assign home_link = '/' %}
+  {% if home_link == "/en/" %}
+    {% assign home_link = "/" %}
   {% endif %}
   <a class="navbar-brand" href="{{ home_link }}">
     <img class="big-logo" src="/images/logo.svg" alt="" />
