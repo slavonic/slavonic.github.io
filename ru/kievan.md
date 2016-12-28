@@ -117,7 +117,7 @@ lang: ru
 * A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Medieval East-Slavic Music Notation in Unicode](http://www.ponomar.net/files/kievan.pdf) [Accepted]
 
 * Документация стандарта SMuFL (Standard Music Font Layout), который описывает кодирование дополнительных 
-  музыкальных символов в Зоне личного пользования ([здесь](http://www.smufl.org/download/))
+  музыкальных символов в Зоне личного пользования ([здесь](https://w3c.github.io/smufl/gitbook/))
 
 ### Музыковедение
 

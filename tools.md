@@ -45,7 +45,7 @@ Software for researchers or software developers working with Slavonic text.
 
 Church Slavic hyphenation patterns
 
-* [For LibreOffice 5.0 and later](http://extensions.libreoffice.org/extension-center/church-slavonic-dictionary)
+* [For LibreOffice 5.0 and later](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary)
 * [For XeTeX, LuaTeX, and other TeX based systems](http://www.ctan.org/pkg/churchslavonic)
 
 #### Research papers

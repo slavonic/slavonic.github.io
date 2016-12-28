@@ -120,7 +120,7 @@ the SIL Open Font License.
 * A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Medieval East-Slavic Music Notation in Unicode](http://www.ponomar.net/files/kievan.pdf) [Accepted]
 
 * Documentation for SMuFL (Standard Music Font Layout), a standard for encoding additional musical glyphs in the Private 
-  Use Area (PUA) of Unicode ([click here](http://www.smufl.org/download/))
+  Use Area (PUA) of Unicode ([click here](https://w3c.github.io/smufl/gitbook/))
 
 ### Musicological work
 

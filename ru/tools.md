@@ -42,7 +42,7 @@ lang: ru
 
 Словари слогоделения для автоматизированного переноса слов
 
-* [Для LibreOffice 5.0 и новее](http://extensions.libreoffice.org/extension-center/church-slavonic-dictionary)
+* [Для LibreOffice 5.0 и новее](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary)
 * [Для XeTeX, LuaTeX, и других систем, основанных на TeX](http://www.ctan.org/pkg/churchslavonic)
 
 Информация о слогоделении
@@ -80,6 +80,4 @@ _Здесь будет выложен материал о сортировке_
   (Источник: [здесь](http://www.orthodic.org/).)
 * Современные церковнославянские богослужебные книги одним архивом: 
   [в формате ZIP](http://www.ponomar.net/files/cubooks.zip)
-* Список сложных слов для тестирования шрифтов 
-  ([скачать [кодировка UTF-8]](http://www.ponomar.net//files/symcheck.txt))
-  [сконвертирован из файла в формате HIP [здесь](http://irmologion.ru/tools.html#developer)] 
+
