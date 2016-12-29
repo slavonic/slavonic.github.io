@@ -70,7 +70,6 @@ We support all software we develop. Questions? Ask on our mailing list.
 
 Unicode is a universal computing standard for working with texts in all of the world's 
 writing systems. When you use Unicode, you ...
-{: .lead}
 
 * make the text easily available to users around the world on any platform and software environment
 * ensure that your text will also be useable in future implementations
@@ -94,7 +93,6 @@ writing systems. When you use Unicode, you ...
 
 Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
 website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
-{: .lead }
 
   </div>
   <div class="col-md-5 pull-md-7">
