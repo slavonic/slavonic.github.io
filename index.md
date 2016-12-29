@@ -1,37 +1,121 @@
 ---
-layout: default
+layout: mainpage
 ref: index
 lang: en
 ---
-## Slavonic Computing Initiative
+{::options parse_block_html="true" /}
 
-On this website you can:
+<div class="row">
+  <div class="col-md-4">
 
-1. Download and install free, quality [Church Slavonic fonts](/fonts)
-2. Download and install [keyboard drivers for typing in Church Slavonic](/keyboard)
-3. Read about [working with Church Slavonic texts](/users) in various environments
-4. Ask questions about Church Slavonic, typography, or join the community by [subscribing to the SCI-Users mailing list](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net).
+### Fonts
 
-### Church Slavonic resources
+High-quality free fonts to display Church Slavonic on your computer, in your favorite editor, or on the web.    
+[View details »](/fonts.html)
 
-* Read about [Church Slavonic text and music](/dox) on the computer using Unicode and other latest computing technology standards
-* Read or download Archbishop Alypy's [*Church Slavonic Grammar*](http://www.ponomar.net/files/gama2) (in Russian only)
-* Find [Digitized Church Slavonic liturgical texts](http://www.ponomar.net/cgi-bin/maktabah.cgi) on the web
+  </div>
+  <div class="col-md-4">
 
-### What is  Unicode and why is it important?
+### Keyboard
 
-[Unicode](http://www.unicode.org/) is a universal computing standard for working with texts in all of the world's writing systems. When you use Unicode, you ...
+Keyboard drivers to enter Church Slavonic text, for all common operating systems. 
+No time or energy to install a driver? Use our web-based keyboard tool!
+[View details »](/keyboard.html)
+
+  </div>
+  <div class="col-md-4">
+
+### Music
+
+Documentation and samples of typesetting music in round and square notation using popular LilyPond software.
+[View details »](/music.html)
+
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+
+### Tools
+
+Utilities to convert from legacy UCS and HIP encodings, sorting, hyphenation dictionary, and more.
+[View details »](/tools.html)
+
+  </div>
+  <div class="col-md-4">
+
+### Docs
+
+Documentation on typography using Old Slavonic and Church Slavonic, 
+working papers on standartization of different aspects of Slavonic computing.
+[View details »](/dox.html)
+
+  </div>
+  <div class="col-md-4">
+
+### Support
+
+We support all software we develop. Questions? Ask on our mailing list.
+[View details »](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
+
+  </div>
+</div>
+
+<!-- Featurette -->
+<hr class="featurette-divider" />
+<div class="row"><div class="col-md-9">
+    
+## What is Unicode and why is it important?
+
+Unicode is a universal computing standard for working with texts in all of the world's 
+writing systems. When you use Unicode, you ...
 
 * make the text easily available to users around the world on any platform and software environment
 * ensure that your text will also be useable in future implementations
 * allow your text to be indexable by search engines and other systems
 * guarantee compatibility between your project and other projects
 
-### Who are we?
-The Slavonic Computing Initiative brings together volunteers who are interested in Church Slavonic and dedicated to the 
-philosophy of [standards compliance](http://www.unicode.org/) and free and open source software. 
-The project depends entirely on the work of volunteers like you. We do not earn any money in the form of license fees or 
-grants. 
+</div><div class="col-md-3">
+  
+![Unicode](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
+{: .featurette-image }
 
-The project is not affiliated with or endorsed by the Russian Orthodox Church, or any other ecclesiastic, academic or 
-governmental organization. 
+</div></div>
+
+<hr class="featurette-divider" />
+<div class="row"><div class="col-md-9 push-md-3">
+
+## Where do I get Slavonic texts?
+
+Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
+website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
+
+</div><div class="col-md-3 pull-md-9">
+
+![Ponomar](/images/ponomar-banner.png)
+{: .featurette-image }
+
+</div></div>
+
+<hr class="featurette-divider" />
+<div class="row"><div class="col-md-9">
+
+## Who are we?
+
+The Slavonic Computing Initiative brings together volunteers who are interested in Church Slavonic 
+and dedicated to the philosophy of standards compliance and free and open source software. 
+The project depends entirely on the work of volunteers like you.
+
+We do not earn any money in the form of license fees or grants. 
+The project is not affiliated with or endorsed by the Russian Orthodox Church, or any other ecclesiastic, 
+academic or governmental organization.
+
+If you share our passion for Church Slavonic, join us!
+
+</div><div class="col-md-3">
+
+![Open Source](https://opensource.org/files/osi_standard_logo.png)
+{: .featurette-image }
+
+</div>
+</div>
