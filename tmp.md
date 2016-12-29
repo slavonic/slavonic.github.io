@@ -63,7 +63,7 @@ We support all software we develop. Questions? Ask on our mailing list.
 
 <!-- Featurette -->
 <hr class="featurette-divider" />
-<div class="row"><div class="col-md-7">
+<div class="row"><div class="col-md-9">
     
 ## What is Unicode and why is it important?
 
@@ -75,7 +75,7 @@ writing systems. When you use Unicode, you ...
 * allow your text to be indexable by search engines and other systems
 * guarantee compatibility between your project and other projects
 
-</div><div class="col-md-5">
+</div><div class="col-md-3">
   
 ![Unicode](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
 {: .featurette-image }
@@ -83,14 +83,14 @@ writing systems. When you use Unicode, you ...
 </div></div>
 
 <hr class="featurette-divider" />
-<div class="row"><div class="col-md-7 push-md-5">
+<div class="row"><div class="col-md-9 push-md-3">
 
 ## Where do I get Slavonic texts?
 
 Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
 website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
-</div><div class="col-md-5 pull-md-7">
+</div><div class="col-md-3 pull-md-9">
 
 ![Ponomar](/images/ponomar-banner.png)
 {: .featurette-image }
@@ -98,7 +98,7 @@ website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 </div></div>
 
 <hr class="featurette-divider" />
-<div class="row"><div class="col-md-7">
+<div class="row"><div class="col-md-9">
 
 ## Who are we?
 
@@ -112,7 +112,7 @@ academic or governmental organization.
 
 If you share our passion for Church Slavonic, join us!
 
-</div><div class="col-md-5">
+</div><div class="col-md-3">
 
 ![Open Source](https://opensource.org/files/osi_standard_logo.png)
 {: .featurette-image }
