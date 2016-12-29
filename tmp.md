@@ -8,7 +8,7 @@ lang: en
 <div class="row">
   <div class="col-md-4">
 
-## Fonts
+### Fonts
 
 High-quality free fonts to display Church Slavonic on your computer, in your favorite editor, or on the web.    
 [View details »](/fonts.html)
@@ -16,7 +16,7 @@ High-quality free fonts to display Church Slavonic on your computer, in your fav
   </div>
   <div class="col-md-4">
 
-## Keyboard
+### Keyboard
 
 Keyboard drivers to enter Church Slavonic text, for all common operating systems. 
 No time or energy to install a driver? Use our web-based keyboard tool!
@@ -25,7 +25,7 @@ No time or energy to install a driver? Use our web-based keyboard tool!
   </div>
   <div class="col-md-4">
 
-## Music
+### Music
 
 Documentation and samples of typesetting music in round and square notation using popular LilyPond software.
 [View details »](/music.html)
@@ -81,7 +81,7 @@ writing systems. When you use Unicode, you ...
   <div class="col-md-5">
   
 ![Unicode](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
-{! .featurette-image }
+{: .featurette-image }
 
   </div>
 </div>
@@ -89,29 +89,43 @@ writing systems. When you use Unicode, you ...
 <hr class="featurette-divider" />
 <div class="row">
   <div class="col-md-7 push-md-5">
-    <h2>Where do I get Slavonic texts?</h2>
 
-    <p class="lead">Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
-      website <a href="http://www.ponomar.net/cgi-bin/maktabah.cgi">Ponomar</a>.</p>
+## Where do I get Slavonic texts?
+
+Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
+website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
+{: .lead }
+
   </div>
   <div class="col-md-5 pull-md-7">
-    <img class="featurette-image" src="/images/ponomar-banner.png" alt="Ponomar" />
+
+![Ponomar](/images/ponomar-banner.png)
+{: .featurette-image }
+
   </div>
 </div>
 
 <hr class="featurette-divider" />
 <div class="row">
   <div class="col-md-7">
-    <h2>Who are we?</h2>
-    <p>The Slavonic Computing Initiative brings together volunteers who are interested in Church Slavonic 
-      and dedicated to the philosophy of standards compliance and free and open source software. 
-      The project depends entirely on the work of volunteers like you.</p>
-    <p>We do not earn any money in the form of license fees or grants. 
-      The project is not affiliated with or endorsed by the Russian Orthodox Church, or any other ecclesiastic, 
-      academic or governmental organization.</p>
-    <p>If you share our passion for Church Slavonic, join us!</p>
+
+## Who are we?
+
+The Slavonic Computing Initiative brings together volunteers who are interested in Church Slavonic 
+and dedicated to the philosophy of standards compliance and free and open source software. 
+The project depends entirely on the work of volunteers like you.
+
+We do not earn any money in the form of license fees or grants. 
+The project is not affiliated with or endorsed by the Russian Orthodox Church, or any other ecclesiastic, 
+academic or governmental organization.
+
+If you share our passion for Church Slavonic, join us!
+
   </div>
   <div class="col-md-5">
-    <img class="featurette-image" src="https://opensource.org/files/osi_standard_logo.png" alt="Open Source" />
+
+![Open Source](https://opensource.org/files/osi_standard_logo.png)
+{: .featurette-image }
+
   </div>
 </div>
