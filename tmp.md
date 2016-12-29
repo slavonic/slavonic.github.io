@@ -3,6 +3,8 @@ layout: mainpage
 ref: tmp
 lang: en
 ---
+{::options parse_block_html="true" /}
+
 <div class="row">
   <div class="col-md-4">
 ## Fonts
