@@ -54,7 +54,6 @@ We support all software we develop. Questions? Ask on our mailing list.
 
 </div></div>
 
-<!-- Featurette -->
 <hr class="featurette-divider" />
 <div class="row"><div class="col-md-9">
     
