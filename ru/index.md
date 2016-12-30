@@ -68,7 +68,7 @@ title: Славянская информатика
 * будет индексироваться поисковыми системами
 * сможет взаимодействовать с текстом из других проектов
 
-</div><div class="col-md-3">
+</div><div class="col-md-3 hidden-sm-down">
 
 ![Юникод](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
 {: .featurette-image }
@@ -83,7 +83,7 @@ title: Славянская информатика
 Оцифрованные богослужебные тексты на церковнославянском языке можно бесплатно скачать
 с сайта проекта [Пономарь](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
-</div><div class="col-md-3 pull-md-9">
+</div><div class="col-md-3 pull-md-9 hidden-sm-down">
 
 ![Пономарь](/images/ponomar-banner.png)
 {: .featurette-image }
@@ -111,7 +111,7 @@ title: Славянская информатика
 Если вас заинтересовала эта тема, присоединяйтесь! Проект нуждается в специалистах различного
 профиля.
 
-</div><div class="col-md-3">
+</div><div class="col-md-3 hidden-sm-down">
 
 ![Открытые исходные коды](https://opensource.org/files/osi_standard_logo.png)
 {: .featurette-image }
