@@ -31,14 +31,14 @@ Documentation and samples of typesetting music in round and square notation usin
 
 </div></div>
 
-</div><div class="col-md-4">
+<div class="row"><div class="col-md-4">
 
 ### Texts
 
 Wide selection of Digitized Church Slavonic liturgical texts is available from our sister
 website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
-<div class="row"><div class="col-md-4">
+</div><div class="col-md-4">
 
 ### Tools
 
