@@ -56,7 +56,7 @@ lang: ru
 
 <!-- Featurette -->
 <hr class="featurette-divider" />
-<div class="row"><div class="col-md-7">
+<div class="row"><div class="col-md-9">
 
 ## Что такое Юникод и почему это важно?
 
@@ -68,7 +68,7 @@ lang: ru
 * будет индексироваться поисковыми системами
 * сможет взаимодействовать с текстом из других проектов
 
-</div><div class="col-md-5">
+</div><div class="col-md-3">
 
 ![Юникод](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg")
 {: .featurette-image }
@@ -76,14 +76,14 @@ lang: ru
 </div></div>
 
 <hr class="featurette-divider" />
-<div class="row"><div class="col-md-7 push-md-5">
+<div class="row"><div class="col-md-9 push-md-3">
     
 ## Где взять тексты на церковнославянском?
 
 Оцифрованные богослужебные тексты на церковнославянском языке можно бесплатно скачать
 с сайта проекта [Пономарь](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
-</div><div class="col-md-5 pull-md-7">
+</div><div class="col-md-3 pull-md-9">
 
 ![Пономарь](/images/ponomar-banner.png)
 {: .featurette-image }
@@ -91,7 +91,7 @@ lang: ru
 </div></div>
 
 <hr class="featurette-divider" />
-<div class="row"><div class="col-md-7">
+<div class="row"><div class="col-md-9">
 
 ### Кто мы такие?
 
@@ -111,7 +111,7 @@ lang: ru
 Если вас заинтересовала эта тема, присоединяйтесь! Проект нуждается в специалистах различного
 профиля.
 
-</div><div class="col-md-5">
+</div><div class="col-md-3">
 
 ![Открытые исходные коды](https://opensource.org/files/osi_standard_logo.png)
 {: .featurette-image }
