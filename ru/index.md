@@ -75,18 +75,3 @@ title: Славянская информатика
 {: .featurette-image }
 
 </div></div>
-
-<hr class="featurette-divider" />
-<div class="row"><div class="col-md-9 push-md-3">
-    
-## Где взять тексты на церковнославянском?
-
-Оцифрованные богослужебные тексты на церковнославянском языке можно бесплатно скачать
-с сайта проекта [Пономарь](http://www.ponomar.net/cgi-bin/maktabah.cgi).
-
-</div><div class="col-md-3 pull-md-9 hidden-sm-down">
-
-![Пономарь](/images/ponomar-banner.png)
-{: .featurette-image }
-
-</div></div>
