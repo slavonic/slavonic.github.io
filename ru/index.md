@@ -33,7 +33,7 @@ lang: ru
 
 ### Инструментарий
 
-### Утилиты для преобразования текстов из устаревших кодировок UCS и HIP, сортировка, словарь слогоделения и
+Утилиты для преобразования текстов из устаревших кодировок UCS и HIP, сортировка, словарь слогоделения и
 переносов, и многое другое.
 [Подробнее »](/ru/tools.html)
 
@@ -70,7 +70,7 @@ lang: ru
 
 </div><div class="col-md-5">
 
-[Юникод](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg")
+![Юникод](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg")
 {: .featurette-image }
 
 </div></div>
@@ -85,7 +85,7 @@ lang: ru
 
 </div><div class="col-md-5 pull-md-7">
 
-[Пономарь](/images/ponomar-banner.png)
+![Пономарь](/images/ponomar-banner.png)
 {: .featurette-image }
 
 </div></div>
@@ -113,7 +113,7 @@ lang: ru
 
 </div><div class="col-md-5">
 
-[Открытые исходные коды](https://opensource.org/files/osi_standard_logo.png)
+![Открытые исходные коды](https://opensource.org/files/osi_standard_logo.png)
 {: .featurette-image }
 
 </div></div>
