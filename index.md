@@ -45,9 +45,6 @@ website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 Utilities to convert from legacy UCS and HIP encodings, sorting, hyphenation dictionary, and more.
 [View details »](/tools.html)
 
-We support all software we develop. Questions? Ask on our mailing list.
-[View details »](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
-
 </div><div class="col-md-4">
 
 ### Docs
