@@ -3,10 +3,10 @@ layout: default
 ref: unicode
 lang: ru
 ---
-
-<div class="row"><div class="col-md-9">
-
 ## Что такое Юникод и почему это важно?
+
+{::options parse_block_html="true" /}
+<div class="row"><div class="col-md-9">
 
 [Юникод](http://unicode.org/) является универсальным компьютерным стандартом для кодирования знаков всех систем письменности мира. 
 Использование Юникода позволяет вам гарантировать, что текст:
