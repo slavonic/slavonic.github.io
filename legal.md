@@ -17,7 +17,7 @@ All textual and graphical information is subject to the following terms of use:
 **Copyright 2005-2015 Aleksandr Andreev and others.**
 
 Permission is granted to copy, distribute and/or modify this information
-under the terms of the [GNU Free Documentation License(http://www.gnu.org/licenses/fdl.html), Version 1.2 
+under the terms of the [GNU Free Documentation License](http://www.gnu.org/licenses/fdl.html), Version 1.2 
 or any later version published by the Free Software Foundation; 
 with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts OR
 under the terms of the 
