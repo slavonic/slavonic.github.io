@@ -9,7 +9,9 @@
                 <img src="/images/logo.svg" class="small-logo" alt="" />
             </div>
             <div class="col-sm-5 text-sm-right">
-                <a href="{{ site.data.contact[page.lang].link }}">{{ site.data.contact[page.lang].title }}</a>
+                {% for item in site.data.footer.right[page.lang] %}
+                    <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endfor %}
             </div>
         </div>
     </div>
