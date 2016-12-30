@@ -5,7 +5,7 @@ lang: en
 ---
 ## What is Unicode and why is it important?
 
-<hr class="featurette-divider" />
+{::options parse_block_html="true" /}
 <div class="row"><div class="col-md-9">
 
 Unicode is a universal computing standard for working with texts in all of the world's 
