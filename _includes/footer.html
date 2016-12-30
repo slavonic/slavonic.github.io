@@ -5,7 +5,7 @@
             <div class="col-sm-5 text-sm-left">
                 {% assign year_now = 'now' | date: "%Y" %}
                 {% for item in site.data.footer_right[page.lang] %}
-                    <a class="footer-item" href="{{ item.link }}">{{ item.title | replace "!YEAR_NOW!", year_now }}</a>
+                    <a class="footer-item" href="{{ item.link }}">{{ item.title | replace: "!YEAR_NOW!", year_now }}</a>
                 {% endfor %}
             </div>
             <div class="col-sm-2 text-sm-center hidden-xs-down">
