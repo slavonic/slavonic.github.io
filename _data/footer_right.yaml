@@ -1,12 +1,11 @@
 en:
-  - title: Contact
-    link: xxx
   - title: Support
     link: http://ponomar.net/mailman/listinfo/sci-users_ponomar.net
+  - title: Contact us
+    link: mailto:aleksandr.andreev@gmail.com
 
 ru:
-  - title: Контакты
-    link: xxx
   - title: Поддержка
     link: http://ponomar.net/mailman/listinfo/sci-users_ponomar.net
-   
+  - title: Контакты
+    link: mailto:aleksandr.andreev@gmail.com
