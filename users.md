@@ -70,30 +70,30 @@ hyphenation and sorting.
   To install, open LibreOffice, from the Tools menu select Extension Manager. The Extension Manager window will open. 
   Click the Add... button, and select the cu-lo.oxt file. When the License Agreement window opens, scroll to the end of 
   the license agreement text and click Accept.
-  <br>
+
   ![install extension](http://www.ponomar.net/images/extension_install.png)
 
 * To set the document text to Church Slavonic, select Options from the Tools menu. Under Language Settings, select Languages. 
   The Language Settings panel will appear. Under Default Languages for Documents, select Church Slavic. 
   If you need to number the pages of a document in Cyrillic numerals, you will also need to select Church Slavic under 
   Locale Setting.
-  <br>
+
   ![locate setting](http://www.ponomar.net/images/locale_libreoffice.png)
 
 * To turn on hyphenation, select Paragraph from the Format menu. Click on the Text Flow tab. Under Hyphenation, 
   click Automatically.
-  <br>
+
   ![enable hyphenation](http://www.ponomar.net/images/hyphenation_writer.png)
   
 * To number your pages in Cyrillic numerals, click Page Number from the Insert menu. Then double-click the resulting 
   page number. The Edit Fields dialog will open. Under Format select Native Numbering and click OK. 
   (*Note*: the default locale must be set to Church Slavic for this to work.)
-  <br>
+
   ![cyrillic page numbers](http://www.ponomar.net/images/native_number.png)
   
 * In LibreOffice Calc, you can sort data according to the Church Slavonic alphabetical order. To do this, select 
   Sort from the Data menu. Go to the Options tab. Under Language select Church Slavic.
-  <br>
+
   ![sorting](http://www.ponomar.net/images/sort_calc.png)
   
 * The Slavonic Computing Initiative also provides the 
