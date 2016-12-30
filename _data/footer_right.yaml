@@ -1,10 +1,14 @@
 en:
+  - title: Unicode
+    link: /unicode.html
   - title: Support
     link: http://ponomar.net/mailman/listinfo/sci-users_ponomar.net
   - title: Contact us
     link: mailto:aleksandr.andreev@gmail.com
 
 ru:
+  - title: Юникод
+    link: /ru/unicode.html
   - title: Поддержка
     link: http://ponomar.net/mailman/listinfo/sci-users_ponomar.net
   - title: Контакты
