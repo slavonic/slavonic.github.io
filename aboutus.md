@@ -5,6 +5,7 @@ lang: en
 ---
 ## Who are we?
 
+{::options parse_block_html="true" /}
 <div class="row"><div class="col-md-9">
 
 The Slavonic Computing Initiative brings together volunteers who are interested in Church Slavonic 
