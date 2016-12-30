@@ -5,16 +5,14 @@ lang: en
 ---
 {::options parse_block_html="true" /}
 
-<div class="row">
-  <div class="col-md-4">
+<div class="row"><div class="col-md-4">
 
 ### Fonts
 
 High-quality free fonts to display Church Slavonic on your computer, in your favorite editor, or on the web.    
 [View details »](/fonts.html)
 
-  </div>
-  <div class="col-md-4">
+</div><div class="col-md-4">
 
 ### Keyboard
 
@@ -22,27 +20,24 @@ Keyboard drivers to enter Church Slavonic text, for all common operating systems
 No time or energy to install a driver? Use our web-based keyboard tool!
 [View details »](/keyboard.html)
 
-  </div>
-  <div class="col-md-4">
+</div><div class="col-md-4">
 
 ### Music
 
 Documentation and samples of typesetting music in round and square notation using popular LilyPond software.
 [View details »](/music.html)
 
-  </div>
-</div>
 
-<div class="row">
-  <div class="col-md-4">
+</div></div>
+
+<div class="row"><div class="col-md-4">
 
 ### Tools
 
 Utilities to convert from legacy UCS and HIP encodings, sorting, hyphenation dictionary, and more.
 [View details »](/tools.html)
 
-  </div>
-  <div class="col-md-4">
+</div><div class="col-md-4">
 
 ### Docs
 
@@ -50,16 +45,14 @@ Documentation on typography using Old Slavonic and Church Slavonic,
 working papers on standartization of different aspects of Slavonic computing.
 [View details »](/dox.html)
 
-  </div>
-  <div class="col-md-4">
+</div><div class="col-md-4">
 
 ### Support
 
 We support all software we develop. Questions? Ask on our mailing list.
 [View details »](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 
-  </div>
-</div>
+</div></div>
 
 <!-- Featurette -->
 <hr class="featurette-divider" />
@@ -117,5 +110,4 @@ If you share our passion for Church Slavonic, join us!
 ![Open Source](https://opensource.org/files/osi_standard_logo.png)
 {: .featurette-image }
 
-</div>
-</div>
+</div></div>
