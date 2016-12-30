@@ -7,8 +7,7 @@ lang: en
 ## Disclaimer and Other Fancy Legal Stuff
 
 All information on this website, including the perpetual calendar of the Orthodox Church, is a free service provided by 
-Ponomar Technologies, Inc., a sole proprietorship wholly owned and operated by Aleksandr Andreev and registered in the State of Colorado,
-in the United States of America.
+Ponomar Technologies, Inc., a sole proprietorship wholly owned and operated by Aleksandr Andreev and registered in the State of Colorado, in the United States of America.
 
 The purpose of this project is to provide Orthodox Christians with liturgical information
 free of charge and copyright restrictions.
@@ -18,10 +17,11 @@ All textual and graphical information is subject to the following terms of use:
 **Copyright 2005-2015 Aleksandr Andreev and others.**
 
 Permission is granted to copy, distribute and/or modify this information
- under the terms of the (GNU Free Documentation License)[http://www.gnu.org/licenses/fdl.html], Version 1.2 
- or any later version published by the Free Software Foundation; 
- with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts OR
- under the terms of the (Creative Commons 3.0 Attribution Share-Alike Unported License)[http://creativecommons.org/licenses/by-sa/3.0/us/], at your choosing.
+under the terms of the [GNU Free Documentation License(http://www.gnu.org/licenses/fdl.html), Version 1.2 
+or any later version published by the Free Software Foundation; 
+with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts OR
+under the terms of the 
+[Creative Commons 3.0 Attribution Share-Alike Unported License](http://creativecommons.org/licenses/by-sa/3.0/us/), at your choosing.
 
 ### Ackwnoledgements:
 
@@ -49,12 +49,14 @@ or has been licensed under a license comptabile with the GNU Free Documentation 
 The information provided here is being provided freely. 
 No kind of agreement or contract is created between you and 
 the authors or anyone else who is in any way connected with this project
- or sister projects subject to your claims against them directly. 
- You are being granted a limited license to copy anything from this site;
- it does not create or imply any contractual or extracontractual liability on the part of
- Ponomar Technologies, Inc. or any of the agents, members, organizers or other users of this project.
- The authors make no guarantees or warranties, express or implied, not even the implied warranties
- of merchantability, fitness for a purpose or non-infringement.
+or sister projects subject to your claims against them directly. 
+
+You are being granted a limited license to copy anything from this site;
+it does not create or imply any contractual or extracontractual liability on the part of
+Ponomar Technologies, Inc. or any of the agents, members, organizers or other users of this project.
+
+The authors make no guarantees or warranties, express or implied, not even the implied warranties
+of merchantability, fitness for a purpose or non-infringement.
 
 ### WARNING
 
