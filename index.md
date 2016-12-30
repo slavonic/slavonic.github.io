@@ -2,6 +2,7 @@
 layout: mainpage
 ref: index
 lang: en
+title: Slavonic Computing
 ---
 {::options parse_block_html="true" /}
 
