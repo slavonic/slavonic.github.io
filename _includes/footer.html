@@ -1,6 +1,6 @@
 <hr>
 <footer class="footer small text-muted">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-sm-5 text-sm-left">
                 <a href="{{ site.data.legal[page.lang].link }}">&copy; 2005-{{ 'now' | date: "%Y" }} {{ site.data.legal[page.lang].title }}</a>
@@ -10,7 +10,7 @@
             </div>
             <div class="col-sm-5 text-sm-right">
                 {% for item in site.data.footer_right[page.lang] %}
-                    <a href="{{ item.link }}">{{ item.title }}</a>
+                    <a class="footer-item" href="{{ item.link }}">{{ item.title }}</a>
                 {% endfor %}
             </div>
         </div>
