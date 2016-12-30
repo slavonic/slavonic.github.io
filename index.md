@@ -68,7 +68,7 @@ writing systems. When you use Unicode, you ...
 * allow your text to be indexable by search engines and other systems
 * guarantee compatibility between your project and other projects
 
-</div><div class="col-md-3">
+</div><div class="col-md-3 hidden-sm-down">
   
 ![Unicode](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
 {: .featurette-image }
@@ -83,7 +83,7 @@ writing systems. When you use Unicode, you ...
 Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
 website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
-</div><div class="col-md-3 pull-md-9">
+</div><div class="col-md-3 pull-md-9 hidden-sm-down">
 
 ![Ponomar](/images/ponomar-banner.png)
 {: .featurette-image }
@@ -105,7 +105,7 @@ academic or governmental organization.
 
 If you share our passion for Church Slavonic, join us!
 
-</div><div class="col-md-3">
+</div><div class="col-md-3 hidden-sm-down">
 
 ![Open Source](https://opensource.org/files/osi_standard_logo.png)
 {: .featurette-image }
