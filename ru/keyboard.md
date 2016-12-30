@@ -44,7 +44,9 @@ lang: ru
 См. пакет m17n-cu для системы IBUS / m17n. 
 [Скачать с GitHub](https://github.com/typiconman/m17n-cu/releases)
 
-#### Документация и инструкции по установки для всех раскладок в формате PDF [скачать](http://www.ponomar.net/files/docen.pdf)
+#### Документация
+
+Документация и инструкции по установки для всех раскладок в формате PDF [скачать](http://www.ponomar.net/files/docen.pdf)
 
 #### Вопросы?
 
