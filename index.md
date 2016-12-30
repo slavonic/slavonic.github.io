@@ -31,6 +31,13 @@ Documentation and samples of typesetting music in round and square notation usin
 
 </div></div>
 
+</div><div class="col-md-4">
+
+### Texts
+
+Wide selection of Digitized Church Slavonic liturgical texts is available from our sister
+website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
+
 <div class="row"><div class="col-md-4">
 
 ### Tools
@@ -38,20 +45,16 @@ Documentation and samples of typesetting music in round and square notation usin
 Utilities to convert from legacy UCS and HIP encodings, sorting, hyphenation dictionary, and more.
 [View details »](/tools.html)
 
+We support all software we develop. Questions? Ask on our mailing list.
+[View details »](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
+
 </div><div class="col-md-4">
 
 ### Docs
 
 Documentation on typography using Old Slavonic and Church Slavonic, 
-working papers on standartization of different aspects of Slavonic computing.
+working papers on standartization of Slavonic computing.
 [View details »](/dox.html)
-
-</div><div class="col-md-4">
-
-### Support
-
-We support all software we develop. Questions? Ask on our mailing list.
-[View details »](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 
 </div></div>
 
@@ -71,21 +74,6 @@ writing systems. When you use Unicode, you ...
 </div><div class="col-md-3 hidden-sm-down">
   
 ![Unicode](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
-{: .featurette-image }
-
-</div></div>
-
-<hr class="featurette-divider" />
-<div class="row"><div class="col-md-9 push-md-3">
-
-## Where do I get Slavonic texts?
-
-Wide selection of Digitized Church Slavonic liturgical texts are available from our sister
-website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
-
-</div><div class="col-md-3 pull-md-9 hidden-sm-down">
-
-![Ponomar](/images/ponomar-banner.png)
 {: .featurette-image }
 
 </div></div>
