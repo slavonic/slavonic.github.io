@@ -35,7 +35,7 @@ Documentation and samples of typesetting music in round and square notation usin
 
 ### Texts
 
-Wide selection of Digitized Church Slavonic liturgical texts is available from our sister
+Wide selection of digitized Church Slavonic liturgical texts is available from our sister
 website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
 </div><div class="col-md-4">
