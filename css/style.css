@@ -41,6 +41,11 @@ a:hover {
     padding: 6rem 2rem;
 }
 
+.footer-item {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
 .featurette-image img {
     width: 100%;
 }
