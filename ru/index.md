@@ -70,7 +70,7 @@ lang: ru
 
 </div><div class="col-md-3">
 
-![Юникод](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg")
+![Юникод](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg)
 {: .featurette-image }
 
 </div></div>
