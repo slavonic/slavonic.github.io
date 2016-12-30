@@ -1,7 +1,7 @@
 en:
-  - title: &copy; 205-!YEAR_NOW! Slavonic Computing Initiative
+  - title: 2005-!YEAR_NOW! Slavonic Computing Initiative
     link: /legal.html
 
 ru:
-  - title: &copy; 205-!YEAR_NOW! Инициативная группа славянской информатики
+  - title: 2005-!YEAR_NOW! Инициативная группа славянской информатики
     link: /legal.html
