@@ -2,6 +2,7 @@
 layout: mainpage
 ref: index
 lang: ru
+title: Славянская информатика
 ---
 {::options parse_block_html="true" /}
 
@@ -54,7 +55,6 @@ lang: ru
 
 </div></div>
 
-<!-- Featurette -->
 <hr class="featurette-divider" />
 <div class="row"><div class="col-md-9">
 
