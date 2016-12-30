@@ -3,6 +3,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-5 text-sm-left">
+                {% assign year_now = 'now' | date: "%Y" %}
                 {% for item in site.data.footer_right[page.lang] %}
                     <a class="footer-item" href="{{ item.link }}">{{ item.title }}</a>
                 {% endfor %}
