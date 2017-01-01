@@ -11,6 +11,7 @@ css:
 * [Download All Fonts](http://www.ponomar.net/files/fonts-churchslavonic.zip) for All Operating Systems
 * [Download documentation](http://www.ponomar.net/files/fonts-churchslavonic.pdf)
 * [Fork me on GitHub](https://github.com/typiconman/fonts-cu)
+* [Web fonts for embedding into websites](tools.html)
 
 ### Download Individual Fonts
 
@@ -74,14 +75,11 @@ css:
   other CJK fonts.
   [Download](http://www.ponomar.net/files/RussianMission.zip)
 
-### Which font should I use? Licenses, and other Technical Stuff
+### Licenses and Technical Information
 
-All fonts are free software, dual-licensed under the GNU GPL v. 3 or the SIL OFL v. 1.1. 
 Fonts are provided in two formats: OpenType CFF (OTF extension) and TrueType (TTF extension). 
-Please [read the documentation](http://www.ponomar.net/files/fonts-churchslavonic.pdf) for specific issues and a description 
-of the OpenType and SIL Graphite features.
+Please [read the documentation](http://www.ponomar.net/files/fonts-churchslavonic.pdf)
+for specific issues and a description of the OpenType and SIL Graphite features.
 
-#### Disclaimer
+License information [is indicated on the legal page](legal.html)
 
-The fonts are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty 
-of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.

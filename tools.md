@@ -4,82 +4,77 @@ ref: tools
 lang: en
 ---
 
-## Church Slavonic Converters and other Utilities
-
-This page provides various converters, utilities, and other tools for working with Slavonic text
+## For Developers and Programmers
 
 ### Converters
 
-This section contains converters between Unicode and various legacy encoding formats.
+Converters for converting Church Slavonic texts into Unicode from various legacy codepages.
 
-* HIP to Unicode / Unicode to HIP converter [Web interface](http://www.ponomar.net/cgi-bin/hip2utf.cgi) |
-  For standalone version, see Lingua::CU::Scripts module, below | 
-  Read about the HIP format (in Russian) [here](http://orthlib.ru/hip/)
+* [HIP](http://orthlib.ru/hip/) to Unicode converter [Web interface](http://www.ponomar.net/cgi-bin/hip2utf.cgi) |
+  [Standalone through Lingua::CU::Scripts](https://github.com/typiconman/Perl-Lingua-CU) module
 
-* Irmologion to Unicode / Unicode to Irmologion converter [Web interface](http://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
-  For standalone version, see Lingua::CU::Scripts | 
-  Read about the &quot;Universal Church Slavonic&quot; (Irmologion) format (in Russian) 
-  [here](http://irmologion.ru/ucsenc.html#atop)
+* [Irmologion](http://irmologion.ru/) to Unicode converter [Web interface](http://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
+   [Standalone through Lingua::CU::Scripts](https://github.com/typiconman/Perl-Lingua-CU) module
 
-* Irmologion to Unicode converter Extension for LibreOffice 3 (for converting DOC, DOCX and ODT files from 
-  the &quot;Universal Church Slavonic&quot; format) [Download and install](http://www.ponomar.net/files/Ponomar-1.2.2.oxt)
-  (**Updated**)
-  
-* Manuscript.ru to Unicode converter (for converting text from the [Manuscript project](http://manuscripts.ru/))
-  Under development
-
+* [Church Slavonic converter Extension for LibreOffice 3.0 and higher](https://extensions.libreoffice.org/extensions/church-slavonic-converter)
 
 ### APIs
 
-Software for researchers or software developers working with Slavonic text.
+APIs for developing Church Slavonic-aware applications provide a variety of tools,
+such as collation (sorting), string comparison, conversion between Church Slavonic
+and Russian (modern) orthography, automated generation of Slavonic numerals, and more.
 
-* Lingua::CU - a module for Church Slavic support in Perl (conversion between Church Slavic and Russian, 
-  resolution of titlos, conversion of numerals, etc.). 
-  Includes Lingua::CU::Collate (collation of Church Slavic text) and Lingua::CU::Scripts (standalone conversion scripts). 
-  Get the code from [our github repository](https://github.com/typiconman/Perl-Lingua-CU).
-  Get the Documentation from [here](http://www.ponomar.net/CU.html)
+* [Lingua::CU](https://github.com/typiconman/Perl-Lingua-CU) - a
+  module for Church Slavonic support in Perl.
   
-* _Developers wanted!_ We are also interested in developing similar APIs for other  scripting languages
+* [cslavonic](https://github.com/pgmmpk/cslavonic) - a
+   module for Church Slavonic support in Python.
 
 ### Hyphenation
 
 Church Slavic hyphenation patterns
 
 * [For LibreOffice 5.0 and later](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary)
-* [For XeTeX, LuaTeX, and other TeX based systems](http://www.ctan.org/pkg/churchslavonic)
+* [For XeTeX, LuaTeX, and other TeX based systems]
+(https://github.com/slavonic/cu-tex/tree/master/hyphenation)
 
-#### Research papers
+### Web Fonts
 
-* А. А. Андреев, М. П. Крутиков [Автоматизация слогоделения и переноса слов в церковнославянских текста](https://www.academia.edu/27011149/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B0_%D1%81%D0%BB%D0%BE%D0%B2_%D0%B2_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D1%85)
-  [DRAFT PAPER]
+If you wish to display Church Slavonic text on your website or blog, you can simply
+add a reference to our stylesheet in the `HEAD` section of your document:
 
-### Church Slavonic OCR (Under development)
+```
+<link rel="stylesheet" href="https://slavonic.github.io/css/fonts.css" type="text/css">
+```
 
-This is a project to develop Church Slavonic Optical Character Recognition for the free and open source package `Tesseract`
-(read about Tesseract [here](https://code.google.com/p/tesseract-ocr/)). 
-Volunteer to help with this project [on the sci-users mailing list](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net).
+All of the necessary fonts will be loaded automatically. To use the fonts, just
+declare the appropriate CSS classes, for example:
 
-Presently the only known way to do Slavonic OCR is via the proprietary ABBYY FineReader program and using the legacy 
-HIP format (read about that [here](http://akafistnik.ru/tech/ocr/) in Russian).
+```
+.slavonic {
+  font-family: 'Ponomar Unicode';
+}
+```
 
-### Church Slavonic Spell checking and Morphology analysis
+If you do not wish to load the fonts from our server but would rather place
+the embeddable web fonts on your own server, you can download the
+[embeddable web font package](http://www.ponomar.net/files/sci-webfonts.zip)
+and un-zip it to some directory on your server. The package provides
+all of the fonts in [WOFF2](https://www.w3.org/TR/WOFF2/),
+[WOFF](https://www.w3.org/Fonts/WOFF-FAQ),
+[EOT](https://www.w3.org/Submission/EOT/) (for Internet Explorer),
+and TTF formats, which should work with all modern browsers, as well as a
+working CSS stylesheet to get you started. The web fonts are distributed
+under the same license as the installable fonts; see the [legal page](legal.html) for details.
 
-This is a project to develop Church Slavonic morphology for Hunspell (read about Hunspell 
-[here](http://hunspell.sourceforge.net/). Volunteer to help with this 
-project [on the sci-users mailing list](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net).
-		
-### Church Slavonic Collation
-
-_TODO: Reorganize all of our Collation support and put it here. Add some documentation._
-
-### Material for Computer-aided Church Slavonic Philology
+### Miscellaneous Resources
 
 * List of modern Church Slavonic words and their frequencies: [LibreOffice format](http://www.ponomar.net/files/wordlist.ods)
   | [Tab-separated values](http://www.ponomar.net/files/wordlist.tsv).
 * Church Slavonic words and their definitions: [LibreOffice format](http://www.ponomar.net/files/dictout.ods)
   | [MS Excel format](http://www.ponomar.net/files/dictout.xls).
-  (These data have been converted to Unicode on the basis of the data [here](http://www.orthodic.org/).)
 * Archive of all Church Slavonic books in the modern corpus: [Text-only in ZIP format](http://www.ponomar.net/files/cubooks.zip)
-* List of typographically challenging Church Slavonic words for testing fonts
-  [download [in UTF-8 encoding]](http://www.ponomar.net//files/symcheck.txt)
-  [this file is converted from the HIP file [here](http://irmologion.ru/tools.html#developer)]
+* _Church Slavonic Grammar_ (by Archbishop Alypy) [in Russian]
+(http://www.ponomar.net/files/gama2/toc.html)
+
+

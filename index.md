@@ -8,24 +8,27 @@ title: Slavonic Computing
 
 <div class="row"><div class="col-md-4">
 
-### Fonts
+### Get Fonts
 
-High-quality free fonts to display Church Slavonic on your computer, in your favorite editor, or on the web.    
+High-quality free fonts to display Church Slavonic on your computer,
+in your favorite editor, or on the web.    
 [View details »](/fonts.html)
 
 </div><div class="col-md-4">
 
-### Keyboard
+### Type Text
 
-Keyboard drivers to enter Church Slavonic text, for all common operating systems. 
-No time or energy to install a driver? Use our web-based keyboard tool!
-[View details »](/keyboard.html)
+[Keyboard drivers](/keyboard.html)
+to type Church Slavonic text in your favorite OS, and
+information on how to [set up your text editing software](/users.html).
+Don't want the hastle of installing drivers? 
+[Try the web-based keyboard tool](http://www.ponomar.net/cu_vkeyb.html)!
 
 </div><div class="col-md-4">
 
-### Music
+### Typeset Music
 
-Documentation and samples of typesetting music in round and square notation using popular LilyPond software.
+Typeset beatiful liturgical music in modern, Kievan square, or Znamenny notation.
 [View details »](/music.html)
 
 
@@ -33,24 +36,25 @@ Documentation and samples of typesetting music in round and square notation usin
 
 <div class="row"><div class="col-md-4">
 
-### Texts
+### Get Texts
 
-Wide selection of digitized Church Slavonic liturgical texts is available from our sister
-website [Ponomar](http://www.ponomar.net/cgi-bin/maktabah.cgi).
+Most of the existing Church Slavonic liturgical books are already digitized.
+Get them from the [Ponomar Library](http://www.ponomar.net/cgi-bin/maktabah.cgi).
 
 </div><div class="col-md-4">
 
-### Tools
+### Do More
 
-Utilities to convert from legacy UCS and HIP encodings, sorting, hyphenation dictionary, and more.
+Embeddable web fonts for web-designers, APIs for software developers,
+and other tools to do even more with Church Slavonic texts.
 [View details »](/tools.html)
 
 </div><div class="col-md-4">
 
-### Docs
+### Get Help
 
-Documentation on typography using Old Slavonic and Church Slavonic, 
-working papers on standartization of Slavonic computing.
+Read the documentation, working papers,
+or ask a question on the mailing list.
 [View details »](/dox.html)
 
 </div></div>

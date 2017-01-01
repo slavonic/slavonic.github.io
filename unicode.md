@@ -8,7 +8,7 @@ lang: en
 {::options parse_block_html="true" /}
 <div class="row"><div class="col-md-9">
 
-Unicode is a universal computing standard for working with texts in all of the world's 
+[Unicode](http://unicode.org/) is a universal computing standard for working with texts in all of the world's 
 writing systems. When you use Unicode, you ...
 
 * make the text easily available to users around the world on any platform and software environment
