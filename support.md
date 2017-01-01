@@ -1,25 +1,49 @@
 ---
 layout: default
-ref: dox
+ref: support
 lang: en
 ---
-## Church Slavonic and Unicode: Technical documentation
 
-If you are a font developer or software developer, an academic working on publishing Slavonic texts, or work with 
-Church Slavonic text on a regular basis, we suggest reading the documentation available on this site to familiarize 
-yourself with the encoding model.
+## Help and Support
 
-### Encoding model
+Report a bug, read the documentation or ask a question on the mailing list if you are stuck.
 
-These two documents describe the encoding model for Church Slavonic text:
+### Documentation
 
-*	[Church Slavonic Typography in Unicode](http://www.unicode.org/notes/tn41/) [Unicode Technical Note #41.]
-* [Ponomar Project Private Use Area (PUA) Allocation Policy](http://www.ponomar.net/files/pua_policy.pdf)
-  (version 2.3, updated November 4, 2015; changes since v. 2.2 in yellow)
+* [Church Slavonic Typography in Unicode](http://www.unicode.org/notes/tn41/)
+   [Unicode Technical Note #41] describes the encoding model and methods of working
+   with Church Slavonic text in Unicode
 
-### Proposals Sponsored by Ponomar Project / SCI
+* [Ponomar Project Private Use Area (PUA) Allocation Policy]
+  (http://www.ponomar.net/files/pua_policy.pdf)
+  (version 3.0, updated November 4, 2016)
 
-_The files are in PDF format_
+* [Documentation for Church Slavonic fonts](http://www.ponomar.net/files/fonts-churchslavonic.pdf)
+
+* [Documentation for Church Slavonic keyboards](http://www.ponomar.net/files/docen.pdf)
+
+### Bug Tracking
+
+* [Bug tracking for Church Slavonic fonts](https://github.com/typiconman/fonts-cu/issues)
+
+* [Bug tracking for Church Slavonic TeX packages](https://github.com/slavonic/cu-tex/issues)
+
+* [Bug tracking for LibreOffice Church Slavonic Extensions](https://github.com/slavonic/cu-LO/issues)
+
+### Mailing List
+
+The SCI-users mailing list offers support (in Russian and English) for Slavonic Computing Initiative
+software and fonts and for other question related to Church Slavonic typography.
+
+* To post a message to all list members, send an e-mail to 
+[&#115;c&#105;-&#117;s&#101;&#114;&#115;&#64;pon&#111;m&#97;r&#46;net]
+(&#109;&#97;&#105;l&#116;o&#58;%&#55;3%63&#105;%2D&#117;s&#37;65&#114;&#115;&#64;&#112;%&#54;Fn&#111;&#109;%&#54;&#49;&#37;72&#46;ne%&#55;&#52;)
+
+* [Subscribe to the SCI-users mailing list](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
+
+### Technical Documents
+
+Various proposals submitted by the Slavonic Computing Initiative to the Unicode Consortium.
 
 * Y. Shardt and A. Andreev. [Proposal to Encode the Typikon Symbols in Unicode](http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3772.pdf) [**Accepted**]
 
@@ -47,15 +71,9 @@ _The files are in PDF format_
 
 * A. Andreev, Y. Shardt and N. Simmons. [Proposal to Encode some Additional Symbols used in Church Slavonic Text](http://www.ponomar.net/files/typicon_additional.pdf) [**Accepted**]
 
-* A. Andreev, M. Chin and Y. Shardt. [Proposal to Add the Palladius Transcription to the UniHan Database](http://www.ponomar.net/files/palladius.pdf) [**Submitted**]
-
-### Language Standardization
-
-The following papers dealing with Slavonic standardization are available for comment
-
 * [Materials for an Application to Create a Church Slavonic Locale in the Common Locale Data 
    Repository (CLDR) of Unicode](http://www.ponomar.net/files/cldr.zip)
 
 * [Church Slavonic Plural Rules](http://www.ponomar.net/files/plurals.pdf)
 
-* [Church Slavonic Style Manual](http://www.ponomar.net/wiki/doku.php?id=church_slavonic_style_manual)
+
