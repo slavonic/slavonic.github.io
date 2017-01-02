@@ -12,7 +12,7 @@ title: Slavonic Computing
 
 High-quality free fonts to display Church Slavonic on your computer,
 in your favorite editor, or on the web.    
-[View details »](/fonts.html)
+[View details&nbsp;»](/fonts.html)
 
 </div><div class="col-md-4">
 
@@ -29,7 +29,7 @@ Don't want the hassle of installing drivers?
 ### Typeset Music
 
 Typeset beatiful liturgical music in modern, Kievan square, or Znamenny notation.
-[View details »](/music.html)
+[View details&nbsp;»](/music.html)
 
 
 </div></div>
@@ -47,7 +47,7 @@ Get them from the [Ponomar Library](http://www.ponomar.net/cgi-bin/maktabah.cgi)
 
 Embeddable web fonts for web-designers, APIs for software developers,
 and other tools to do even more with Church Slavonic texts.
-[View details »](/tools.html)
+[View details&nbsp;»](/tools.html)
 
 </div><div class="col-md-4">
 
