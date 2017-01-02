@@ -15,8 +15,7 @@ lang: ru
 [Открытой лицензии для шрифтов SIL, версия 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), по Вашему желанию.
 
 Для дополнительной информации, читайте
-[Часто задаваемые вопросы к Открытой лицензии для шрифтов SIL]
-(http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web)
+[Часто задаваемые вопросы к Открытой лицензии для шрифтов SIL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web)
 
 Как особое исключение, если вы создаете документ с использованием одного из этих шрифтов,
 и внедряете шрифт целиком или частично в документ, использование шрифта само по себе
