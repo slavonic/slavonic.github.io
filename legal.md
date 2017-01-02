@@ -22,7 +22,7 @@ As a special exception, if you create a document which uses these fonts, and emb
 Unless otherwise stated, all software is licensed under the 
 [MIT License](https://opensource.org/licenses/MIT).
 
-Copyright 2015-2017 {{ site.autors[page.lang] }} and others
+Copyright 2015-2017 {{ site.authors[page.lang] }} and others
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
