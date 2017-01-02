@@ -55,6 +55,6 @@ and other tools to do even more with Church Slavonic texts.
 
 Read the documentation, working papers,
 or ask a question on the mailing list.
-[View details »](/dox.html)
+[View details »](/support.html)
 
 </div></div>
