@@ -28,7 +28,7 @@ Don't want the hassle of installing drivers?
 
 ### Typeset Music
 
-Typeset beatiful liturgical music in modern, Kievan square, or Znamenny notation.
+Typeset beatiful liturgical music and chants in modern, Kievan square, or Znamenny notation.
 [View details&nbsp;»](/music.html)
 
 
