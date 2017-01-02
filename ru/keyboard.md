@@ -43,23 +43,20 @@ lang: ru
 
 #### GNU/Linux
 
-См. [пакет m17n-cu для системы IBUS / m17n]
-(https://github.com/typiconman/m17n-cu/releases)
+См. [пакет m17n-cu для системы IBUS / m17n](https://github.com/typiconman/m17n-cu/releases)
 
 #### Android
 
-[Драйвер для физических клавиатур USB/Bluetooth]
-(http://www.ponomar.net/files/cu-android.apk)
+[Драйвер для физических клавиатур USB/Bluetooth](http://www.ponomar.net/files/cu-android.apk)
 Внимание: Абсолютно никакой гарантии, используйте на свой страх и риск!
 
 #### Документация
 
-Документация и [инструкции по установки для всех раскладок]
-(http://www.ponomar.net/files/docen.pdf)
+Документация и [инструкции по установки для всех раскладок](http://www.ponomar.net/files/docen.pdf)
 
 #### Часто задаваемые вопросы
 
-* Лицензию см. на [странице лицензии и отказ от ответственности](legal.html)
+* Лицензию см. на [странице лицензии и отказ от ответственности](ru/legal.html)
 
 * Если что непонятно, спросите в [списке рассылки SCI-users](support.html).
 
