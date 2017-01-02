@@ -58,12 +58,15 @@ declare the appropriate CSS classes, for example:
 If you do not wish to load the fonts from our server but would rather place
 the embeddable web fonts on your own server, you can download the
 [embeddable web font package](http://www.ponomar.net/files/sci-webfonts.zip)
-and un-zip it to some directory on your server. The package provides
-all of the fonts in [WOFF2](https://www.w3.org/TR/WOFF2/),
+and un-zip it to some directory on your server. 
+
+The package provides all of the fonts in [WOFF2](https://www.w3.org/TR/WOFF2/),
 [WOFF](https://www.w3.org/Fonts/WOFF-FAQ),
 [EOT](https://www.w3.org/Submission/EOT/) (for Internet Explorer),
 and TTF formats, which should work with all modern browsers, as well as a
-working CSS stylesheet to get you started. The web fonts are distributed
+working CSS stylesheet to get you started. 
+
+The web fonts are distributed
 under the same license as the installable fonts; see the [legal page](legal.html) for details.
 
 ### Miscellaneous Resources
@@ -73,7 +76,6 @@ under the same license as the installable fonts; see the [legal page](legal.html
 * Church Slavonic words and their definitions: [LibreOffice format](http://www.ponomar.net/files/dictout.ods)
   | [MS Excel format](http://www.ponomar.net/files/dictout.xls).
 * Archive of all Church Slavonic books in the modern corpus: [Text-only in ZIP format](http://www.ponomar.net/files/cubooks.zip)
-* _Church Slavonic Grammar_ (by Archbishop Alypy) [in Russian]
-(http://www.ponomar.net/files/gama2/toc.html)
+* _Church Slavonic Grammar_ (by Archbishop Alypy) [in Russian](http://www.ponomar.net/files/gama2/toc.html)
 
 
