@@ -5,27 +5,23 @@ en:
     link:  /keyboard.html
   - title: Editors
     link:  /users.html
-  - title: Technical Specs
-    link:  /dox.html
-  - title: Znamenny Notation
+  - title: Music
     link:  /music.html
-  - title: Kievan Notation
-    link:  /kievan.html
   - title: Tools
     link:  /tools.html
+  - title: Technical Specs
+    link:  /support.html
 
 ru:
   - title: Шрифты
     link:  /ru/fonts.html
   - title: Клавиатура
     link:  /ru/keyboard.html
-  - title: Набор
+  - title: Редактирование
     link:  /ru/users.html
-  - title: Документация
-    link:  /ru/dox.html
-  - title: Знаменная нотация
+  - title: Музыка
     link: /ru/music.html
-  - title: Киевская нотация
-    link: /ru/kievan.html
   - title: Инструментарий
     link:  /ru/tools.html
+  - title: Документация
+    link:  /ru/suport.html
