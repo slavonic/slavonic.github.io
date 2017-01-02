@@ -21,7 +21,7 @@ in your favorite editor, or on the web.
 [Keyboard drivers](/keyboard.html)
 to type Church Slavonic text in your favorite OS, and
 information on how to [set up your text editing software](/users.html).
-Don't want the hastle of installing drivers? 
+Don't want the hassle of installing drivers? 
 [Try the web-based keyboard tool](http://www.ponomar.net/cu_vkeyb.html)!
 
 </div><div class="col-md-4">
