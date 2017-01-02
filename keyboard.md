@@ -26,46 +26,36 @@ Extended Russian are available (click on CU in the lower left-hand corner of the
 
 ### Installable keyboard drivers
 
-This section provides software that you can install onto your computer in order to type in Church Slavonic:
+Keyboard drivers for different operating systems:
 
 #### Windows
 
 * [Russian Extended](http://www.ponomar.net/files/ru-ext.zip)
-* [Church Slavonic Standard](http://www.ponomar.net/files/cu-kbd.zip)
+* [Special Church Slavonic](http://www.ponomar.net/files/cu-kbd.zip)
 
 #### Apple OS X
 
 * [Russian Extended](http://www.ponomar.net/files/ru-ext_mac.zip)
-* [Church Slavonic Standard](http://www.ponomar.net/files/cukeyb_mac1.zip)
+* [Special Church Slavonic](http://www.ponomar.net/files/cukeyb_mac1.zip)
 
 #### Linux
 
-For Russian Extended and Churc Slavonic Standard keyboards,
+For Russian Extended and special Church Slavonic keyboard drivers,
 see m17n-cu package for IBUS / m17n. [Download from GitHub](https://github.com/typiconman/m17n-cu/releases)
 
 #### Android
 
-Physical Keyboard Driver for USB/Bluetooth keyboards: [download APK](http://www.ponomar.net/files/cu-android.apk)
-ABSOLUTELY NO WARRANTY! for testing purposes only!
+Physical Keyboard Driver for USB/Bluetooth keyboards:
+[download APK](http://www.ponomar.net/files/cu-android.apk)
+Alpha phase software! for testing purposes only!
 
 #### Documentation
 
 Documentation for all keyboard layouts and installation instructions in PDF: [download](http://www.ponomar.net/files/docen.pdf)
 
+#### FAQ's
 
-#### Questions?
+* The license for keyboard drivers [is indicated on the legal page](legal.html)
 
-Questions? Ask them on the sci-users mailing list
+* If you have questions, [ask the SCI-users mailing list](support.html).
 
-### Licensing
-
-All keyboard drivers are free software, licensed under the GNU GPL v. 3
-
-#### The technical language:
-
-Permission is granted to use, modify and / or distribute this software under the terms of the GNU General Public License 
-as published by the Free Software Foundation (either version 3 of the license, or, at your choosing, any later version). 
-You may view a copy of the GNU General Public License by [clicking here](https://gnu.org/licenses/gpl.html).
-
-The software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
-warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.

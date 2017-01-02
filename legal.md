@@ -4,73 +4,43 @@ ref: legal
 lang: en
 ---
 
-## Disclaimer and Other Fancy Legal Stuff
+## Disclaimer and Other Legal Information
 
-All information on this website, including the perpetual calendar of the Orthodox Church, is a free service provided by 
-Ponomar Technologies, Inc., a sole proprietorship wholly owned and operated by Aleksandr Andreev and registered in the State of Colorado, in the United States of America.
+### Licenses for fonts
 
-The purpose of this project is to provide Orthodox Christians with liturgical information
-free of charge and copyright restrictions.
+All fonts are free software, dual-licensed under the
+[GNU General Public License, version 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html),
+or the [SIL Open Font License, version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), at your choosing.
 
-All textual and graphical information is subject to the following terms of use:
+Read the [SIL Open Font License FAQ]
+(http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web)
+for more information.
 
-**Copyright 2005-2015 Aleksandr Andreev and others.**
+As a special exception, if you create a document which uses these fonts, and embed a font or unaltered portions of a font into the document, the font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify the font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
 
-Permission is granted to copy, distribute and/or modify this information
-under the terms of the [GNU Free Documentation License](http://www.gnu.org/licenses/fdl.html), Version 1.2 
-or any later version published by the Free Software Foundation; 
-with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts OR
-under the terms of the 
-[Creative Commons 3.0 Attribution Share-Alike Unported License](http://creativecommons.org/licenses/by-sa/3.0/us/), at your choosing.
+### Licenses for keyboard drivers, TeX packages and other software
 
-### Ackwnoledgements:
+Unless otherwise stated, all software is licensed under the 
+[MIT License](https://opensource.org/licenses/MIT).
 
-Lives of the saints in Russian are taken from the Nastol'naya Kniga Tserkovnosvyachennosluzhitelya,
-Moscow Patriachate, 1978.
+Copyright 2015-2017 Aleksandr Andreev, Mike Kroutikov and others
 
-Lives of the saints in English are taken from the Clergyman's Handbook, translated into English by
-Priest Stephen Janos, Copyright &copy; 1996-2001 Fr. Stephen Janos. The original license is thought to be
-compatible with Creative Commons by-sa.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The Chinese translation is by the Orthodox Fellowship of All Saints of China, used with permission.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-The French translation is by Priest Iulian Nistea, used with permission.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Icons are traken from the Novyi Ikonopisnyi Podlinnik, &copy; 2006 Iconography School
-of Moscow Theological Academy and Seminary, used with permission. The terms of this agreement had required
-Ponomar.net to link to a page where you could acquire the full DVD of these icons in high resolution. 
-However, it appears that the DVD is no longer available for sale.
+### DISCLAIMER
 
-All other liturgical information on this website is thought to be in the public domain, has had its copyright expire,
-or has been licensed under a license comptabile with the GNU Free Documentation License.
-
-### The authors make no guarantees of validity
-
-The information provided here is being provided freely. 
-No kind of agreement or contract is created between you and 
-the authors or anyone else who is in any way connected with this project
-or sister projects subject to your claims against them directly. 
-
-You are being granted a limited license to copy anything from this site;
-it does not create or imply any contractual or extracontractual liability on the part of
-Ponomar Technologies, Inc. or any of the agents, members, organizers or other users of this project.
-
-The authors make no guarantees or warranties, express or implied, not even the implied warranties
-of merchantability, fitness for a purpose or non-infringement.
-
-### WARNING
-
-This project is not affiliated with, or endorsed by, any bishop, synod of bishops or diocese;
-views expressed herein are solely the researched opinions of Orthodox laymen who have varying levels
-of expertise in the area of liturgics. Every effort has been made to ensure that the information
-furnished is in agreement with the latest liturgical scholarship. However, the information may not reflect
-local variations in use or the practice of your bishop. You should not rely on any of this information
-without independent verification. Where information furnished here conflicts with that furnished by 
-official publications, you should seek the guidance of your dean or bishop.
+The Slavonic Computing Initiative provides all software and information in the hope that it
+will be helpful, but with ABSOLUTELY NO WARRANTY, not even the implied warranties
+of MERCHANTABILITY or FITNESS FOR A PURPOSE.
 
 No consequential damages can be sought against the authors, as this information is being 
 given to you gratuitously and thus there is no agreement or understanding between you
 and the authors regarding your use or modification of this information beyond the 
-GNU Free Documentation License.
+disclaimers stated here.
 
 DO NOT RELY UPON ANY INFORMATION WITHOUT INDEPENDENT VERIFICATION.
+
