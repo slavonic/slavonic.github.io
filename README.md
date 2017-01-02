@@ -50,11 +50,12 @@ Now, lets add a translation to `ru`
 ## Navigational and other site-wide information
 
 Information global to the site (title, authors, keywords) is stored in `_config.yaml`. It is used in templates and content
-by utilizing Liquid template language. For example, `authors` data from `_config.yaml` is used in `legal.md` like this:
+by utilizing Liquid templating language. For example, `authors` data from `_config.yaml` is used in `legal.md` like this:
 
 ```
 {{ site.authors[page.lang] }}
 ```
+
 Note that navigational and global information has to be provided for all supported languages (unlike content pages
 that may skip a language if needed). This is because this information may be used from any page and is often used by
 templates (meaning that every page embeds this data).
