@@ -36,8 +36,7 @@ The SCI-users mailing list offers support (in Russian and English) for Slavonic 
 software and fonts and for other question related to Church Slavonic typography.
 
 * To post a message to all list members, send an e-mail to 
-[&#115;c&#105;-&#117;s&#101;&#114;&#115;&#64;pon&#111;m&#97;r&#46;net]
-(&#109;&#97;&#105;l&#116;o&#58;%&#55;3%63&#105;%2D&#117;s&#37;65&#114;&#115;&#64;&#112;%&#54;Fn&#111;&#109;%&#54;&#49;&#37;72&#46;ne%&#55;&#52;)
+[&#115;c&#105;-&#117;s&#101;&#114;&#115;&#64;pon&#111;m&#97;r&#46;net](&#109;&#97;&#105;l&#116;o&#58;%&#55;3%63&#105;%2D&#117;s&#37;65&#114;&#115;&#64;&#112;%&#54;Fn&#111;&#109;%&#54;&#49;&#37;72&#46;ne%&#55;&#52;)
 
 * [Subscribe to the SCI-users mailing list](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 
