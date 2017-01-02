@@ -1,12 +1,12 @@
 en:
   - title: "&copy; 2005-!YEAR_NOW! Slavonic Computing Initiative"
-    link: /legal.html
-  - title: About Us
     link: /aboutus.html
+  - title: Legal Info
+    link: /legal.html
 
 ru:
   - title: "&copy; 2005-!YEAR_NOW! Инициативная группа славянской информатики"
-    link: /legal.html
-  - title: О нас
-    link: /ru/aboutus.html
+    link: /ru.aboutus.html
+  - title: Условия
+    link: /ru/legal.html
     
