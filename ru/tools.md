@@ -93,5 +93,5 @@ lang: ru
   [в формате MS Excel](http://www.ponomar.net/files/dictout.xls).
 * Современные церковнославянские богослужебные книги одним архивом: 
   [в формате ZIP](http://www.ponomar.net/files/cubooks.zip)
-* _Грамматика церковнославянского языка_ (архиеп. Алипия Гамановича)(http://www.ponomar.net/files/gama2/toc.html)
+* _Грамматика церковнославянского языка_ [архиеп. Алипия Гамановича](http://www.ponomar.net/files/gama2/toc.html)
 

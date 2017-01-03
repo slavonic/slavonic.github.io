@@ -9,7 +9,7 @@ en:
     link:  /music.html
   - title: Tools
     link:  /tools.html
-  - title: Technical Specs
+  - title: Documentation
     link:  /support.html
 
 ru:
@@ -19,7 +19,7 @@ ru:
     link:  /ru/keyboard.html
   - title: Редактирование
     link:  /ru/users.html
-  - title: Музыка
+  - title: Нотация
     link: /ru/music.html
   - title: Инструментарий
     link:  /ru/tools.html

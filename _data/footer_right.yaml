@@ -4,12 +4,12 @@ en:
   - title: Support
     link: /support.html
   - title: Contact us
-    link: mailto:aleksandr.andreev@gmail.com
+    link: mailto:sci@ponomar.net
 
 ru:
   - title: Юникод
     link: /ru/unicode.html
   - title: Помощь
     link: /ru/support.html
-  - title: Контакты
-    link: mailto:aleksandr.andreev@gmail.com
+  - title: Обратная связь
+    link: mailto:sci@ponomar.net
