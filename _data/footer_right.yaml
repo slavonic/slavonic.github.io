@@ -1,15 +1,15 @@
 en:
   - title: Unicode
     link: /unicode.html
-  - title: Support
-    link: /support.html
+  - title: Support us
+    link: /aboutus.html
   - title: Contact us
     link: mailto:sci@ponomar.net
 
 ru:
   - title: Юникод
     link: /ru/unicode.html
-  - title: Помощь
-    link: /ru/support.html
+  - title: Поддержать
+    link: /ru/aboutus.html
   - title: Обратная связь
     link: mailto:sci@ponomar.net
