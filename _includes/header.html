@@ -1,10 +1,10 @@
-<nav class="navbar navbar-full navbar-light bg-faded">
+<nav class="navbar navbar-default navbar-full navbar-light bg-faded">
     <div class="navbar-header">
       {% assign home_link = "/" | append: page.lang | append: "/" %}
       {% if home_link == "/en/" %}
         {% assign home_link = "/" %}
       {% endif %}
-      <a class="navbar-brand" href="{{ home_link }}">
+      <a class="navbar-brand navbar-header" href="{{ home_link }}">
         <img class="big-logo" src="/images/logo.svg" alt="&uarr;" />
       </a>
     </div>
