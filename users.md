@@ -6,7 +6,7 @@ lang: en
 
 ## Church Slavonic : For Users
 
-This page describes how to work with Church Slavonic texts in a variety of popular software platforms.
+You can easily enter, edit, and publish Church Slavonic texts in standard, popular software.
 
 ### XeTeX and LuaTeX
 
@@ -35,7 +35,7 @@ Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The 
   
 * If you have an older version of TeX Live or another distribution of TeX, you may need to install the hyphenation patterns 
   and additional packages manually. You can get the hyphenation patterns 
-  [here](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
+  [from GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
   and [Church Slavonic package on CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
   Follow the instructions in the documentation.
 
@@ -53,11 +53,11 @@ Beginning with version 5.0, LibreOffice allows you to specify Church Slavonic (w
 document language. You can then take advantage of a number of features such as Cyrillic numerals (for page numbering, etc.), 
 hyphenation and sorting.
 
-* Install the Church Slavonic fonts from [this page](fonts.html) and, if needed, the 
-  Church Slavonic keyboard drivers for your operating system from [this page](keyboard.html).
+* Install the Church Slavonic fonts from [our site](fonts.html) and, if needed, the 
+  Church Slavonic [keyboard drivers for your operating system](keyboard.html).
 
 * If you have not already, upgrade LibreOffice to version 5.0 or later. You can download the 
-  [latest version from here](http://www.libreoffice.org/download/libreoffice-fresh/). 
+  [latest version from the Document Foundation](http://www.libreoffice.org/download/libreoffice-fresh/). 
   On older Linux distributions, you should first remove the existing bundled version of LibreOffice 4 by running 
   ```
   sudo apt-get remove libreoffice-core
@@ -65,8 +65,8 @@ hyphenation and sorting.
   While you can view and edit Church Slavonic text in LibreOffice 4 and earlier, you will not be able to take advantage 
   of hyphenation and other features.
 
-* Install the Church Slavonic Hyphenation extension. To do this, download the extension from 
-  [here](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary).
+* Install the Church Slavonic Hyphenation extension. To do this, download 
+  [the extension](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary).
   To install, open LibreOffice, from the Tools menu select Extension Manager. The Extension Manager window will open. 
   Click the Add... button, and select the cu-lo.oxt file. When the License Agreement window opens, scroll to the end of 
   the license agreement text and click Accept.
@@ -100,12 +100,12 @@ hyphenation and sorting.
   [Church Slavonic Converter Extension](https://extensions.libreoffice.org/extensions/church-slavonic-converter).
   It allows you to convert Church Slavonic documents into Unicode from UCS, HIP and other legacy codepages. 
   It converts a selection, or if no selection is made, the entire document. The source code is available 
-  [here](https://github.com/slavonic/cuconverter-LO).
+  [on GitHub](https://github.com/slavonic/cuconverter-LO).
   
 * There are still a number of bugs: 
-  [BUG: Cannot specify _ as hyphenation character](https://bugs.documentfoundation.org/show_bug.cgi?id=85731);
-  [Cannot switch the lettercase for Cyrillic Extended-B block](https://bugs.documentfoundation.org/show_bug.cgi).
-  
+   - [85731](https://bugs.documentfoundation.org/show_bug.cgi?id=85731): Cannot specify `_` as hyphenation symbol
+   - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Cannot convert Cyrillic Extended-B symbols to uppercase
+
 ### Apache OpenOffice
 
 [Apache Office](http://www.openoffice.org/) is not well maintained. While you can view and edit Church Slavonic texts, 
@@ -119,7 +119,7 @@ We suggest [using LibreOffice](https://www.libreoffice.org/download/libreoffice-
 Microsoft Corporation does not recognize Church Slavonic as a language, and so hyphenation and spell checking are 
 not available, even in third-party extensions. Furthermore, there is no support for Church Slavonic in Microsoft Office. 
 Church Slavonic texts **may** display correctly in Microsoft Office using the Ponomar Unicode font. 
-However, your results may vary, and you may see inocrrectly positioned diacritical marks, missing characters and 
+However, your results may vary, and you may see incorrectly positioned diacritical marks, missing characters and 
 other problems. There are no workarounds for these issues. 
 
 *We do not provide any support for Microsoft products*.
@@ -132,17 +132,20 @@ Once you have installed the Church Slavonic fonts from [this page](fonts.html), 
 Slavonic texts in Adobe InDesign. To get support for Church Slavonic hyphenation, 
 download the 
 [Church Slavonic Dictionary Extension for LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary);
-then follow the instructions [here](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html) to install it into InDesign.
+then follow [the instructions](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html) to install it into InDesign.
 Page numbering using Cyrillic numerals is not available. If you need it, [ask Adobe](https://helpx.adobe.com/contact.html?step=IDSN)
 to add this feature or switch to LibreOffice.
 
-### Where to get help?
+### Where is the letter / symbol that I need?
 
-Here are some documents that provide helpful information:
+Tables of Church Slavonic letters and other symbols are available in the documentation:
 
-* [Church Slavonic Typography in Unicode](http://www.unicode.org/notes/tn41/) - Unicode Technical Note #41.
+* [Church Slavonic Typography in Unicode](http://www.unicode.org/notes/tn41/) - Unicode Technical Note #41. Provides tables of all relevant characters encoded in Unicode.
 * [Ponomar Project Private Use Area (PUA) Allocation Policy](http://www.ponomar.net/files/pua_policy.pdf)
-  (version 2.3, updated November 4, 2015; changes since v. 2.2 in yellow)
+  Provides tables of other characters available in fonts.
+
+### I need help!
 
 If you are having difficulties, all questions (except for those related to Microsoft products) may be addressed to 
 the [SCI-Users mailing list](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net).
+

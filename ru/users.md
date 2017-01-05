@@ -6,7 +6,7 @@ lang: ru
 
 ## Церковнославянская типографика : для пользователей
 
-Эта страница описывает, как набирать церковнославянские тексты в разных популярных программах.
+Можно легко набирать, редактировать и оформлять церковнославянские тексты в разных популярных программах.
 
 ### XeTeX и LuaTeX
 
@@ -38,7 +38,7 @@ lang: ru
   ```
   
 * Если у Вас стоит старая версия TeX Live или другой дистрибутив TeX, Вам возможно придется установить шаблоны переноса и 
-  пакеты вручную. Шаблоны переноса можно скачать [отсуда](https://github.com/slavonic/cu-tex/tree/master/hyphenation), 
+  пакеты вручную. Шаблоны переноса можно скачать [с хранилища GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation), 
   а пакет [с хранилища CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
   Следуйте инструкциям по установке, предоставленным в документации.
 
@@ -54,14 +54,15 @@ lang: ru
 ### Libre Office
 
 Начина с версии 5.0, программа LibreOffice позволяет указать, что языком текста является церковнославянский 
-(в программе он называется Church Slavic). Указав церковнославянский как язык документа, Вы можете нумеровать страницы 
+(в программе он называется `Church Slavic`). Указав церковнославянский как язык документа, Вы можете нумеровать страницы 
 кириллической цифирью, использовать автоматический перенос слов и сортировать в церковнославянском алфавитном порядке.
 
-* Уставновите церковнославянские шрифты [отсюда](fonts.html) и, если необходимо, клавиатурные 
-  драйверы для Вашей системы [отсюда](http://www.ponomar.net/cu_support/keyboardru.html)
+* Уставновите церковнославянские шрифты [с нашего сайта](fonts.html) и, если необходимо,
+ [клавиатурные драйверы для Вашей системы](http://www.ponomar.net/cu_support/keyboardru.html)
 
 * Обновите LibreOffice до версии 5.0 или позже. Самую свежую версию можно скачать 
-  [отсюда](http://www.libreoffice.org/download/libreoffice-fresh/). На платформе GNU / Linux, Вам возможно 
+  [с сайта LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/).
+  На платформе GNU / Linux, Вам возможно 
   придется удалить установленную через менеджер пакетов программу LibreOffice 4, например коммандой
   ```
   sudo apt-get remove libreoffice-core
@@ -69,8 +70,8 @@ lang: ru
   Хотя церковнославянский текст можно редактировать и в LibreOffice 4 и раньше, Вы не сможете указать, что язык 
   документа церковнославянский и не сможете использовать перенос слов и другие возможности.
   
-* Установите словарь церковнославянских переносов. Для этого скачайте словарь 
-  [отсюда](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary). 
+* Установите словарь церковнославянских переносов. Для этого [скачайте
+  словарь](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary). 
   Далее откройте LibreOffice, в меню `Tools` выберите `Extension Manager`. В окне `Extension Manager` щелкните 
   кнопку `Add...` и выберите файл `cu-lo.oxt`. Щелкните `Accept` чтобы принять лицензионное соглашение.
   
@@ -79,7 +80,7 @@ lang: ru
 * Чтобы указать, что язык текста церковнославянский, выберите Options в меню `Tools`. В разделе `Language Settings`, 
   выберите `Languages`. На панели `Language Settings` в разделе `Default Languages for Documents` выберите `Church Slavic`.
   Если Вы хотите нумеровать страницы кириллической цифирью, Вам также придется указать церковнославянский как локаль 
-  по умолчанию, что можно сделать выбрав `Church Slavic` в коробочке `Locale Setting`.
+  по умолчанию, что можно сделать, выбрав `Church Slavic` в коробочке `Locale Setting`.
   
   ![language](http://www.ponomar.net/images/locale_libreoffice.png)
   
@@ -103,9 +104,9 @@ lang: ru
   [надстройку `Church Slavonic Converter`](https://extensions.libreoffice.org/extensions/church-slavonic-converter),
   которая позволяет импортировать в Юникод документы из устаревших форматов UCS, HIP, и т.д. 
   Надстройка устанавливается в `Writer` и конвертирует выделенный текст, или, если текст не выделен, конвертирует 
-  все содержимое документа. Исходный код надстройки доступен [здесь](https://github.com/slavonic/cuconverter-LO).
+  все содержимое документа. Исходный код надстройки доступен [с хранилища GitHub](https://github.com/slavonic/cuconverter-LO).
   
-* Пока существуют некоторые баги: 
+* Пока существуют некоторые баги в LibreOffice: 
    - [85731](https://bugs.documentfoundation.org/show_bug.cgi?id=85731): Нельзя указать 
      подчеркивание (`_`) как символ переноса
    - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Нет конвертации из строчных букв в заглавные 
@@ -135,23 +136,25 @@ lang: ru
 
 ### Adobe InDesign
 
-Если Вы установили церковнославянские шрифты [с этой страницы](http://www.ponomar.net/cu_support/fonts.html),
+Если Вы установили церковнославянские шрифты [с нашего сайта](http://www.ponomar.net/cu_support/fonts.html),
 то Вы сможете верстать церковнославянский текст в программе Adobe InDesign. Для поддержки переноса слов, 
 скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary); 
-затем следуйте инструкции [здесь](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
+затем следуйте [инструкции](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
 чтобы установить их в InDesign. Нумерация страниц кириллической цифирью не поддерживается. 
 Попытайтесь связаться с [Adobe](https://helpx.adobe.com/contact.html?step=IDSN) или перейдите на LibreOffice.
 
-### Мне нужна помощь!
+### Где находится нужный мне символ?
 
-Полезную информацию Вы можете почерпнуть из этих источников:
+Таблицы церковнославянских букв и других символов представлены в документации:
 
 * [Church Slavonic Typography in Unicode](http://www.unicode.org/notes/tn41/) 
-  [Unicode Technical Note #41. Только по-английски.]
+  [Unicode Technical Note #41. Таблицы всех символов, включенных в Юникод.]
 
-* [Ponomar Project Private Use Area (PUA) Allocation Policy](http://www.ponomar.net/files/pua_policy.pdf)
-  (только по-английски)
+* [Политика использования Зоны личного пользования (PUA) Policy](http://www.ponomar.net/files/pua_policy.pdf)
+  (Таблицы дополнительных символов, доступных в PUA)
 
-### Список рассылки
-Список рассылки [SCI-Users](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (по-русски или поанглийски). 
+### Мне нужна помощь!
+
+Обратитесь в список рассылки [SCI-Users](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (по-русски или по-английски).
+
 Просьба НЕ задавать вопросы, связанные с продукцией корпорации Microsoft -- мы не сможем Вам помочь!

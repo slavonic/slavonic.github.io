@@ -52,8 +52,7 @@ possible. To familiarize yourself with LilyPond, please see:
 
 * [The LilyPond manual](http://www.lilypond.org/manuals.html)
 
-* [How to typeset scores in square notation]
-(http://www.lilypond.org/doc/v2.18/Documentation/notation/typesetting-kievan-square-notation)
+* [How to typeset scores in square notation](http://www.lilypond.org/doc/v2.18/Documentation/notation/typesetting-kievan-square-notation)
 
 * [Download the latest version of LilyPond](http://www.lilypond.org/download.html) to get started.
 
@@ -62,7 +61,7 @@ Some examples of scores in square notation produced using LilyPond:
 * Дал еси знамение (automelon in Tone 4, Znamenny chant): 
   [LilyPond source](http://www.ponomar.net/files/dalesi.ly) |
   [PDF](http://www.ponomar.net/files/dalesi.pdf) |
-  [MIDI](http://www.ponomar.net/files/dalesi.midi
+  [MIDI](http://www.ponomar.net/files/dalesi.midi)
 * Sessional hymn in Tone 5, Bulgarian chant: 
   [LilyPond source](http://www.ponomar.net/files/sessional5.ly) |
   [PDF](http://www.ponomar.net/files/sessional5.pdf) |
