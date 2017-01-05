@@ -18,8 +18,8 @@
           {% endif %}
         {% endfor %}
       </ul>
-      <ul class="nav navbar-nav">
-        <li class="nav-item lang-selector float-xs-right">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item lang-selector">
           {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
           {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
 
