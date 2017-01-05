@@ -55,3 +55,7 @@ a:hover {
 .featurette-divider {
     margin-bottom: 3rem;
 }
+
+.navbar {
+    margin-bottom: 0;
+}
