@@ -28,15 +28,15 @@
       <ul class="nav navbar-nav navbar-right">
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %} 
-          <li class="nav-item lang-selector">
-            <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a>
+          <li class="nav-item">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }} lang-selector">{{ post.lang }}</a>
           </li>
         {% endfor %}
 
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %} 
-        <li class="nav-item lang-selector">
-          <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> 
+        <li class="nav-item">
+          <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }} lang-selector">{{ page.lang }}</a> 
         </li>
         {% endfor %}
       </ul>
