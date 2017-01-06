@@ -1,7 +1,7 @@
 en:
   - title: Unicode
     link: /unicode.html
-  - title: Support us
+  - title: Support
     link: /aboutus.html
   - title: Contact us
     link: mailto:sci@ponomar.net
@@ -9,7 +9,7 @@ en:
 ru:
   - title: Юникод
     link: /ru/unicode.html
-  - title: Поддержать
+  - title: Поддержка
     link: /ru/aboutus.html
-  - title: Обратная связь
+  - title: Контакты
     link: mailto:sci@ponomar.net
