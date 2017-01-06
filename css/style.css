@@ -5,6 +5,7 @@
 
 a.lang-selector {
     padding-left: 0 !important;
+    display: inline-block !important;
 }
 
 a {
