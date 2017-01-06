@@ -3,8 +3,8 @@
     font-weight: bold;
 }
 
-.lang-selector {
-    padding-top: 0.4em;
+.lang-selector a {
+    padding-left: 0;
 }
 
 a {
