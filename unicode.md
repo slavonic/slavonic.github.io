@@ -12,7 +12,7 @@ lang: en
 writing systems. When you use Unicode, you ...
 
 * make the text easily available to users around the world on any platform and software environment
-* ensure that your text will also be useable in future implementations
+* ensure that your text will also be usable in future implementations
 * allow your text to be indexable by search engines and other systems
 * guarantee compatibility between your project and other projects
 

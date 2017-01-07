@@ -25,7 +25,7 @@ symbols in a text, you will need a font that supports these codepoints. We sugge
 
 * [The free Musica font by George Douros](http://users.teilar.gr/~g1951d/);
 * [The free Bravura font](http://www.smufl.org/fonts/), part of the SMuFL standard; or
-* The Metasuprasl font, provided by the Slavonic Computining Initative.
+* The Metasuprasl font, provided by the Slavonic Computining Initiative.
 
 - **Binaries**:
 	+	PostScript outlines and OpenType features [OpenType-CFF format](http://www.ponomar.net/files/Metasuprasl-Regular.otf)

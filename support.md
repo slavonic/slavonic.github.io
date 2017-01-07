@@ -14,8 +14,8 @@ Report a bug, read the documentation or ask a question on the mailing list if yo
    [Unicode Technical Note #41] describes the encoding model and methods of working
    with Church Slavonic text in Unicode
 
-* [Ponomar Project Private Use Area (PUA) Allocation Policy]
-  (http://www.ponomar.net/files/pua_policy.pdf)
+* [Ponomar Project Private Use Area (PUA)
+   Allocation Policy](http://www.ponomar.net/files/pua_policy.pdf)
   (version 3.0, updated November 4, 2016)
 
 * [Documentation for Church Slavonic fonts](http://www.ponomar.net/files/fonts-churchslavonic.pdf)

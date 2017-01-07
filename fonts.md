@@ -23,7 +23,7 @@ css:
     Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
   </div>
 
-* Fedorovsk Unicode is designed to mimick the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
+* Fedorovsk Unicode is designed to mimic the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
   primarily for reproducing publications from that era, either in an academic setting, or as modern Old Rite liturgical texts.
   [Download](http://www.ponomar.net/files/FedorovskUnicode.zip)
   <div class="fedorovsk sample" contenteditable="true">

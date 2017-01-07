@@ -6,7 +6,7 @@ lang: en
 
 ## Church Slavonic Keyboard Drivers
 
-Keyboard drivers are the next thing you need after a font in order to work with Chruch Slavic text. 
+Keyboard drivers are the next thing you need after a font in order to work with Church Slavic text. 
 Entering text using the Character Map (or some similar utility) is not just slow, it can also cause problems like 
 improper positioning of diacritical marks. Several different options are available for entering Church Slavic text on 
 the keyboard. 
