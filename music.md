@@ -103,12 +103,19 @@ systems.
 
 * A. Andreev and N. Simmons. [Proposal to Encode Paleoslavic Musical Notations in Unicode](http://www.ponomar.net/files/palaeoslavic.pdf)
 
-As part of our attempt to support Znamenny Notation, we have a sandbox
-where developers can play around with computer support. Everything in this area 
-is UNSUPPORTED and comes with ABSOLUTELY NO WARRANTY.
+While the proposal is being tested and approval is sought, the characters have been
+temporarily encoded in the Private Use Area of Unicode. To test the proposed
+methodology for working with Znamenny Notation, please see:
+
+* [Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf) (lists the codepoints)
+
+* [Mezenets Unicode](http://www.ponomar.net/files/MezenetsUnicode.zip)
+ (a font for Znamenny notation)
 
 * [Znamenny Notation Manual](http://www.ponomar.net/wiki/doku.php?id=znamenny_manual)
+ (a sandbox for testing the font)
 
-* [Mezenets Unicode](https://github.com/typiconman/fonts-cu/tree/master/Mezenets)
- (a font for Znamenny notation)
+All of this material is ALPHA-PHASE SOFTWARE, comes with ABSOLUTELY NO WARRANTY,
+and is intended for SOFTWARE TESTING PURPOSES ONLY.
+
 
