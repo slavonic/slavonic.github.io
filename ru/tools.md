@@ -43,6 +43,7 @@ lang: ru
 
 * [Для LibreOffice 5.0 и новее](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary)
 * [Для XeTeX, LuaTeX, и других систем, основанных на TeX](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
+* [Для веб страниц используя пакет Hyphenator.js](https://mnater.github.io/Hyphenator/)
 
 Информация о слогоделении
 

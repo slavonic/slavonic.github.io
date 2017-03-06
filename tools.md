@@ -36,6 +36,7 @@ Church Slavic hyphenation patterns
 
 * [For LibreOffice 5.0 and later](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary)
 * [For XeTeX, LuaTeX, and other TeX based systems](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
+* [For web pages using Hyphenator.js](https://mnater.github.io/Hyphenator/)
 
 ### Web Fonts
 
