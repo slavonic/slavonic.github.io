@@ -109,8 +109,8 @@ methodology for working with Znamenny Notation, please see:
 
 * [Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf) (lists the codepoints)
 
-* [Mezenets Unicode](http://www.ponomar.net/files/MezenetsUnicode.zip)
- (a font for Znamenny notation)
+* [Fonts for Znamenny Notation](https://github.com/slavonic/fonts-znam)
+ (using the proposed encoding methodology)
 
 * [Znamenny Notation Manual](http://www.ponomar.net/wiki/doku.php?id=znamenny_manual)
  (a sandbox for testing the font)
