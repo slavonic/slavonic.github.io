@@ -1,5 +1,6 @@
 .ponomar {
   font-family: 'Ponomar Unicode';
+  font-language-override: 'CSL';
 }
 
 .fedorovsk {
