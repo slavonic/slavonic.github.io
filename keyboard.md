@@ -6,31 +6,36 @@ lang: en
 
 ## Church Slavonic Keyboard Drivers
 
-Keyboard drivers are the next thing you need after a font in order to work with Church Slavic text. 
+Keyboard drivers are the next thing you need after a font in order to work with Church Slavonic text. 
 Entering text using the Character Map (or some similar utility) is not just slow, it can also cause problems like 
-improper positioning of diacritical marks. Several different options are available for entering Church Slavic text on 
+improper positioning of diacritical marks. Several different options are available for entering Church Slavonic text on 
 the keyboard. 
 
-Keyboard entry may occur either by use of a Church Slavic keyboard, designed for typing only in Church Slavic, or by use 
-of an Extended Russian keyboard, designed for typing mostly in modern Russian and occasionally in Church Slavonic. 
-If you are typesetting large amounts of Slavonic text, you will probably want the first option. If you occasionally 
-edit a few lines of Slavonic text and do not want to learn a new layout, you will undoubtedly want the second version.
+### Virtual keyboards
 
-### Virtual keyboard
+A virtual keyboard allows you to type Church Slavonic text without installing any software.
+Just enter the text into your browser and then copy/paste it into a text editor or generate
+a PDF for printing.
 
-The Church Slavonic virtual keyboard allows you to type in Church Slavonic without installing any software. Just enter 
-the text into your browser and then copy/paste it into a text editor. Both the Church Slavonic keyboard and the 
-Extended Russian are available (click on CU in the lower left-hand corner of the virtual keyboard to switch layouts).
-
-[Click here to proceed to the virtual keyboard](http://www.ponomar.net/cu_vkeyb.html)
+* [Church Slavonic virtual keyboard](http://www.ponomar.net/cu_vkeyb.html)
 
 ### Installable keyboard drivers
 
-Keyboard drivers for different operating systems:
+Keyboard drivers can be installed on your computer.
+The **Russian Extended** keyboard allows you to enter Russian text on the standard Russian
+ЙЦУКЕН keyboard and provides Church Slavonic characters on Level 3 (AltGr).
+The **Russian Phonetic** keyboard offers the same functionality, but using the phonetic
+Russian (ЯВЕРТЫ) layout. The **Church Slavonic** keyboard is a completely new layout
+optimized for entering Church Slavonic text. A Church Slavonic **Glagolitic** keyboard
+is also available for entering Glagolitic text (only for GNU / Linux systems).
+
+Read [the documentation](http://www.ponomar.net/files/docen.pdf)
+for more information and installation instructions.
 
 #### Windows
 
-* [Russian Extended](http://www.ponomar.net/files/ru-ext.zip)
+* [Russian Standard (ЙЦУКЕН) Extended](http://www.ponomar.net/files/ru-ext.zip)
+* [Russian Phonetic (ЯВЕРТЫ) Extended](http://www.ponomar.net/files/ru-phonx.zip)
 * [Special Church Slavonic](http://www.ponomar.net/files/cu-kbd.zip)
 
 #### Apple OS X
@@ -38,16 +43,48 @@ Keyboard drivers for different operating systems:
 * [Russian Extended](http://www.ponomar.net/files/ru-ext_mac.zip)
 * [Special Church Slavonic](http://www.ponomar.net/files/cukeyb_mac1.zip)
 
-#### Linux
+#### GNU / Linux
 
-For Russian Extended and special Church Slavonic keyboard drivers,
-see m17n-cu package for IBUS / m17n. [Download from GitHub](https://github.com/typiconman/m17n-cu/releases)
+All layouts are available via the m17n-cu package.
+
+* For **Debian-based systems** such as Ubuntu and Linux Mint, add the SCI repository
+to your /etc/apt/sources.list file:
+
+  ```
+  deb http://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
+  ```
+
+* Import the verification key:
+
+  ```
+  wget -q http://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
+  ```
+
+* Update your software sources:
+
+  ```
+  sudo apt-get update
+  ```
+
+* Install our package:
+
+  ```
+  sudo apt-get install m17n-cu
+  ```
+
+* For **all other systems**, [download](https://github.com/typiconman/m17n-cu/releases)
+the m17n-cu tarball and install its contents.
+
+You will then need to set up IBUS to be your input method and select the wanted
+keyboard layout from the m17n database.
+See the [the documentation](http://www.ponomar.net/files/docen.pdf)
+for more information.
 
 #### Android
 
 Physical Keyboard Driver for USB/Bluetooth keyboards:
 [download APK](http://www.ponomar.net/files/cu-android.apk)
-Alpha phase software! for testing purposes only!
+**Warning**: this is alpha phase software and is intended for testing purposes only!
 
 #### Documentation
 
