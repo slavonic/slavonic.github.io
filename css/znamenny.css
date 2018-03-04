@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Mezenets Unicode';
+    src: url('../fonts/MezenetsUnicode.eot');
+    src: url('../fonts/MezenetsUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/MezenetsUnicode.woff2') format('woff2'),
+	url('../fonts/MezenetsUnicode.woff') format('woff'),
+	url('../fonts/MezenetsUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.sample {
+  margin: 1em 5vw 1em 5vw;
+  padding: 0.5em;
+  border: 1pt solid lightgrey;
+  text-align: center;
+}
+
+.text {
+  font-family: 'Fedorovsk Unicode';
+  text-align: center;
+  font-size: 23px;
+}
+
+.neume {
+  font-family: 'Mezenets Unicode';
+  text-align: center;
+  font-size: 32px;
+}
+

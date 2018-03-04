@@ -2,9 +2,61 @@
 layout: default
 ref: music
 lang: en
+css: 
+  - znamenny
 ---
 
 ## Musical Notation
+
+### Znamenny Notation
+
+The repertoire of Znamenny, Demestvenny, and other notational systems has not yet been
+added to Unicode. We are working on a proposal to add the symbols for these notational
+systems.
+
+* A. Andreev and N. Simmons. [Proposal to Encode Paleoslavic Musical Notations in Unicode](http://www.ponomar.net/files/palaeoslavic.pdf)
+
+While the proposal is being tested and approval is sought, the characters have been
+temporarily encoded in the Private Use Area of Unicode. To test the proposed
+methodology for working with Znamenny Notation, please see:
+
+* [Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf)
+
+#### Fonts for Znamenny Notation
+
+* Mezenets Unicode is a font for typesetting Znamenny Notation with priznaki
+ (Type A notation according to the classification of J. Gardner).
+
+  [Download the font](http://www.ponomar.net/files/MezenetsUnicode.zip)
+
+<div class="sample" contenteditable="true">
+	<table align="center">
+	<tr><td class="neume"></td><td class="neume"></td>
+	<td class="neume">&nbsp;&nbsp;</td>
+	<td class="neume"></td><td class="neume"></td>
+	<td class="neume"></td>
+	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
+	<td class="text">&nbsp;&nbsp;</td>
+	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
+	</tr>
+	<tr><td class="text">Тво</td><td class="text">ѧ̀</td><td class="text">&nbsp;&nbsp;</td>
+	<td class="text">по</td><td class="text">бѣ</td><td class="text">ди́</td>
+	<td class="text">тел</td><td class="text">на</td><td class="text">ѧ</td>
+	<td class="text">&nbsp;&nbsp;</td>
+	<td class="text">де</td><td class="text">сни́</td><td class="text">ца</td>
+	</tr>
+	</table>
+</div>
+
+* [Source code for all fonts on GitHub](https://github.com/slavonic/fonts-znam/)
+
+#### Input and Editing
+
+* In LaTeX, Znamenny Notation may be typeset using the `churchslavonic` package 
+[View details&nbsp;»](/users.html) 
+
+* For other software, you may use the [HTML-based Neumatic Notation
+Editor](http://www.ponomar.net/znamenny/hookup2.html)
 
 ### Kievan Square Notation
 
@@ -93,29 +145,4 @@ Then compile into a Type1 font using [mf2pt1](http://www.ctan.org/pkg/mf2pt1).
 * [Documentation for SMuFL](https://w3c.github.io/smufl/gitbook/)
 Standard Music Font Layout), a standard for encoding additional musical glyphs
 in the Private Use Area (PUA) of Unicode.
-
-### Znamenny Notation
-
-The repertoire of Znamenny, Demestvenny, and other notational systems has not yet been
-added to Unicode and adequate support for working with these notations on the computer
-is not yet available. We are working on a proposal to add the symbols for these notational
-systems.
-
-* A. Andreev and N. Simmons. [Proposal to Encode Paleoslavic Musical Notations in Unicode](http://www.ponomar.net/files/palaeoslavic.pdf)
-
-While the proposal is being tested and approval is sought, the characters have been
-temporarily encoded in the Private Use Area of Unicode. To test the proposed
-methodology for working with Znamenny Notation, please see:
-
-* [Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf) (lists the codepoints)
-
-* [Fonts for Znamenny Notation](https://github.com/slavonic/fonts-znam)
- (using the proposed encoding methodology)
-
-* [Znamenny Notation Manual](http://www.ponomar.net/wiki/doku.php?id=znamenny_manual)
- (a sandbox for testing the font)
-
-All of this material is ALPHA-PHASE SOFTWARE, comes with ABSOLUTELY NO WARRANTY,
-and is intended for SOFTWARE TESTING PURPOSES ONLY.
-
 
