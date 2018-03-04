@@ -9,6 +9,17 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Fedorovsk Unicode';
+    src: url('../fonts/FedorovskUnicode.eot');
+    src: url('../fonts/FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/FedorovskUnicode.woff2') format('woff2'),
+	url('../fonts/FedorovskUnicode.woff') format('woff'),
+	url('../fonts/FedorovskUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .sample {
   margin: 1em 5vw 1em 5vw;
   padding: 0.5em;
