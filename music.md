@@ -31,13 +31,13 @@ methodology for working with Znamenny Notation, please see:
 
 <div class="sample" contenteditable="true">
 	<table align="center">
-	<tr><td class="neume"></td><td class="neume"></td>
+	<tr><td class="neume"></td><td class="neume"></td>
 	<td class="neume">&nbsp;&nbsp;</td>
-	<td class="neume"></td><td class="neume"></td>
-	<td class="neume"></td>
-	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
+	<td class="neume"></td><td class="neume"></td>
+	<td class="neume"></td>
+	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
 	<td class="text">&nbsp;&nbsp;</td>
-	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
+	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
 	</tr>
 	<tr><td class="text">Тво</td><td class="text">ѧ̀</td><td class="text">&nbsp;&nbsp;</td>
 	<td class="text">по</td><td class="text">бѣ</td><td class="text">ди́</td>
