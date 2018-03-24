@@ -10,6 +10,17 @@
 }
 
 @font-face {
+    font-family: 'Shaidur Unicode';
+    src: url('../fonts/ShaidurUnicode.eot');
+    src: url('../fonts/ShaidurUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/ShaidurUnicode.woff2') format('woff2'),
+	url('../fonts/ShaidurUnicode.woff') format('woff'),
+	url('../fonts/ShaidurUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Fedorovsk Unicode';
     src: url('../fonts/FedorovskUnicode.eot');
     src: url('../fonts/FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
@@ -37,5 +48,17 @@
   font-family: 'Mezenets Unicode';
   text-align: center;
   font-size: 32px;
+}
+
+.neumeB {
+  font-family: 'Shaidur Unicode';
+  text-align: center;
+  font-size: 32px;
+}
+
+rt {
+  font-family: 'Shaidur Unicode';
+  font-size: 20px;
+  color: red;
 }
 

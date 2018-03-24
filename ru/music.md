@@ -50,6 +50,18 @@ css:
 	</table>
 </div>
 
+* Shaidur Unicode — шрифт для набора знаменной нотации с пометами, но без признаков
+(нотации Типа Б по классификации И. А. Гарднера).
+ [Скачать шрифт](http://www.ponomar.net/files/ShaidurUnicode.zip)
+
+<div class="sample" contenteditable="true">
+	<table align="center">
+	<tr><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB">&nbsp;&nbsp;</td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"><ruby><rt></rt></ruby></td><td class="neumeB">&nbsp;&nbsp;</td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td>
+	</tr><tr>
+	<td class="text">Тво</td><td class="text">ꙗ</td><td  class="text">&nbsp;&nbsp;</td><td class="text">по</td><td class="text">бѣ</td><td class="text">ᲁи</td><td class="text">те</td><td class="text">ле</td><td class="text">на</td><td class="text">ꙗ</td><td class="text">&nbsp;&nbsp;</td><td class="text">ᲁе</td><td class="text">сни</td><td class="text">ца</td></tr>
+	</table>
+</div>
+
 * [Исходный код для шрифтов на GitHub](https://github.com/slavonic/fonts-znam/)
 
 #### Ввод и редактирование нотации

@@ -48,6 +48,19 @@ methodology for working with Znamenny Notation, please see:
 	</table>
 </div>
 
+* Shaidur Unicode is a font for typesetting Znamenny Notation <b>without</b> priznaki
+ (Type B notation according to the classification of J. Gardner).
+
+  [Download the font](http://www.ponomar.net/files/ShaidurUnicode.zip)
+
+<div class="sample" contenteditable="true">
+	<table align="center">
+	<tr><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB">&nbsp;&nbsp;</td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"><ruby><rt></rt></ruby></td><td class="neumeB">&nbsp;&nbsp;</td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td>
+	</tr><tr>
+	<td class="text">Тво</td><td class="text">ꙗ</td><td  class="text">&nbsp;&nbsp;</td><td class="text">по</td><td class="text">бѣ</td><td class="text">ᲁи</td><td class="text">те</td><td class="text">ле</td><td class="text">на</td><td class="text">ꙗ</td><td class="text">&nbsp;&nbsp;</td><td class="text">ᲁе</td><td class="text">сни</td><td class="text">ца</td></tr>
+	</table>
+</div>
+
 * [Source code for all fonts on GitHub](https://github.com/slavonic/fonts-znam/)
 
 #### Input and Editing
