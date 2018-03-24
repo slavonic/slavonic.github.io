@@ -48,17 +48,20 @@
   font-family: 'Mezenets Unicode';
   text-align: center;
   font-size: 32px;
+  vertical-align: bottom;
 }
 
 .neumeB {
   font-family: 'Shaidur Unicode';
   text-align: center;
   font-size: 32px;
+  vertical-align: bottom;
 }
 
 rt {
   font-family: 'Shaidur Unicode';
   font-size: 20px;
-  color: red;
+  color: #CC0502;
+  margin-bottom: -200%;
 }
 
