@@ -22,7 +22,7 @@ in your favorite editor, or on the web.
 to type Church Slavonic text in your favorite OS, and
 information on how to [set up your text editing software](/users.html).
 Don't want the hassle of installing drivers? 
-[Try the web-based keyboard tool](http://www.ponomar.net/cu_vkeyb.html)!
+[Try the web-based keyboard tool](https://www.ponomar.net/cu_vkeyb.html)!
 
 </div><div class="col-md-4">
 
@@ -39,7 +39,7 @@ Typeset beatiful liturgical music and chants in modern, Kievan square, or Znamen
 ### Get Texts
 
 Most of the existing Church Slavonic liturgical books are already digitized.
-Get them from the [Ponomar Library](http://www.ponomar.net/cgi-bin/maktabah.cgi).
+Get them from the [Ponomar Library](https://www.ponomar.net/cgi-bin/maktabah.cgi).
 
 </div><div class="col-md-4">
 

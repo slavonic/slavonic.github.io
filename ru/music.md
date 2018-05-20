@@ -30,12 +30,12 @@ lang: ru
 * Свободный шрифт Metasuprasl, разработанный Инициативной группой славянской информатики.
 
 - **Шрифтовые файлы**:
-	+	[Формат OpenType](http://www.ponomar.net/files/Metasuprasl-Regular.otf)
-	+	[Формат TrueType](http://www.ponomar.net/files/Metasuprasl-SIL.ttf)
+	+	[Формат OpenType](https://www.ponomar.net/files/Metasuprasl-Regular.otf)
+	+	[Формат TrueType](https://www.ponomar.net/files/Metasuprasl-SIL.ttf)
 
 - **Исходный код**:
-  + [Для программы FontForge](http://www.ponomar.net/files/Metasuprasl-Regular.sfd)
-  + [Для Graphite](http://www.ponomar.net/files/Metasuprasl-Regular.gdl)
+  + [Для программы FontForge](https://www.ponomar.net/files/Metasuprasl-Regular.sfd)
+  + [Для Graphite](https://www.ponomar.net/files/Metasuprasl-Regular.gdl)
 
 Шрифт Metasuprasl Regular можно использовать для набора квадратной ноты в текстовом редакторе. 
 Версия шрифта в формате TrueType содержит возможности SIL Graphite. 
@@ -69,13 +69,13 @@ lang: ru
 Несколько примеров партитур в квадратной нотации, набранных в LilyPond:
 
 * Дал еси знамение (самоподобен, глас 4, знаменный роспев): 
-  [Исходный код LilyPond](http://www.ponomar.net/files/dalesi.ly) |
-  [PDF](http://www.ponomar.net/files/dalesi.pdf) |
-  [MIDI](http://www.ponomar.net/files/dalesi.midi)
+  [Исходный код LilyPond](https://www.ponomar.net/files/dalesi.ly) |
+  [PDF](https://www.ponomar.net/files/dalesi.pdf) |
+  [MIDI](https://www.ponomar.net/files/dalesi.midi)
 * Седален, глас 5, болгарский роспев: 
-  [Исходный код LilyPond](http://www.ponomar.net/files/sessional5.ly) |
-  [PDF](http://www.ponomar.net/files/sessional5.pdf) |
-  [MIDI](http://www.ponomar.net/files/sessional5.midi)
+  [Исходный код LilyPond](https://www.ponomar.net/files/sessional5.ly) |
+  [PDF](https://www.ponomar.net/files/sessional5.pdf) |
+  [MIDI](https://www.ponomar.net/files/sessional5.midi)
 
 Если Вы уже работаете в другой программе набора нотации, Вам
 могут быть интересны преобразователи из форматов других программ в формат LilyPond:
@@ -94,13 +94,13 @@ lang: ru
 утилиту [mf2pt1](http://www.ctan.org/pkg/mf2pt1).
 
 - **Исходный код**:
-  + [На языке METAFONT](http://www.ponomar.net/files/metasuprasl.mf)
+  + [На языке METAFONT](https://www.ponomar.net/files/metasuprasl.mf)
 
 #### Кодировка
 
 * A. Andreev, Y. Shardt, и N. Simmons.
 [Предложение по кодированию символов Киевской квадратной нотации
-в Юникоде (на английском)](http://www.ponomar.net/files/kievan.pdf) [Предложение принято]
+в Юникоде (на английском)](https://www.ponomar.net/files/kievan.pdf) [Предложение принято]
 
 * [Документация формата SMuFL](https://w3c.github.io/smufl/gitbook/)
 Standard Music Font Layout) -- стандарта кодирования дополнительных 
@@ -114,13 +114,13 @@ Standard Music Font Layout) -- стандарта кодирования доп�
 для поддержки этих нотаций.
 
 * A. Andreev и N. Simmons. [Предложение по кодированию древнерусских невменных 
-музыкальных нотаций в Юникоде (на английском)](http://www.ponomar.net/files/palaeoslavic.pdf)
+музыкальных нотаций в Юникоде (на английском)](https://www.ponomar.net/files/palaeoslavic.pdf)
 
 Вы можете по-экспериментировать с предложенным нами стандартом в песочнице.
 Однако на данном этапе, все шрифты и тексты предоставляются без каких-бы то ни было
 гарантийных обязательств.
 
-* [Песочница для работы с знаменной нотацией](http://www.ponomar.net/wiki/doku.php?id=znamenny_manual)
+* [Песочница для работы с знаменной нотацией](https://www.ponomar.net/wiki/doku.php?id=znamenny_manual)
 
 * [Mezenets Unicode](https://github.com/typiconman/fonts-cu/tree/master/Mezenets)
  (шрифт для набора знаменной нотации)

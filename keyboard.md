@@ -22,7 +22,7 @@ The Church Slavonic virtual keyboard allows you to type in Church Slavonic witho
 the text into your browser and then copy/paste it into a text editor. Both the Church Slavonic keyboard and the 
 Extended Russian are available (click on CU in the lower left-hand corner of the virtual keyboard to switch layouts).
 
-[Click here to proceed to the virtual keyboard](http://www.ponomar.net/cu_vkeyb.html)
+[Click here to proceed to the virtual keyboard](https://www.ponomar.net/cu_vkeyb.html)
 
 ### Installable keyboard drivers
 
@@ -30,13 +30,13 @@ Keyboard drivers for different operating systems:
 
 #### Windows
 
-* [Russian Extended](http://www.ponomar.net/files/ru-ext.zip)
-* [Special Church Slavonic](http://www.ponomar.net/files/cu-kbd.zip)
+* [Russian Extended](https://www.ponomar.net/files/ru-ext.zip)
+* [Special Church Slavonic](https://www.ponomar.net/files/cu-kbd.zip)
 
 #### Apple OS X
 
-* [Russian Extended](http://www.ponomar.net/files/ru-ext_mac.zip)
-* [Special Church Slavonic](http://www.ponomar.net/files/cukeyb_mac1.zip)
+* [Russian Extended](https://www.ponomar.net/files/ru-ext_mac.zip)
+* [Special Church Slavonic](https://www.ponomar.net/files/cukeyb_mac1.zip)
 
 #### Linux
 
@@ -46,12 +46,12 @@ see m17n-cu package for IBUS / m17n. [Download from GitHub](https://github.com/t
 #### Android
 
 Physical Keyboard Driver for USB/Bluetooth keyboards:
-[download APK](http://www.ponomar.net/files/cu-android.apk)
+[download APK](https://www.ponomar.net/files/cu-android.apk)
 Alpha phase software! for testing purposes only!
 
 #### Documentation
 
-Documentation for all keyboard layouts and installation instructions in PDF: [download](http://www.ponomar.net/files/docen.pdf)
+Documentation for all keyboard layouts and installation instructions in PDF: [download](https://www.ponomar.net/files/docen.pdf)
 
 #### FAQ's
 

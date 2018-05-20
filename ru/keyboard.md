@@ -25,7 +25,7 @@ lang: ru
 Текст можно вводить в окно браузера и потом копировать и вставлять в текстовый редактор. Доступна как славянская раскладка, 
 так и расширенная русская (щелкаем на кнопку CU в левом нижнем углу виртуальной клавиатуры для смены раскладки).
 
-[Перейти к виртуальной клавиатуре](http://ponomar.net/cu_vkeyb.html).
+[Перейти к виртуальной клавиатуре](https://ponomar.net/cu_vkeyb.html).
 
 ### Программное обеспечение для установки
 
@@ -33,13 +33,13 @@ lang: ru
 
 #### Windows
 
-* [Русская расширенная](http://www.ponomar.net/files/ru-ext.zip)
-* [Славянская специальная](http://www.ponomar.net/files/cu-kbd.zip)
+* [Русская расширенная](https://www.ponomar.net/files/ru-ext.zip)
+* [Славянская специальная](https://www.ponomar.net/files/cu-kbd.zip)
 
 #### Apple OS X
 
-* [Русская расширенная](http://www.ponomar.net/files/ru-ext_mac.zip)
-* [Славянская специальная](http://www.ponomar.net/files/cukeyb_mac1.zip)
+* [Русская расширенная](https://www.ponomar.net/files/ru-ext_mac.zip)
+* [Славянская специальная](https://www.ponomar.net/files/cukeyb_mac1.zip)
 
 #### GNU/Linux
 
@@ -47,12 +47,12 @@ lang: ru
 
 #### Android
 
-[Драйвер для физических клавиатур USB/Bluetooth](http://www.ponomar.net/files/cu-android.apk)
+[Драйвер для физических клавиатур USB/Bluetooth](https://www.ponomar.net/files/cu-android.apk)
 Внимание: Абсолютно никакой гарантии, используйте на свой страх и риск!
 
 #### Документация
 
-Документация и [инструкции по установки для всех раскладок](http://www.ponomar.net/files/docen.pdf)
+Документация и [инструкции по установки для всех раскладок](https://www.ponomar.net/files/docen.pdf)
 
 #### Часто задаваемые вопросы
 
