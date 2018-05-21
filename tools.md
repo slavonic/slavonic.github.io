@@ -10,10 +10,10 @@ lang: en
 
 Converters for converting Church Slavonic texts into Unicode from various legacy codepages.
 
-* [HIP](http://orthlib.ru/hip/) to Unicode converter [Web interface](http://www.ponomar.net/cgi-bin/hip2utf.cgi) |
+* [HIP](http://orthlib.ru/hip/) to Unicode converter [Web interface](https://www.ponomar.net/cgi-bin/hip2utf.cgi) |
   [Standalone through Lingua::CU::Scripts](https://github.com/typiconman/Perl-Lingua-CU) module
 
-* [Irmologion](http://irmologion.ru/) to Unicode converter [Web interface](http://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
+* [Irmologion](http://irmologion.ru/) to Unicode converter [Web interface](https://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
    [Standalone through Lingua::CU::Scripts](https://github.com/typiconman/Perl-Lingua-CU) module
 
 * [Church Slavonic converter Extension for LibreOffice 3.0 and higher](https://extensions.libreoffice.org/extensions/church-slavonic-converter)
@@ -58,7 +58,7 @@ declare the appropriate CSS classes, for example:
 
 If you do not wish to load the fonts from our server but would rather place
 the embeddable web fonts on your own server, you can download the
-[embeddable web font package](http://www.ponomar.net/files/sci-webfonts.zip)
+[embeddable web font package](https://www.ponomar.net/files/sci-webfonts.zip)
 and un-zip it to some directory on your server. 
 
 The package provides all of the fonts in [WOFF2](https://www.w3.org/TR/WOFF2/),
@@ -72,11 +72,11 @@ under the same license as the installable fonts; see the [legal page](legal.html
 
 ### Miscellaneous Resources
 
-* List of modern Church Slavonic words and their frequencies: [LibreOffice format](http://www.ponomar.net/files/wordlist.ods)
-  | [Tab-separated values](http://www.ponomar.net/files/wordlist.tsv).
-* Church Slavonic words and their definitions: [LibreOffice format](http://www.ponomar.net/files/dictout.ods)
-  | [MS Excel format](http://www.ponomar.net/files/dictout.xls).
-* Archive of all Church Slavonic books in the modern corpus: [Text-only in ZIP format](http://www.ponomar.net/files/cubooks.zip)
-* _Church Slavonic Grammar_ (by Archbishop Alypy) [in Russian](http://www.ponomar.net/files/gama2/toc.html)
+* List of modern Church Slavonic words and their frequencies: [LibreOffice format](https://www.ponomar.net/files/wordlist.ods)
+  | [Tab-separated values](https://www.ponomar.net/files/wordlist.tsv).
+* Church Slavonic words and their definitions: [LibreOffice format](https://www.ponomar.net/files/dictout.ods)
+  | [MS Excel format](https://www.ponomar.net/files/dictout.xls).
+* Archive of all Church Slavonic books in the modern corpus: [Text-only in ZIP format](https://www.ponomar.net/files/cubooks.zip)
+* _Church Slavonic Grammar_ (by Archbishop Alypy) [in Russian](https://www.ponomar.net/files/gama2/toc.html)
 
 

@@ -16,7 +16,7 @@ The project depends entirely on the work of volunteers like you.
 
 * [Aleksandr Andreev](https://orthodoxtheologicalschool.academia.edu/AleksandrAndreev).
   Graduate student at St. Petersburg Theological Academy and liturgics instructor at the Pastoral School,
-  also part of the [Ponomar Project](http://www.ponomar.net/)
+  also part of the [Ponomar Project](https://www.ponomar.net/)
 
 * [Mike Kroutikov](https://github.com/pgmmpk). Software developer and Church Slavonic enthusiast.
 
@@ -41,12 +41,12 @@ which can be used in LibreOffice, Mozilla Firefox, and other applications.
 
 * Digitizing [even more Church Slavonic liturgical books](http://minei.ru/minea/advanced).
 
-[Contact us](http://www.ponomar.net/mailman/listinfo/sci-users_ponomar.net)
+[Contact us](https://www.ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 to join the Slavonic Computing Initiative.
 
 </div><div class="col-md-3 hidden-sm-down">
 
-![Sample Slavonic](http://www.ponomar.net/images/sample_page.png)
+![Sample Slavonic](https://www.ponomar.net/images/sample_page.png)
 {: .featurette-image }
 
 </div></div>

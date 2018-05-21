@@ -15,7 +15,7 @@ lang: ru
 Виртуальная клавиатура позволяет набирать церковнославянский текст без установки программного обеспечения. 
 Текст можно вводить в окно браузера и потом копировать и вставлять в текстовый редактор.
 
-[Церковнославянская виртуальная клавиатура](http://ponomar.net/cu_vkeyb.html).
+[Церковнославянская виртуальная клавиатура](https://ponomar.net/cu_vkeyb.html).
 
 ### Программное обеспечение для установки
 
@@ -37,14 +37,14 @@ lang: ru
 
 #### Windows
 
-* [Русская стандартная расширенная (ЙЦУКЕН)](http://www.ponomar.net/files/ru-ext.zip)
-* [Русская фонетическая расширенная (ЯВЕРТЫ)](http://www.ponomar.net/files/ru-phonx.zip)
-* [Славянская специальная](http://www.ponomar.net/files/cu-kbd.zip)
+* [Русская стандартная расширенная (ЙЦУКЕН)](https://www.ponomar.net/files/ru-ext.zip)
+* [Русская фонетическая расширенная (ЯВЕРТЫ)](https://www.ponomar.net/files/ru-phonx.zip)
+* [Славянская специальная](https://www.ponomar.net/files/cu-kbd.zip)
 
 #### Apple OS X
 
-* [Русская стандартная расширенная](http://www.ponomar.net/files/ru-ext_mac.zip)
-* [Славянская специальная](http://www.ponomar.net/files/cukeyb_mac1.zip)
+* [Русская стандартная расширенная](https://www.ponomar.net/files/ru-ext_mac.zip)
+* [Славянская специальная](https://www.ponomar.net/files/cukeyb_mac1.zip)
 
 #### GNU / Linux
 
@@ -54,13 +54,13 @@ lang: ru
 добавьте хранилище SCI в ваш файл /etc/apt/sources.list:
 
   ```
-  deb http://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
+  deb https://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
   ```
 
 * Импортируйте криптографический ключ:
 
   ```
-  wget -q http://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
+  wget -q https://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
   ```
 
 * Обновите базу данных источников приложений:
@@ -80,16 +80,16 @@ lang: ru
 
 Вам нужно выбрать IBUS как систему ввода текста и затем выбрать необходимую
 раскладку из базы данных m17n.
-Подробности см. [в документации](http://www.ponomar.net/files/docen.pdf).
+Подробности см. [в документации](https://www.ponomar.net/files/docen.pdf).
 
 #### Android
 
-[Драйвер для физических клавиатур USB/Bluetooth](http://www.ponomar.net/files/cu-android.apk)
+[Драйвер для физических клавиатур USB/Bluetooth](https://www.ponomar.net/files/cu-android.apk)
 Внимание: Абсолютно никакой гарантии, используйте на свой страх и риск!
 
 #### Документация
 
-Документация и [инструкции по установки всех раскладок](http://www.ponomar.net/files/docen.pdf) пока доступна только на 
+Документация и [инструкции по установки всех раскладок](https://www.ponomar.net/files/docen.pdf) пока доступна только на 
 английском языке.
 
 #### Часто задаваемые вопросы

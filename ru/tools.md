@@ -11,12 +11,12 @@ lang: ru
 Преобразователи из различных исторических кодовых таблицы в Юникод:
 
 * Преобразователь [HIP](http://orthlib.ru/hip/) -> Юникод
-  [веб интерфейс](http://www.ponomar.net/cgi-bin/hip2utf.cgi) | 
+  [веб интерфейс](https://www.ponomar.net/cgi-bin/hip2utf.cgi) | 
  [или как самостоятельная программа в пакете Lingua::CU::Scripts]
 (https://github.com/typiconman/Perl-Lingua-CU) module
 
 * Преобразователь [Ирмологий](http://irmologion.ru/ucsenc.html#atop) -> Юникод
-  [веб интерфейс](http://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
+  [веб интерфейс](https://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
  [или как самостоятельная программа в пакете Lingua::CU::Scripts]
 
 * Расширение преобразователей для LibreOffice 3 и старше
@@ -71,7 +71,7 @@ lang: ru
 
 Если вы не хотите загружать шрифты с нашего сервера, но хотите расположить
 их непосредственно на вашем сервере, то вы можете скачать 
-[архив с веб шрифтами](http://www.ponomar.net/files/sci-webfonts.zip)
+[архив с веб шрифтами](https://www.ponomar.net/files/sci-webfonts.zip)
 и раскрыть его в какой-либо директории на вашем сервере.
 
 Этот архив содержит шрифты в форматах [WOFF2](https://www.w3.org/TR/WOFF2/),
@@ -87,12 +87,12 @@ lang: ru
 ### Разное
 
 * Список современных церковнославянских словоформ и их частоты использования в корпусе 
-  текстов: [в формате LibreOffice](http://www.ponomar.net/files/wordlist.ods) |
-  [в формате Tab-separated values](http://www.ponomar.net/files/wordlist.tsv).
+  текстов: [в формате LibreOffice](https://www.ponomar.net/files/wordlist.ods) |
+  [в формате Tab-separated values](https://www.ponomar.net/files/wordlist.tsv).
 * Современные церковнославянские слова и их значения (словарь): 
-  [в формате LibreOffice](http://www.ponomar.net/files/dictout.ods) |
-  [в формате MS Excel](http://www.ponomar.net/files/dictout.xls).
+  [в формате LibreOffice](https://www.ponomar.net/files/dictout.ods) |
+  [в формате MS Excel](https://www.ponomar.net/files/dictout.xls).
 * Современные церковнославянские богослужебные книги одним архивом: 
-  [в формате ZIP](http://www.ponomar.net/files/cubooks.zip)
-* _Грамматика церковнославянского языка_ [архиеп. Алипия Гамановича](http://www.ponomar.net/files/gama2/toc.html)
+  [в формате ZIP](https://www.ponomar.net/files/cubooks.zip)
+* _Грамматика церковнославянского языка_ [архиеп. Алипия Гамановича](https://www.ponomar.net/files/gama2/toc.html)
 

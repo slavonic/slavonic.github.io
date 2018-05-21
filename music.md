@@ -14,20 +14,20 @@ The repertoire of Znamenny, Demestvenny, and other notational systems has not ye
 added to Unicode. We are working on a proposal to add the symbols for these notational
 systems.
 
-* A. Andreev and N. Simmons. [Proposal to Encode Paleoslavic Musical Notations in Unicode](http://www.ponomar.net/files/palaeoslavic.pdf)
+* A. Andreev and N. Simmons. [Proposal to Encode Paleoslavic Musical Notations in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
 
 While the proposal is being tested and approval is sought, the characters have been
 temporarily encoded in the Private Use Area of Unicode. To test the proposed
 methodology for working with Znamenny Notation, please see:
 
-* [Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf)
+* [Private Use Area Policy](https://www.ponomar.net/files/pua_policy.pdf)
 
 #### Fonts for Znamenny Notation
 
 * Mezenets Unicode is a font for typesetting Znamenny Notation with priznaki
  (Type A notation according to the classification of J. Gardner).
 
-  [Download the font](http://www.ponomar.net/files/MezenetsUnicode.zip)
+  [Download the font](https://www.ponomar.net/files/MezenetsUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -51,7 +51,7 @@ methodology for working with Znamenny Notation, please see:
 * Shaidur Unicode is a font for typesetting Znamenny Notation <b>without</b> priznaki
  (Type B notation according to the classification of J. Gardner).
 
-  [Download the font](http://www.ponomar.net/files/ShaidurUnicode.zip)
+  [Download the font](https://www.ponomar.net/files/ShaidurUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -69,7 +69,7 @@ methodology for working with Znamenny Notation, please see:
 [View details&nbsp;»](/users.html) 
 
 * For other software, you may use the [HTML-based Neumatic Notation
-Editor](http://www.ponomar.net/znamenny/hookup2.html)
+Editor](https://www.ponomar.net/znamenny/hookup2.html)
 
 ### Kievan Square Notation
 
@@ -93,12 +93,12 @@ symbols in a text, you will need a font that supports these codepoints. We sugge
 * The Metasuprasl font, provided by the Slavonic Computining Initiative.
 
 - **Binaries**:
-	+	PostScript outlines and OpenType features [OpenType-CFF format](http://www.ponomar.net/files/Metasuprasl-Regular.otf)
-	+	TrueType outlines, OpenType and Graphite features [TrueType format](http://www.ponomar.net/files/Metasuprasl-SIL.ttf)
+	+	PostScript outlines and OpenType features [OpenType-CFF format](https://www.ponomar.net/files/Metasuprasl-Regular.otf)
+	+	TrueType outlines, OpenType and Graphite features [TrueType format](https://www.ponomar.net/files/Metasuprasl-SIL.ttf)
 
 - **Source code**:
-  + [FontForge source](http://www.ponomar.net/files/Metasuprasl-Regular.sfd)
-  + [GDL Source code](http://www.ponomar.net/files/Metasuprasl-Regular.gdl)
+  + [FontForge source](https://www.ponomar.net/files/Metasuprasl-Regular.sfd)
+  + [GDL Source code](https://www.ponomar.net/files/Metasuprasl-Regular.gdl)
 
 Metasuprasl Regular is a font for typesetting Kievan notation inline.
 In the SIL Graphite version, the half note with the 
@@ -124,13 +124,13 @@ possible. To familiarize yourself with LilyPond, please see:
 Some examples of scores in square notation produced using LilyPond:
 
 * Дал еси знамение (automelon in Tone 4, Znamenny chant): 
-  [LilyPond source](http://www.ponomar.net/files/dalesi.ly) |
-  [PDF](http://www.ponomar.net/files/dalesi.pdf) |
-  [MIDI](http://www.ponomar.net/files/dalesi.midi)
+  [LilyPond source](https://www.ponomar.net/files/dalesi.ly) |
+  [PDF](https://www.ponomar.net/files/dalesi.pdf) |
+  [MIDI](https://www.ponomar.net/files/dalesi.midi)
 * Sessional hymn in Tone 5, Bulgarian chant: 
-  [LilyPond source](http://www.ponomar.net/files/sessional5.ly) |
-  [PDF](http://www.ponomar.net/files/sessional5.pdf) |
-  [MIDI](http://www.ponomar.net/files/sessional5.midi)
+  [LilyPond source](https://www.ponomar.net/files/sessional5.ly) |
+  [PDF](https://www.ponomar.net/files/sessional5.pdf) |
+  [MIDI](https://www.ponomar.net/files/sessional5.midi)
 
 Here are some utilities offered on other websites to help convert 
 your scores to LilyPond:
@@ -148,12 +148,12 @@ modify the font metrics in the METAFONT file to suit your notational program.
 Then compile into a Type1 font using [mf2pt1](http://www.ctan.org/pkg/mf2pt1).
 
 - **Source**:
-  + [METAFONT source](http://www.ponomar.net/files/metasuprasl.mf)
+  + [METAFONT source](https://www.ponomar.net/files/metasuprasl.mf)
 
 #### Encoding
 
 * A. Andreev, Y. Shardt, and N. Simmons.
-[Proposal to Encode Medieval East-Slavic Music Notation in Unicode](http://www.ponomar.net/files/kievan.pdf) [Accepted]
+[Proposal to Encode Medieval East-Slavic Music Notation in Unicode](https://www.ponomar.net/files/kievan.pdf) [Accepted]
 
 * [Documentation for SMuFL](https://w3c.github.io/smufl/gitbook/)
 Standard Music Font Layout), a standard for encoding additional musical glyphs

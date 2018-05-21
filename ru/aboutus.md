@@ -21,7 +21,7 @@ lang: ru
 
 * [Александр Андреев](https://orthodoxtheologicalschool.academia.edu/AleksandrAndreev).
   Аспирант Санкт-Петербургской духовной академии и преподаватель литургики в
-  Пастырском училище РПЦЗ, участник [проекта Пономарь](http://www.ponomar.net/).
+  Пастырском училище РПЦЗ, участник [проекта Пономарь](https://www.ponomar.net/).
 
 * [Михаил Крутиков](https://github.com/pgmmpk). Программист и энтузиаст в области славянской
   типографики.
@@ -47,12 +47,12 @@ lang: ru
 
 * Оцифровка [дополнительных богослужебных книг](http://minei.ru/minea/advanced).
 
-[Свяжитесь с нами](http://www.ponomar.net/mailman/listinfo/sci-users_ponomar.net)
+[Свяжитесь с нами](https://www.ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 чтобы принять участие в работе Инициативной группы.
 
 </div><div class="col-md-3 hidden-sm-down">
 
-![Sample Slavonic](http://www.ponomar.net/images/sample_page.png)
+![Sample Slavonic](https://www.ponomar.net/images/sample_page.png)
 {: .featurette-image }
 
 </div></div>

@@ -48,8 +48,8 @@ lang: ru
   и [пакета `churchslavonic`](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-ru.pdf).
   
 * Если Вы не знаете, как начать, смотрите 
-  [примерный TeX файл](http://www.ponomar.net/files/sample.tex) 
-  и его [результат в PDF](http://www.ponomar.net/files/sample.pdf).
+  [примерный TeX файл](https://www.ponomar.net/files/sample.tex) 
+  и его [результат в PDF](https://www.ponomar.net/files/sample.pdf).
 
 * Для проверки орфографии, установите программу Hunspell и пакет
   [церковнославянских словарей для Hunspell](https://github.com/slavonic/hunspell-cu/releases).
@@ -63,7 +63,7 @@ lang: ru
 кириллической цифирью, использовать автоматический перенос слов и сортировать в церковнославянском алфавитном порядке.
 
 * Установите церковнославянские шрифты [с нашего сайта](fonts.html) и, если необходимо,
- [клавиатурные драйверы для Вашей системы](http://www.ponomar.net/cu_support/keyboardru.html)
+ [клавиатурные драйверы для Вашей системы](https://www.ponomar.net/cu_support/keyboardru.html)
 
 * Обновите LibreOffice до версии 5.0 или позже. Хотя церковнославянский текст можно редактировать и в LibreOffice 4 и раньше, Вы не сможете указать, что язык 
   документа церковнославянский и не сможете использовать перенос слов,
@@ -74,30 +74,30 @@ lang: ru
   Далее откройте LibreOffice, в меню `Tools` выберите `Extension Manager`. В окне `Extension Manager` щелкните 
   кнопку `Add...` и выберите файл `cu-lo.oxt`. Щелкните `Accept` чтобы принять лицензионное соглашение.
   
-  ![install extension](http://www.ponomar.net/images/extension_install.png)
+  ![install extension](https://www.ponomar.net/images/extension_install.png)
 
 * Чтобы указать, что язык текста церковнославянский, выберите Options в меню `Tools`. В разделе `Language Settings`, 
   выберите `Languages`. На панели `Language Settings` в разделе `Default Languages for Documents` выберите `Church Slavic`.
   Если Вы хотите нумеровать страницы кириллической цифирью, Вам также придется указать церковнославянский как локаль 
   по умолчанию, что можно сделать, выбрав `Church Slavic` в коробочке `Locale Setting`.
   
-  ![language](http://www.ponomar.net/images/locale_libreoffice.png)
+  ![language](https://www.ponomar.net/images/locale_libreoffice.png)
   
 * Чтобы включить автоматизированный перенос слов, выберите Paragraph в меню Format. Перейдите на панель `Text Flow`. 
   В разделе Hyphenation щелкните `Automatically`.
   
-  ![hyphenation](http://www.ponomar.net/images/hyphenation_writer.png)
+  ![hyphenation](https://www.ponomar.net/images/hyphenation_writer.png)
   
 * Чтобы нумеровать страницы кириллической цифирью, выберите `Page Number` в меню `Insert`. Дважды щелкните появившийся 
   номер страницы чтобы открыть окно `Edit Fields`. В разделе `Format` выберите `Native Numbering` и щелкните OK.    
   (**Внимание**: для этого нужно сначала указать, что локаль программы по умолчанию -- церковнославянская.)
   
-  ![page numbering](http://www.ponomar.net/images/native_number.png)
+  ![page numbering](https://www.ponomar.net/images/native_number.png)
 
 * В программе LibreOffice Calc, Вы можете сортировать ячейки в церковнославянском алфавитном порядке. 
   Для этого выберите `Sort` в меню `Data`. Откройте панель `Options`. В коробочке `Language` выберите `Church Slavic`.
   
-  ![sorting](http://www.ponomar.net/images/sort_calc.png)
+  ![sorting](https://www.ponomar.net/images/sort_calc.png)
 
 * Инициативная группа славянской информатики также предоставляет 
   [надстройку `Church Slavonic Converter`](https://extensions.libreoffice.org/extensions/church-slavonic-converter),
@@ -111,7 +111,7 @@ lang: ru
     использовать OpenType фичу `ss01` (указав шрифт текста как `Ponomar Unicode:ss01`)
    или Graphite фичу `hyph` (указав шрифт текста как `Ponomar Unicode TT:hyph=1`).
    Дополнительную информацию о возможностях OpenType и Graphite смотрите в
-  [документации для шрифтов](http://www.ponomar.net/files/fonts-churchslavonic.pdf).
+  [документации для шрифтов](https://www.ponomar.net/files/fonts-churchslavonic.pdf).
 
    - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Нет конвертации из строчных букв в заглавные 
      для символов в блоке Cyrillic Extended-B
@@ -140,7 +140,7 @@ lang: ru
 
 ### Adobe InDesign
 
-Если Вы установили церковнославянские шрифты [с нашего сайта](http://www.ponomar.net/cu_support/fonts.html),
+Если Вы установили церковнославянские шрифты [с нашего сайта](https://www.ponomar.net/cu_support/fonts.html),
 то Вы сможете верстать церковнославянский текст в программе Adobe InDesign. Для поддержки переноса слов, 
 скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary); 
 затем следуйте [инструкции](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
@@ -154,11 +154,11 @@ lang: ru
 * [Church Slavonic Typography in Unicode](http://www.unicode.org/notes/tn41/) 
   [Unicode Technical Note #41. Таблицы всех символов, включенных в Юникод.]
 
-* [Политика использования Зоны личного пользования (PUA) Policy](http://www.ponomar.net/files/pua_policy.pdf)
+* [Политика использования Зоны личного пользования (PUA) Policy](https://www.ponomar.net/files/pua_policy.pdf)
   (Таблицы дополнительных символов, доступных в PUA)
 
 ### Мне нужна помощь!
 
-Обратитесь в список рассылки [SCI-Users](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (по-русски или по-английски).
+Обратитесь в список рассылки [SCI-Users](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (по-русски или по-английски).
 
 Просьба НЕ задавать вопросы, связанные с продукцией корпорации Microsoft -- мы не сможем Вам помочь!

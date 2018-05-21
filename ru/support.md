@@ -15,13 +15,13 @@ lang: ru
    принципы церковнославянской типографики в Юникоде (на английском)
 
 * [Политика использования кодовых точек в
-   Зоне личного пользования](http://www.ponomar.net/files/pua_policy.pdf)
+   Зоне личного пользования](https://www.ponomar.net/files/pua_policy.pdf)
   (версия 3.0; последнее обновление 4 ноября 2016 г.; на английском)
 
 * [Документация к церковнославянским
-шрифтам](http://www.ponomar.net/files/fonts-churchslavonic.pdf)
+шрифтам](https://www.ponomar.net/files/fonts-churchslavonic.pdf)
 
-* [Документация к клавиатурным раскладкам](http://www.ponomar.net/files/docen.pdf)
+* [Документация к клавиатурным раскладкам](https://www.ponomar.net/files/docen.pdf)
 
 ### Отслеживание ошибок
 
@@ -39,7 +39,7 @@ lang: ru
 * Чтобы направить сообщение всем подписчиками, пишите на адрес 
 [&#115;c&#105;-&#117;s&#101;&#114;&#115;&#64;pon&#111;m&#97;r&#46;net](&#109;&#97;&#105;l&#116;o&#58;%&#55;3%63&#105;%2D&#117;s&#37;65&#114;&#115;&#64;&#112;%&#54;Fn&#111;&#109;%&#54;&#49;&#37;72&#46;ne%&#55;&#52;)
 
-* [Подписаться на список рассылки SCI-users](http://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
+* [Подписаться на список рассылки SCI-users](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 
 ### Техническая документация
 
@@ -54,27 +54,27 @@ lang: ru
 
 * A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode the Mark's Chapter Glyph in Unicode](http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3998.pdf) [**Принято**]
 
-* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode an Outsanding Early Cyrillic Character in Unicode](http://www.ponomar.net/files/letteref.pdf) [**Принято**]
+* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode an Outsanding Early Cyrillic Character in Unicode](https://www.ponomar.net/files/letteref.pdf) [**Принято**]
 
 * Y. Shardt, M. Chin, A. Andreev and D. Andersen [UC Berkeley](http://linguistics.berkeley.edu/sei/).
-  [Proposal to Encode Chinese Characters used to Transliterate Slavonic](http://www.ponomar.net/files/sinographs.pdf)
+  [Proposal to Encode Chinese Characters used to Transliterate Slavonic](https://www.ponomar.net/files/sinographs.pdf)
   [**Принято**]
 
-* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Additional Cyrillic Characters used in Church Slavonic](http://www.ponomar.net/files/variants_final2.pdf) [**Принято**]
+* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Additional Cyrillic Characters used in Church Slavonic](https://www.ponomar.net/files/variants_final2.pdf) [**Принято**]
   
-* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Combining Half Marks Used for Cyrillic Supralineation in Unicode](http://www.ponomar.net/files/halfmarks.pdf) [**Принято**]
+* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode Combining Half Marks Used for Cyrillic Supralineation in Unicode](https://www.ponomar.net/files/halfmarks.pdf) [**Принято**]
 
-* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode a Slavonic Punctuation Character in Unicode](http://www.ponomar.net/files/dash_with_upturn.pdf) [**Принято**]
+* A. Andreev, Y. Shardt, and N. Simmons. [Proposal to Encode a Slavonic Punctuation Character in Unicode](https://www.ponomar.net/files/dash_with_upturn.pdf) [**Принято**]
   
-* A. Andreev, H. Miklas, and Y. Shardt. [Proposal to Encode Combining Glagolitic Letters in Unicode](http://www.ponomar.net/files/glagolitic.pdf) [**Принято**]
+* A. Andreev, H. Miklas, and Y. Shardt. [Proposal to Encode Combining Glagolitic Letters in Unicode](https://www.ponomar.net/files/glagolitic.pdf) [**Принято**]
 
-* A. Andreev, Y. Shardt and N. Simmons. [Request for Clarifications Regarding the Encoding of Certain Cyrillic Characters](http://www.ponomar.net/files/double_titli.pdf) [**Принято**]
+* A. Andreev, Y. Shardt and N. Simmons. [Request for Clarifications Regarding the Encoding of Certain Cyrillic Characters](https://www.ponomar.net/files/double_titli.pdf) [**Принято**]
 
-* A. Andreev, Y. Shardt and N. Simmons. [Proposal to Encode some Additional Symbols used in Church Slavonic Text](http://www.ponomar.net/files/typicon_additional.pdf) [**Принято**]
+* A. Andreev, Y. Shardt and N. Simmons. [Proposal to Encode some Additional Symbols used in Church Slavonic Text](https://www.ponomar.net/files/typicon_additional.pdf) [**Принято**]
 
 * [Материалы для создания церковнославянской локали в
-Общем хранилище данных о локалях (CLDR)](http://www.ponomar.net/files/cldr.zip)
+Общем хранилище данных о локалях (CLDR)](https://www.ponomar.net/files/cldr.zip)
 
-* [Описание правил множественного числа в церковнославянском языке](http://www.ponomar.net/files/plurals.pdf)
+* [Описание правил множественного числа в церковнославянском языке](https://www.ponomar.net/files/plurals.pdf)
 
 
