@@ -16,20 +16,20 @@ css:
 
 * A. Andreev и N. Simmons. [Предложение по кодированию древнерусских невменных 
 музыкальных нотаций в Юникоде
-(на английском)](http://www.ponomar.net/files/palaeoslavic.pdf)
+(на английском)](https://www.ponomar.net/files/palaeoslavic.pdf)
 
 Пока происходит тестирование предложенной методологии кодирования,
 символы невменной нотации временно размещены в Зоне личного пользования.
 Для тестирования шрифтов и методологии кодирования, смотрите:
 
 * [Политика использования Зоны личного
-пользования](http://www.ponomar.net/files/pua_policy.pdf)
+пользования](https://www.ponomar.net/files/pua_policy.pdf)
 
 #### Шрифты для набора знаменной нотации
 
 * Mezenets Unicode — шрифт для набора знаменной нотации с пометами и признаками
 (нотации Типа А по классификации И. А. Гарднера).
- [Скачать шрифт](http://www.ponomar.net/files/MezenetsUnicode.zip)
+ [Скачать шрифт](https://www.ponomar.net/files/MezenetsUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -52,7 +52,7 @@ css:
 
 * Shaidur Unicode — шрифт для набора знаменной нотации с пометами, но без признаков
 (нотации Типа Б по классификации И. А. Гарднера).
- [Скачать шрифт](http://www.ponomar.net/files/ShaidurUnicode.zip)
+ [Скачать шрифт](https://www.ponomar.net/files/ShaidurUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -71,7 +71,7 @@ css:
 [См. подробнее&nbsp;»](/ru/users.html) 
 
 * Для удобного набора, воспользуйтесь программой
-[набора крюков в HTML](http://www.ponomar.net/znamenny/hookup2.html)
+[набора крюков в HTML](https://www.ponomar.net/znamenny/hookup2.html)
 
 ### Киевская квадратная (синодальная) нотация
 
@@ -97,12 +97,12 @@ css:
 * Свободный шрифт Metasuprasl, разработанный Инициативной группой славянской информатики.
 
 - **Шрифтовые файлы**:
-	+	[Формат OpenType](http://www.ponomar.net/files/Metasuprasl-Regular.otf)
-	+	[Формат TrueType](http://www.ponomar.net/files/Metasuprasl-SIL.ttf)
+	+	[Формат OpenType](https://www.ponomar.net/files/Metasuprasl-Regular.otf)
+	+	[Формат TrueType](https://www.ponomar.net/files/Metasuprasl-SIL.ttf)
 
 - **Исходный код**:
-  + [Для программы FontForge](http://www.ponomar.net/files/Metasuprasl-Regular.sfd)
-  + [Для Graphite](http://www.ponomar.net/files/Metasuprasl-Regular.gdl)
+  + [Для программы FontForge](https://www.ponomar.net/files/Metasuprasl-Regular.sfd)
+  + [Для Graphite](https://www.ponomar.net/files/Metasuprasl-Regular.gdl)
 
 Шрифт Metasuprasl Regular можно использовать для набора квадратной ноты в текстовом редакторе. 
 Версия шрифта в формате TrueType содержит возможности SIL Graphite. 
@@ -136,13 +136,13 @@ css:
 Несколько примеров партитур в квадратной нотации, набранных в LilyPond:
 
 * Дал еси знамение (самоподобен, глас 4, знаменный роспев): 
-  [Исходный код LilyPond](http://www.ponomar.net/files/dalesi.ly) |
-  [PDF](http://www.ponomar.net/files/dalesi.pdf) |
-  [MIDI](http://www.ponomar.net/files/dalesi.midi)
+  [Исходный код LilyPond](https://www.ponomar.net/files/dalesi.ly) |
+  [PDF](https://www.ponomar.net/files/dalesi.pdf) |
+  [MIDI](https://www.ponomar.net/files/dalesi.midi)
 * Седален, глас 5, болгарский роспев: 
-  [Исходный код LilyPond](http://www.ponomar.net/files/sessional5.ly) |
-  [PDF](http://www.ponomar.net/files/sessional5.pdf) |
-  [MIDI](http://www.ponomar.net/files/sessional5.midi)
+  [Исходный код LilyPond](https://www.ponomar.net/files/sessional5.ly) |
+  [PDF](https://www.ponomar.net/files/sessional5.pdf) |
+  [MIDI](https://www.ponomar.net/files/sessional5.midi)
 
 Если Вы уже работаете в другой программе набора нотации, Вам
 могут быть интересны преобразователи из форматов других программ в формат LilyPond:
@@ -161,13 +161,13 @@ css:
 утилиту [mf2pt1](http://www.ctan.org/pkg/mf2pt1).
 
 - **Исходный код**:
-  + [На языке METAFONT](http://www.ponomar.net/files/metasuprasl.mf)
+  + [На языке METAFONT](https://www.ponomar.net/files/metasuprasl.mf)
 
 #### Кодировка
 
 * A. Andreev, Y. Shardt, и N. Simmons.
 [Предложение по кодированию символов Киевской квадратной нотации
-в Юникоде (на английском)](http://www.ponomar.net/files/kievan.pdf) [Предложение принято]
+в Юникоде (на английском)](https://www.ponomar.net/files/kievan.pdf) [Предложение принято]
 
 * [Документация формата SMuFL](https://w3c.github.io/smufl/gitbook/)
 Standard Music Font Layout) -- стандарта кодирования дополнительных 

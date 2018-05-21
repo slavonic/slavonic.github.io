@@ -17,7 +17,7 @@ A virtual keyboard allows you to type Church Slavonic text without installing an
 Just enter the text into your browser and then copy/paste it into a text editor or generate
 a PDF for printing.
 
-* [Church Slavonic virtual keyboard](http://www.ponomar.net/cu_vkeyb.html)
+* [Church Slavonic virtual keyboard](https://www.ponomar.net/cu_vkeyb.html)
 
 ### Installable keyboard drivers
 
@@ -29,19 +29,19 @@ Russian (ЯВЕРТЫ) layout. The **Church Slavonic** keyboard is a completely 
 optimized for entering Church Slavonic text. A Church Slavonic **Glagolitic** keyboard
 is also available for entering Glagolitic text (only for GNU / Linux systems).
 
-Read [the documentation](http://www.ponomar.net/files/docen.pdf)
+Read [the documentation](https://www.ponomar.net/files/docen.pdf)
 for more information and installation instructions.
 
 #### Windows
 
-* [Russian Standard (ЙЦУКЕН) Extended](http://www.ponomar.net/files/ru-ext.zip)
-* [Russian Phonetic (ЯВЕРТЫ) Extended](http://www.ponomar.net/files/ru-phonx.zip)
-* [Special Church Slavonic](http://www.ponomar.net/files/cu-kbd.zip)
+* [Russian Standard (ЙЦУКЕН) Extended](https://www.ponomar.net/files/ru-ext.zip)
+* [Russian Phonetic (ЯВЕРТЫ) Extended](https://www.ponomar.net/files/ru-phonx.zip)
+* [Special Church Slavonic](https://www.ponomar.net/files/cu-kbd.zip)
 
 #### Apple OS X
 
-* [Russian Extended](http://www.ponomar.net/files/ru-ext_mac.zip)
-* [Special Church Slavonic](http://www.ponomar.net/files/cukeyb_mac1.zip)
+* [Russian Extended](https://www.ponomar.net/files/ru-ext_mac.zip)
+* [Special Church Slavonic](https://www.ponomar.net/files/cukeyb_mac1.zip)
 
 #### GNU / Linux
 
@@ -77,18 +77,18 @@ the m17n-cu tarball and install its contents.
 
 You will then need to set up IBUS to be your input method and select the wanted
 keyboard layout from the m17n database.
-See the [the documentation](http://www.ponomar.net/files/docen.pdf)
+See the [the documentation](https://www.ponomar.net/files/docen.pdf)
 for more information.
 
 #### Android
 
 Physical Keyboard Driver for USB/Bluetooth keyboards:
-[download APK](http://www.ponomar.net/files/cu-android.apk)
+[download APK](https://www.ponomar.net/files/cu-android.apk)
 **Warning**: this is alpha phase software and is intended for testing purposes only!
 
 #### Documentation
 
-Documentation for all keyboard layouts and installation instructions in PDF: [download](http://www.ponomar.net/files/docen.pdf)
+Documentation for all keyboard layouts and installation instructions in PDF: [download](https://www.ponomar.net/files/docen.pdf)
 
 #### FAQ's
 
