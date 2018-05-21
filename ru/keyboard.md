@@ -54,13 +54,13 @@ lang: ru
 добавьте хранилище SCI в ваш файл /etc/apt/sources.list:
 
   ```
-  deb http://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
+  deb https://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
   ```
 
 * Импортируйте криптографический ключ:
 
   ```
-  wget -q http://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
+  wget -q https://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
   ```
 
 * Обновите базу данных источников приложений:
