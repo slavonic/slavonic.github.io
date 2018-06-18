@@ -132,7 +132,7 @@ lang: ru
 Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
 
 * Откройте панель предварительного просмотра Markdown
-(надавите `Ctrl+Shift+P` чтобы открыть палитру и выбирите 
+(надавите `Ctrl+Shift+P` чтобы открыть палитру и выберите 
 `Markdown: Open Preview to the Side`).
 
 * Установите расширение [VS Code Church Slavonic
@@ -140,7 +140,7 @@ Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-chur
 
 * По умолчанию клавиатура отключена. Чтобы ее включить, надавите
 `Ctrl+Alt+Space` (на системах GNU/Linux, `Meta+Space`) или
-выбирите команду `Church Slavonic Keyboard: Toggle` из палитры.
+выберите команду `Church Slavonic Keyboard: Toggle` из палитры.
 
 * Помимо церковнославянских шрифтов [с нашего сайта](fonts.html),
 Вам понадобится шрифт фиксированной ширины с поддержкой Unicode 10.0.
