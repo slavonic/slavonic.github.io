@@ -116,6 +116,38 @@ lang: ru
    - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Нет конвертации из строчных букв в заглавные 
      для символов в блоке Cyrillic Extended-B
 
+### Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com/) — свободный, кроссплатформенный
+редактор исходного кода. В нем удобно редактировать исходный код
+церковнославянских богослужебных текстов, которые хранятся в форматах
+[XML](https://github.com/slavonic/cu-books) и 
+[Markdown](https://github.com/slavonic/cumd). 
+
+  ![VS Code](https://www.ponomar.net/images/vscode.png)
+
+Чтобы начать редактировать церковнославянский текст в Visual Studio Code:
+
+* Установите расширение [Church Slavonic Markdown
+Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
+
+* Откройте панель предварительного просмотра Markdown
+(надавите `Ctrl+Shift+P` чтобы открыть палитру и выбирите 
+`Markdown: Open Preview to the Side`).
+
+* Установите расширение [VS Code Church Slavonic
+Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic-keyboard).
+
+* По умолчанию клавиатура отключена. Чтобы ее включить, надавите
+`Ctrl+Alt+Space` (на системах GNU/Linux, `Meta+Space`) или
+выбирите команду `Church Slavonic Keyboard: Toggle` из палитры.
+
+* Помимо церковнославянских шрифтов [с нашего сайта](fonts.html),
+Вам понадобится шрифт фиксированной ширины с поддержкой Unicode 10.0.
+Похоже, на данный момент лучшим решением является шрифт
+[GNU FreeFont](https://www.gnu.org/software/freefont/). Чтобы поменять шрифт редактора,
+добавьте строку `"editor.fontFamily": "FreeMono"` в файл `User Settings`.
+
 ### Apache OpenOffice
 
 К сожалению программа [Apache OpenOffice](http://www.openoffice.org) очень слабо поддерживается. 

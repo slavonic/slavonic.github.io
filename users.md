@@ -109,6 +109,34 @@ hyphenation and sorting.
 
    - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Cannot convert Cyrillic Extended-B symbols to uppercase
 
+### Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com/) is a free, portable source code editor.
+It is useful for editing the raw Church Slavonic liturgical texts stored in 
+[XML](https://github.com/slavonic/cu-books) and 
+[Markdown](https://github.com/slavonic/cumd) formats. 
+
+  ![VS Code](https://www.ponomar.net/images/vscode.png)
+
+To set up editing Church Slavonic texts in Visual Studio Code:
+
+* Install [Church Slavonic Markdown
+Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
+
+* Open the Markdown preview pane (press `Ctrl+Shift+P` to open the palette and select 
+`Markdown: Open Preview to the Side`).
+
+* Install the [VS Code Church Slavonic
+Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic-keyboard).
+
+* Initially the keyboard is off. To toggle, press `Ctrl+Alt+Space` (on GNU/Linux, `Meta+Space`)
+or select the command `Church Slavonic Keyboard: Toggle` from the palette.
+
+* In addition to installing the Church Slavonic fonts from [our site](fonts.html),
+you will need a monospace font that supports Unicode 10.0. The best alternative seems to be
+[GNU FreeFont](https://www.gnu.org/software/freefont/). To change the font for the editor,
+place the line `"editor.fontFamily": "FreeMono"` in the `User Settings` file.
+
 ### Apache OpenOffice
 
 [Apache Office](http://www.openoffice.org/) is not well maintained. While you can view and edit Church Slavonic texts, 
