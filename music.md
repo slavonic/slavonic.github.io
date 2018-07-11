@@ -14,7 +14,8 @@ The repertoire of Znamenny, Demestvenny, and other notational systems has not ye
 added to Unicode. We are working on a proposal to add the symbols for these notational
 systems.
 
-* A. Andreev and N. Simmons. [Proposal to Encode Paleoslavic Musical Notations in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
+* A. Andreev and N. Simmons.
+[Proposal to Encode Znamenny Musical Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
 
 While the proposal is being tested and approval is sought, the characters have been
 temporarily encoded in the Private Use Area of Unicode. To test the proposed
