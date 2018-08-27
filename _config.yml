@@ -14,3 +14,6 @@ google_analytics: "UA-12187460-2"
  
 markdown:
   kramdown
+
+plugins:
+  - jekyll-sitemap
