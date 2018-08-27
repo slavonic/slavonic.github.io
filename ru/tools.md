@@ -12,17 +12,15 @@ lang: ru
 
 * Преобразователь [HIP](http://orthlib.ru/hip/) -> Юникод
   [веб интерфейс](https://www.ponomar.net/cgi-bin/hip2utf.cgi) | 
- [или как самостоятельная программа в пакете Lingua::CU::Scripts]
-(https://github.com/typiconman/Perl-Lingua-CU) module
+ [или как самостоятельная программа в пакете Lingua::CU::Scripts](https://github.com/typiconman/Perl-Lingua-CU)
 
 * Преобразователь [Ирмологий](http://irmologion.ru/ucsenc.html#atop) -> Юникод
   [веб интерфейс](https://www.ponomar.net/cgi-bin/ucs2utf.cgi) |
- [или как самостоятельная программа в пакете Lingua::CU::Scripts]
+ [или как самостоятельная программа в пакете Lingua::CU::Scripts](https://github.com/typiconman/Perl-Lingua-CU)
 
 * Расширение преобразователей для LibreOffice 3 и старше
   (для конвертирования документов RTF, DOC, DOCX и ODT) 
-  [Скачать и установить]
-(https://extensions.libreoffice.org/extensions/church-slavonic-converter)
+  [Скачать и установить](https://extensions.libreoffice.org/extensions/church-slavonic-converter)
 
 ### Интерфейсы программирования приложений
 
