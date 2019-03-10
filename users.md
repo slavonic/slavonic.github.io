@@ -132,10 +132,9 @@ Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-chur
 * Initially the keyboard is off. To toggle, press `Ctrl+Alt+Space` (on GNU/Linux, `Meta+Space`)
 or select the command `Church Slavonic Keyboard: Toggle` from the palette.
 
-* In addition to installing the Church Slavonic fonts from [our site](fonts.html),
-you will need a monospace font that supports Unicode 10.0. The best alternative seems to be
-[GNU FreeFont](https://www.gnu.org/software/freefont/). To change the font for the editor,
-place the line `"editor.fontFamily": "FreeMono"` in the `User Settings` file.
+* It is best to edit text using a monospaced font supporting Unicode 10.0 or newer.
+See our [FiraSlav font](fonts.html). To change the font for the editor,
+place the line `"editor.fontFamily": "Fira Slav"` in the `User Settings` file.
 
 ### Apache OpenOffice
 

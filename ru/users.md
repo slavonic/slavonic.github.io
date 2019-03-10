@@ -142,11 +142,10 @@ Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-chur
 `Ctrl+Alt+Space` (на системах GNU/Linux, `Meta+Space`) или
 выберите команду `Church Slavonic Keyboard: Toggle` из палитры.
 
-* Помимо церковнославянских шрифтов [с нашего сайта](fonts.html),
-Вам понадобится шрифт фиксированной ширины с поддержкой Unicode 10.0.
-Похоже, на данный момент лучшим решением является шрифт
-[GNU FreeFont](https://www.gnu.org/software/freefont/). Чтобы поменять шрифт редактора,
-добавьте строку `"editor.fontFamily": "FreeMono"` в файл `User Settings`.
+* Тексты удобнее всего редактировать используя шрифт фиксированной ширины
+с поддержкой Unicode 10.0 или новее. Скачайте наш [шрифт FiraSlav](fonts.html).
+Чтобы поменять шрифт редактора,
+добавьте строку `"editor.fontFamily": "Fira Slav"` в файл `User Settings`.
 
 ### Apache OpenOffice
 
