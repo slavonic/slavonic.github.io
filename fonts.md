@@ -68,6 +68,16 @@ css:
     предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
   </div>
 
+* FiraSlav is a monospaced font for Church Slavonic, intended for editing Church Slavonic
+text in a text editor. All diacritical marks and combining letters are presented as
+spacing symbols and a monospaced appearance is maintained. The font includes both regular
+and bold flavors. [Download](https://www.ponomar.net/files/FiraSlav.zip)
+<div class="fira sample" contenteditable="true">
+$number =~ /^(?:҂([$h]))*(?:҂([$o]))*([$h]?)([клмнѯопч]?)([$o]?)$/;
+<br>
+var letter = '(?:ᲂу|Оу|оу\\S)[̀́̑҆̾̏҇҃ⷠⷡⷢⷣⷷⷤⷥꙵꙶⷦ]*';
+</div>
+
 * RussianMission is **not** a standalone CJK font. It provides only the 20 Han glyphs used in the texts of the Russian 
   Mission in China and the Russian Mission in Japan to transliterate Church Slavonic syllables. The characters have now 
   been accepted for encoding into the CJK Unified Ideographs block of Unicode starting at U+9FD6. See the README file for 
