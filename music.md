@@ -11,17 +11,12 @@ css:
 ### Znamenny Notation
 
 The repertoire of Znamenny, Demestvenny, and other notational systems has not yet been
-added to Unicode. We are working on a proposal to add the symbols for these notational
-systems.
+added to Unicode. We have submitted a proposal to add the symbols for these notational
+systems. **Warning**: the proposal has not yet been approved by the UTC, and the
+codepoints may be subject to change.
 
 * A. Andreev and N. Simmons.
 [Proposal to Encode Znamenny Musical Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
-
-While the proposal is being tested and approval is sought, the characters have been
-temporarily encoded in the Private Use Area of Unicode. To test the proposed
-methodology for working with Znamenny Notation, please see:
-
-* [Private Use Area Policy](https://www.ponomar.net/files/pua_policy.pdf)
 
 #### Fonts for Znamenny Notation
 
@@ -29,24 +24,36 @@ methodology for working with Znamenny Notation, please see:
  (Type A notation according to the classification of J. Gardner).
 
   [Download the font](https://www.ponomar.net/files/MezenetsUnicode.zip)
+  [Download the documentation](https://www.ponomar.net/files/fonts-znam.pdf)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
-	<tr><td class="neume"></td><td class="neume"></td>
+	<tr><td class="neume">𜽰𜽂𜼅</td>
+	<td class="neume">𜽐𜼱𜼆</td>
 	<td class="neume">&nbsp;&nbsp;</td>
-	<td class="neume"></td><td class="neume"></td>
-	<td class="neume"></td>
-	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
+	<td class="neume">𜽐𜽂𜼰𜼅</td>
+	<td class="neume">𜽝𜽁𜼄</td>
+	<td class="neume">𜽐𜽂𜼰𜼅</td>
+	<td class="neume">𜽖𜽂𜼢</td>
+	<td class="neume">𜽗𜽂𜼢</td>
+	<td class="neume">𜽲𜼆</td>
 	<td class="text">&nbsp;&nbsp;</td>
-	<td class="neume"></td><td class="neume"></td><td class="neume"></td>
+	<td class="neume">𜽯𜽂𜼅</td>
+	<td class="neume">𜽟</td><td class="neume">𜾆𜽂𜼰𜼅</td>
 	</tr>
-	<tr><td class="text">Тво</td><td class="text">ѧ̀</td><td class="text">&nbsp;&nbsp;</td>
-	<td class="text">по</td><td class="text">бѣ</td><td class="text">ди́</td>
-	<td class="text">тел</td><td class="text">на</td><td class="text">ѧ</td>
+	<tr><td class="text">Тво</td>
+	<td class="text">ѧ</td>
 	<td class="text">&nbsp;&nbsp;</td>
-	<td class="text">де</td><td class="text">сни́</td><td class="text">ца</td>
-	</tr>
-	</table>
+	<td class="text">по</td>
+	<td class="text">бѣ</td>
+	<td class="text">ди</td>
+	<td class="text">тел</td>
+	<td class="text">на</td>
+	<td class="text">ѧ</td>
+	<td class="text">&nbsp;&nbsp;</td>
+	<td class="text">де</td>
+	<td class="text">сни</td>
+	<td class="text">ца</td></tr>
 </div>
 
 * Shaidur Unicode is a font for typesetting Znamenny Notation <b>without</b> priznaki
