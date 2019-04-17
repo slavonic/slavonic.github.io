@@ -39,7 +39,7 @@ css:
 	<td class="neume">𜽗𜽂𜼢</td>
 	<td class="neume">𜽲𜼆</td>
 	<td class="text">&nbsp;&nbsp;</td>
-	<td class="neume">𜽯𜽂𜼅</td>
+	<td class="neume">𜽯𜼅</td>
 	<td class="neume">𜽟</td><td class="neume">𜾆𜽂𜼰𜼅</td>
 	</tr>
 	<tr><td class="text">Тво</td>
@@ -55,6 +55,7 @@ css:
 	<td class="text">де</td>
 	<td class="text">сни</td>
 	<td class="text">ца</td></tr>
+	</table>
 </div>
 
 * Shaidur Unicode — шрифт для набора знаменной нотации с пометами, но без признаков

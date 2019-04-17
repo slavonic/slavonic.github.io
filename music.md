@@ -38,7 +38,7 @@ codepoints may be subject to change.
 	<td class="neume">𜽗𜽂𜼢</td>
 	<td class="neume">𜽲𜼆</td>
 	<td class="text">&nbsp;&nbsp;</td>
-	<td class="neume">𜽯𜽂𜼅</td>
+	<td class="neume">𜽯𜼅</td>
 	<td class="neume">𜽟</td><td class="neume">𜾆𜽂𜼰𜼅</td>
 	</tr>
 	<tr><td class="text">Тво</td>
@@ -54,6 +54,7 @@ codepoints may be subject to change.
 	<td class="text">де</td>
 	<td class="text">сни</td>
 	<td class="text">ца</td></tr>
+	</table>
 </div>
 
 * Shaidur Unicode is a font for typesetting Znamenny Notation <b>without</b> priznaki
