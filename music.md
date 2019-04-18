@@ -32,7 +32,7 @@ codepoints may be subject to change.
 	<td class="neume">𜽐𜼱𜼆</td>
 	<td class="neume">&nbsp;&nbsp;</td>
 	<td class="neume">𜽐𜽂𜼰𜼅</td>
-	<td class="neume">𜽝𜽁𜼄</td>
+	<td class="neume">𜽝𜽂𜼄</td>
 	<td class="neume">𜽐𜽂𜼰𜼅</td>
 	<td class="neume">𜽖𜽂𜼢</td>
 	<td class="neume">𜽗𜽂𜼢</td>
@@ -59,8 +59,6 @@ codepoints may be subject to change.
 
 * Shaidur Unicode is a font for typesetting Znamenny Notation <b>without</b> priznaki
  (Type B notation according to the classification of J. Gardner).
-
-  [Download the font](https://www.ponomar.net/files/ShaidurUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">

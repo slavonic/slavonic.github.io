@@ -33,7 +33,7 @@ css:
 	<td class="neume">𜽐𜼱𜼆</td>
 	<td class="neume">&nbsp;&nbsp;</td>
 	<td class="neume">𜽐𜽂𜼰𜼅</td>
-	<td class="neume">𜽝𜽁𜼄</td>
+	<td class="neume">𜽝𜽂𜼄</td>
 	<td class="neume">𜽐𜽂𜼰𜼅</td>
 	<td class="neume">𜽖𜽂𜼢</td>
 	<td class="neume">𜽗𜽂𜼢</td>
@@ -60,7 +60,6 @@ css:
 
 * Shaidur Unicode — шрифт для набора знаменной нотации с пометами, но без признаков
 (нотации Типа Б по классификации И. А. Гарднера).
- [Скачать шрифт](https://www.ponomar.net/files/ShaidurUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
