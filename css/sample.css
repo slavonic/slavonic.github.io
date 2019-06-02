@@ -16,6 +16,14 @@
   font-family: 'Monomakh Unicode';
 }
 
+.cathisma {
+  font-family: 'Cathisma Unicode';
+}
+
+.oglavie {
+  font-family: 'Oglavie Unicode';
+}
+
 .fira {
   font-family: 'FiraSlav';
 }
@@ -24,7 +32,7 @@
   font-family: 'Pomorsky Unicode';
   font-size: 5em;
   float : left;
-  color : red;
+  color : #CC0502;
   margin-top: -0.38em;
   margin-right: 0.05em;
   margin-bottom: -0.6em;
@@ -34,7 +42,17 @@
   font-family: 'Indiction Unicode';
   font-size: 4em;
   float : left;
-  color : red;
+  color : #CC0502;
+  margin-top: -0.3em;
+  margin-right: 0.05em;
+  margin-bottom: -0.5em;
+}
+
+.vertograd-dropcaps {
+  font-family: 'Vertograd Unicode';
+  font-size: 4em;
+  float: left;
+  color: #CC0502;
   margin-top: -0.3em;
   margin-right: 0.05em;
   margin-bottom: -0.5em;

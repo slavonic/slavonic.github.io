@@ -13,7 +13,7 @@ css:
 * [Fork me on GitHub](https://github.com/typiconman/fonts-cu)
 * [Web fonts for embedding into websites](tools.html)
 
-### Download Individual Fonts
+### Fonts for Synodal Slavonic
 
 * Ponomar Unicode (previously called Hirmos Ponomar) is a font for typesetting Synodal Church Slavonic (that is, Church Slavonic used in modern 
   liturgical texts of the Russian Orthodox Church). 
@@ -23,12 +23,28 @@ css:
     Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
   </div>
 
+### Fonts for Pre-Nikonian Printed Slavonic
+
 * Fedorovsk Unicode is designed to mimic the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
   primarily for reproducing publications from that era, either in an academic setting, or as modern Old Rite liturgical texts.
   [Download](https://www.ponomar.net/files/FedorovskUnicode.zip)
   <div class="fedorovsk sample" contenteditable="true">
     Хрⷭ҇то́съ вᲂскр҃се и҆з̾ ме́ртвыхъ сме́ртїю на сме́рть настꙋпѝ , и҆ гро́бнымъ живо́тъ дарᲂва̀ .
   </div>
+
+### Fonts for Working with Manuscripts
+
+* Menaion Unicode provides both Cyrillic and Glagolitic characters and is intended for representing text from Ustav-era 
+  Church Slavonic manuscripts.
+  [Download](https://www.ponomar.net/files/MenaionUnicode.zip)
+  <div class="menaion sample" contenteditable="true">
+     Искони бѣ слово и слово бѣ отъ б҃а и б҃ъ бѣ слово  𝀏
+  </div>
+  <div class="menaion sample" contenteditable="true">
+      Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
+  </div>
+
+### Fonts for Academic Work
 
 * Monomakh Unicode is a Cyrillic font implemented in a mixed ustav/poluustav style and intended to cover needs of researches 
   dealing with Slavic history and philology. It also provides Latin characters in a similar typeface, which is useful for 
@@ -41,22 +57,7 @@ css:
     Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
   </div>
 
-* Menaion Unicode provides both Cyrillic and Glagolitic characters and is intended for representing text from Ustav-era 
-  Church Slavonic manuscripts.
-  [Download](https://www.ponomar.net/files/MenaionUnicode.zip)
-  <div class="menaion sample" contenteditable="true">
-     Искони бѣ слово и слово бѣ отъ б҃а и б҃ъ бѣ слово  𝀏
-  </div>
-  <div class="menaion sample" contenteditable="true">
-      Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
-  </div>
-
-* Pomorsky Unicode is a decorative font intended for drop caps (<i>bukvitsy</i>) and decorative titling. It reproduces the 
-  calligraphic style of book and chapter titles  used by Priestless Old Ritualists of the Vyg Hermitage.
-  [Download](https://www.ponomar.net/files/PomorskyUnicode.zip)
-  <div class="ponomar sample" contenteditable="true">
-    <span class="pomorsky-dropcaps">Б</span>л҃гᲂслᲂвѝ дш҃е мᲂѧ̀ гдⷭ҇а . гдⷭ҇и бж҃е мо́й вᲂз̾вели́чилсѧ є҆сѝ ѕѣлѡ̀ . во и҆спᲂвѣ́данїе и҆ в̾ велелѣ́пᲂтꙋсѧ ѡ҆блечѐ . Ѡ҆дѣѧ́исѧ свѣ́тᲂмъ ꙗ҆́кѡ ри́зᲂю , прᲂпина́ѧи не́бо ꙗ҆́кѡ ко́жꙋ . Пᲂкрыва́ѧи вᲂда́ми превы́спренѧѧ свᲂѧ̀ . пᲂлага́ѧи ѻ҆́блаки на вᲂсхᲂжде́нїе свᲂѐ , хᲂдѧ́и на крылꙋ̀ вѣ́треню . Твᲂрѧ́и а҆́нг҃лы свᲂѧ̀ дх҃и , и҆ слꙋгѝ свᲂѧ̀ ѻ҆́гнь палѧ́щь .
-  </div>
+### Decorative Fonts
 
 * Indiction Unicode is used for decorative drop caps (*bukvitsi*) in liturgical books of the Russian Orthodox Church 
   published since the late 19th century.
@@ -67,6 +68,33 @@ css:
     приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
     предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
   </div>
+
+* Vertograd Unicode is another font used for decorative drop caps and titling, commonly found in liturgical books of the late 19th and early 20th centuries.
+[Download](https://www.ponomar.net/files/VertogradUnicode.zip)
+  <div class="ponomar sample" contenteditable="true">
+    <span class="vertograd-dropcaps">В</span>о ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи, са́мое живоно́сное воскресе́нїе пра́зднꙋемъ гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀, є҆́же ᲂу҆́бѡ и҆ па́схꙋ и҆менꙋ́емъ:
+  </div>
+
+* Cathisma Unicode is a font used for titling in many 18th-20th century liturgical editions published by the Holy Synod in Russia.
+[Download](https://www.ponomar.net/files/CathismaUnicode.zip)
+  <div class="cathisma sample" contenteditable="true">
+    ЧИ́НЪ ОУ҆́ТРЕНИ ВСЕНО́ЩНАГѠ БДѢ́НЇѦ
+  </div>
+
+* Oglavie Unicode is another font used for titling in many 18th-20th century liturgical editions.
+[Download](https://www.ponomar.net/files/OglavieUnicode.zip)
+  <div class="oglavie sample" contenteditable="true">
+    ТРЇѠ́ДЬ НО́ТНАГѠ ПѢ́НЇѦ
+  </div>
+
+* Pomorsky Unicode is a decorative font intended for drop caps (<i>bukvitsy</i>) and titling in Old Ritualist texts. It reproduces the 
+  calligraphic style of book and chapter titles  used by Priestless Old Ritualists of the Vyg Hermitage.
+  [Download](https://www.ponomar.net/files/PomorskyUnicode.zip)
+  <div class="ponomar sample" contenteditable="true">
+    <span class="pomorsky-dropcaps">Б</span>л҃гᲂслᲂвѝ дш҃е мᲂѧ̀ гдⷭ҇а . гдⷭ҇и бж҃е мо́й вᲂз̾вели́чилсѧ є҆сѝ ѕѣлѡ̀ . во и҆спᲂвѣ́данїе и҆ в̾ велелѣ́пᲂтꙋсѧ ѡ҆блечѐ . Ѡ҆дѣѧ́исѧ свѣ́тᲂмъ ꙗ҆́кѡ ри́зᲂю , прᲂпина́ѧи не́бо ꙗ҆́кѡ ко́жꙋ . Пᲂкрыва́ѧи вᲂда́ми превы́спренѧѧ свᲂѧ̀ . пᲂлага́ѧи ѻ҆́блаки на вᲂсхᲂжде́нїе свᲂѐ , хᲂдѧ́и на крылꙋ̀ вѣ́треню . Твᲂрѧ́и а҆́нг҃лы свᲂѧ̀ дх҃и , и҆ слꙋгѝ свᲂѧ̀ ѻ҆́гнь палѧ́щь .
+  </div>
+
+### Fonts for Technical Work
 
 * FiraSlav is a monospaced font for Church Slavonic, intended for editing Church Slavonic
 text in a text editor. All diacritical marks and combining letters are presented as
@@ -87,9 +115,13 @@ var letter = '(?:ᲂу|Оу|оу\\S)[̀́̑҆̾̏҇҃ⷠⷡⷢⷣⷷⷤⷥꙵꙶ
 
 ### Licenses and Technical Information
 
-Fonts are provided in two formats: OpenType CFF (OTF extension) and TrueType (TTF extension). 
-Please [read the documentation](https://www.ponomar.net/files/fonts-churchslavonic.pdf)
-for specific issues and a description of the OpenType and SIL Graphite features.
+Fonts only provided in OpenType-CFF (PostScript) format (OTF extension) with advanced OpenType features. Please [read the 
+documentation](https://www.ponomar.net/files/fonts-churchslavonic.pdf)
+for a description of the OpenType features provided.
+We no longer provide fonts in TrueType format (TTF extension) with SIL Graphite features. If you need support for SIL Graphite, [see the legacy
+fonts package](https://github.com/slavonic/fonts-cu-legacy). 
 
-License information [is indicated on the legal page](legal.html)
-
+License information [is indicated on the legal page](legal.html).
+Questions can be addressed to the [SCI-Users mailing 
+list](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (in English
+or Russian).
