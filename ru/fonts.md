@@ -71,18 +71,18 @@ css:
 * Vertograd Unicode воспроизводит еще одну гарнитуру декоративных буквиц и заголовков, которая встречается в изданиях Синодальной типографии.
 [Download](https://www.ponomar.net/files/VertogradUnicode.zip)
   <div class="ponomar sample" contenteditable="true">
-    <span class="vertograd-dropcaps">В</span>о ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи, са́мое живоно́сное воскресе́нїе пра́зднꙋемъ гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀, є҆́же ᲂу҆́бѡ и҆ па́схꙋ и҆менꙋ́емъ:
+    <span class="vertograd-dropcaps">В</span>о ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи, са́мое живоно́сное воскресе́нїе пра́зднꙋемъ гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀, є҆́же ᲂу҆́бѡ и҆ па́схꙋ и҆менꙋ́емъ: ꙗ҆́же є҆вре́йскою бесѣ́дою преведе́нїе толкꙋ́етсѧ. То́й бо є҆́сть де́нь, во́ньже бг҃ъ въ нача́лѣ мі́ръ ѿ небытїѧ̀ приведѐ.
   </div>
 
 * Cathisma Unicode воспроизводит гарнитуру, которая используется в изданиях XVIII-XX веков для заголовков.
 [Download](https://www.ponomar.net/files/CathismaUnicode.zip)
-  <div class="cathisma sample" contenteditable="true">
+  <div class="cathisma decoration" contenteditable="true">
     ЧИ́НЪ ОУ҆́ТРЕНИ ВСЕНО́ЩНАГѠ БДѢ́НЇѦ
   </div>
 
 * Oglavie Unicode -- еще один заголовочный шрифт. Также встречается в дореволюционных синодальных изданиях.
 [Download](https://www.ponomar.net/files/OglavieUnicode.zip)
-  <div class="oglavie sample" contenteditable="true">
+  <div class="oglavie decoration" contenteditable="true">
     ТРЇѠ́ДЬ НО́ТНАГѠ ПѢ́НЇѦ
   </div>
 
