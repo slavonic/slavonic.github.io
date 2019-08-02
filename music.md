@@ -10,21 +10,23 @@ css:
 
 ### Znamenny Notation
 
-The repertoire of Znamenny, Demestvenny, and other notational systems has not yet been
-added to Unicode. We have submitted a proposal to add the symbols for these notational
-systems. **Warning**: the proposal has not yet been approved by the UTC, and the
-codepoints may be subject to change.
+The Slavonic Computing Initiative provides Unicode-compliant fonts for typesetting
+music in Znamenny and Put / Demestvenny (Kazan) Notations.
+**Warning**: the characters required for these notational systems have been 
+[accepted for encoding](http://www.unicode.org/alloc/Pipeline.html)
+into a future version of the Unicode standard, but the codepoints
+may still be subject to change.
 
-* A. Andreev and N. Simmons.
-[Proposal to Encode Znamenny Musical Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
+* [Read the Znamenny Font documentation](https://www.ponomar.net/files/fonts-znam.pdf)
+
+* [Read the Proposal to Encode Znamenny Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
+
+* [Fork the fonts on GitHub](https://github.com/slavonic/fonts-znam/)
 
 #### Fonts for Znamenny Notation
 
-* Mezenets Unicode is a font for typesetting Znamenny Notation with priznaki
- (Type A notation according to the classification of J. Gardner).
-
-  [Download the font](https://www.ponomar.net/files/MezenetsUnicode.zip)
-  [Download the documentation](https://www.ponomar.net/files/fonts-znam.pdf)
+* Mezenets Unicode is a font for typesetting Znamenny Notation with or without priznaki
+ (Type A and Type B notations according to the classification of J. Gardner). [Download the font](https://www.ponomar.net/files/MezenetsUnicode.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -57,18 +59,43 @@ codepoints may be subject to change.
 	</table>
 </div>
 
-* Shaidur Unicode is a font for typesetting Znamenny Notation <b>without</b> priznaki
- (Type B notation according to the classification of J. Gardner).
+* Smolensky Regular is a font for typesetting archaic Znamenny Notation as found
+  in manuscripts from the 12th--15th centuries.
+  [Download the font](https://www.ponomar.net/files/Smolensky-Regular.zip)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
-	<tr><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB">&nbsp;&nbsp;</td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"><ruby><rt></rt></ruby></td><td class="neumeB">&nbsp;&nbsp;</td><td class="neumeB"></td><td class="neumeB"></td><td class="neumeB"></td>
-	</tr><tr>
-	<td class="text">Тво</td><td class="text">ꙗ</td><td  class="text">&nbsp;&nbsp;</td><td class="text">по</td><td class="text">бѣ</td><td class="text">ᲁи</td><td class="text">те</td><td class="text">ле</td><td class="text">на</td><td class="text">ꙗ</td><td class="text">&nbsp;&nbsp;</td><td class="text">ᲁе</td><td class="text">сни</td><td class="text">ца</td></tr>
+	<tr><td class="neumeB">𜽒</td>
+	<td class="neumeB">𜽐</td>
+	<td class="neumeB">&nbsp;&nbsp;</td>
+	<td class="neumeB">𜽖</td>
+	<td class="textB">&nbsp;&nbsp;</td>
+	<td class="neumeB">𜽖</td>
+	<td class="neumeB">𜽐𜼱</td>
+	<td class="neumeB">𜽖</td>
+	<td class="neumeB">𜽖</td>
+	<td class="neumeB">𜽖</td>
+	<td class="text">&nbsp;&nbsp;</td>
+	<td class="neumeB">𜽖</td>
+	<td class="neumeB">𜽐</td>
+	<td class="neumeB">𜽞</td>
+	</tr>
+	<tr><td class="textB">Ко</td>
+	<td class="textB">нѧ</td>
+	<td class="textB">&nbsp;&nbsp;</td>
+	<td class="textB">и</td>
+	<td class="textB">&nbsp;&nbsp;</td>
+	<td class="textB">въ</td>
+	<td class="textB">са</td>
+	<td class="textB">дь</td>
+	<td class="textB">ни</td>
+	<td class="textB">ки·</td>
+	<td class="textB">&nbsp;&nbsp;</td>
+	<td class="textB">въ</td>
+	<td class="textB">мо</td>
+	<td class="textB">ре</td></tr>
 	</table>
 </div>
-
-* [Source code for all fonts on GitHub](https://github.com/slavonic/fonts-znam/)
 
 #### Input and Editing
 

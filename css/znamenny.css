@@ -10,25 +10,36 @@
 }
 
 @font-face {
-    font-family: 'Shaidur Unicode';
-    src: url('../fonts/ShaidurUnicode.eot');
-    src: url('../fonts/ShaidurUnicode.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/ShaidurUnicode.woff2') format('woff2'),
-	url('../fonts/ShaidurUnicode.woff') format('woff'),
-	url('../fonts/ShaidurUnicode.ttf') format('truetype');
+    font-family: 'Smolensky Regular';
+    src: url('../fonts/Smolensky-Regular.eot');
+    src: url('../fonts/Smolensky-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Smolensky-Regular.woff2') format('woff2'),
+	url('../fonts/Smolensky-Regular.woff') format('woff'),
+	url('../fonts/Smolensky-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Fedorovsk Unicode';
-    src: url('../fonts/FedorovskUnicode.eot');
-    src: url('../fonts/FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/FedorovskUnicode.woff2') format('woff2'),
-	url('../fonts/FedorovskUnicode.woff') format('woff'),
-	url('../fonts/FedorovskUnicode.ttf') format('truetype');
+    font-family: 'Ponomar Unicode';
+    src: url('../fonts/PonomarUnicode.eot');
+    src: url('../fonts/PonomarUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PonomarUnicode.woff2') format('woff2'),
+	url('../fonts/PonomarUnicode.woff') format('woff'),
+	url('../fonts/PonomarUnicode.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+}
+
+@font-face {
+  font-family: 'Menaion Unicode';
+  src: url('../fonts/MenaionUnicode.eot');
+  src: url('../fonts/MenaionUnicode.eot?#iefix') format('embedded-opentype'),
+url('../fonts/MenaionUnicode.woff2') format('woff2'),
+url('../fonts/MenaionUnicode.woff') format('woff'),
+url('../fonts/MenaionUnicode.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .sample {
@@ -39,7 +50,7 @@
 }
 
 .text {
-  font-family: 'Fedorovsk Unicode';
+  font-family: 'Ponomar Unicode';
   text-align: center;
   font-size: 23px;
 }
@@ -52,10 +63,16 @@
 }
 
 .neumeB {
-  font-family: 'Shaidur Unicode';
+  font-family: 'Smolensky Regular';
   text-align: center;
   font-size: 32px;
   vertical-align: bottom;
+}
+
+.textB {
+  font-family: 'Menaion Unicode';
+  text-align: center;
+  font-size: 23px;
 }
 
 rt {
