@@ -29,6 +29,14 @@ css:
     Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
   </div>
 
+* Triodion Unicode is another font for typesetting Synodal Church Slavonic. 
+  It is intended to reproduce the typeface of liturgical books published in Russia
+  at the beginning of the 20th century
+  [Download](https://www.ponomar.net/files/TriodionUnicode.zip)
+  <div class="triodion sample" contenteditable="true">
+    Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
+  </div>
+
 ### Fonts for Pre-Nikonian Printed Slavonic
 
 * Fedorovsk Unicode is designed to mimic the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
