@@ -51,28 +51,22 @@ lang: ru
 Все раскладки доступны через пакет m17n-cu.
 
 * Для **систем, основанных на Debian**, к примеру Ubuntu и Linux Mint,
-добавьте хранилище SCI в ваш файл /etc/apt/sources.list:
+добавьте персональное хранилище приложений SCI:
 
   ```
-  deb https://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
-  ```
-
-* Импортируйте криптографический ключ:
-
-  ```
-  wget -q https://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
+  sudo add-apt-repository ppa:aleksandr-andreev/sci
   ```
 
 * Обновите базу данных источников приложений:
 
   ```
-  sudo apt-get update
+  sudo apt update
   ```
 
 * Установите наш пакет:
 
   ```
-  sudo apt-get install m17n-cu
+  sudo apt install m17n-cu
   ```
 
 * Для **всех других систем**, [скачайте](https://github.com/typiconman/m17n-cu/releases)

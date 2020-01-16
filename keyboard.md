@@ -47,29 +47,23 @@ for more information and installation instructions.
 
 All layouts are available via the m17n-cu package.
 
-* For **Debian-based systems** such as Ubuntu and Linux Mint, add the SCI repository
-to your /etc/apt/sources.list file:
+* For **Debian-based systems** such as Ubuntu and Linux Mint, add the 
+SCI ppa to your sources:
 
   ```
-  deb http://www.ponomar.net/apt/ ./ # Slavonic Computing Initiative
-  ```
-
-* Import the verification key:
-
-  ```
-  wget -q http://www.ponomar.net/apt/public.gpg -O- | sudo apt-key add -
+  sudo add-apt-repository ppa:aleksandr-andreev/sci
   ```
 
 * Update your software sources:
 
   ```
-  sudo apt-get update
+  sudo apt update
   ```
 
 * Install our package:
 
   ```
-  sudo apt-get install m17n-cu
+  sudo apt install m17n-cu
   ```
 
 * For **all other systems**, [download](https://github.com/typiconman/m17n-cu/releases)
