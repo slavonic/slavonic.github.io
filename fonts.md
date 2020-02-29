@@ -71,8 +71,9 @@ css:
     Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
   </div>
 
-* Shafarik is a Unicode font, named after Pavel Jozef Šafárik (1795–1861), Slovak-born scholar and one of the founders of modern Slavic philology, intended for an academic presentation of Old Church Slavonic (OCS) texts written in both the Cyrillic and Glagolitic alphabets. The font supports both round (Bulgarian) Glagolitic and angular (Croatian) Glagolitic.
-  [Download font](https://www.ponomar.net/files/Shafarik.zip)
+* Shafarik is a Unicode font, named after
+[Pavel Jozef Šafárik](https://en.wikipedia.org/wiki/Pavel_Jozef_%C5%A0af%C3%A1rik), Slovak-born scholar and one of the founders of modern Slavic philology, intended for an academic presentation of Old Church Slavonic (OCS) texts written in both the Cyrillic and Glagolitic alphabets. The font supports both round (Bulgarian) Glagolitic and angular (Croatian) Glagolitic.
+  [Download font](https://www.ponomar.net/files/Shafarik.zip) |
   [Download documentation](https://www.ponomar.net/files/documentation_3.5.pdf)
 
   <div class="shafarik sample" contenteditable="true">
