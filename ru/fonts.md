@@ -70,6 +70,18 @@ css:
     Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
   </div>
 
+* Shafarik, названный в честь Павла Йозефа Шафарика (1795–1861), словацкого слависта и одного и основоположников современной славянской филологии, предназначен для набора старославянских и ранних церковнославянских текстов, как написанных кириллицей, так и глаголицей. Шрифт поддерживает как круглую болгарскую глаголицу, так и угловатую хорватскую глаголицу.
+  [Скачать шрифт](https://www.ponomar.net/files/Shafarik.zip)
+  [Скачать документацию](https://www.ponomar.net/files/documentation_3.5.pdf)
+
+  <div class="shafarik sample" contenteditable="true">
+    Ⰸⰰⱍⱔⰾⱁ ⰵⰲⰰ︮ⰼ︦ⰾ︯ⰻⱑ · ⰺ︮ⱄ︯ ⱈ͠ⰲⰰ ⱄ︮ⱀ︦ⰰ︯ ⰱ︮ⰶ︦ⰻ︯ⱑ ·
+    Зачѧло Ева︮ꙉ︦л︯иѣ. ꙇ͠с х͠ва с︮н︦а︯ б︮ж︦и︯ѣ.
+  </div>
+  <div class="shafarik3 sample" contenteditable="true">
+    Ⰱⱃⰰⱅⰻⱑ, ⱞⱁⰾⰻⱞ ⰲⰻ ⰻ ⱂⱃⱁⱄⰻⱞⱜ ⱁ ⰳⱁⱄⱂⱁⰴⱑ Ⰻⱄⱆⱄⱑ, ⰴⰰ ⱑⰽⱁⰶⰵ ⱂⱃⰻⱑⱄⱅⰵ ⱍⱅⱁ ⱁⱅ ⱀⰰⱄⱜ, ⰽⰰⰽⱁ ⱂⱁⰴⱁⰱⰰⰵⱅⱜ ⰲⰰⱞⱜ ⱈⱁⰴⰻⱅⰻ ⰻ ⱆⰳⰰⰶⰴⰰⱅⰻ Ⰱⱁⰳⱆ
+  </div>
+
 ### Декоративные шрифты
 
 * Indiction Unicode воспроизводит гарнитуру буквиц в дореволюционных церковнославянских изданиях Синодальной типографии.

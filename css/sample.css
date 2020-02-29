@@ -36,6 +36,15 @@
   font-family: 'Triodion Unicode';
 }
 
+.shafarik {
+  font-family: 'Shafarik';
+}
+
+.shafarik3 {
+  font-family: 'Shafarik';
+  font-feature-settings: 'ss03';
+}
+
 .pomorsky-dropcaps {
   font-family: 'Pomorsky Unicode';
   font-size: 5em;

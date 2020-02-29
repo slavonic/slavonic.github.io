@@ -71,6 +71,18 @@ css:
     Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
   </div>
 
+* Shafarik is a Unicode font, named after Pavel Jozef Šafárik (1795–1861), Slovak-born scholar and one of the founders of modern Slavic philology, intended for an academic presentation of Old Church Slavonic (OCS) texts written in both the Cyrillic and Glagolitic alphabets. The font supports both round (Bulgarian) Glagolitic and angular (Croatian) Glagolitic.
+  [Download font](https://www.ponomar.net/files/Shafarik.zip)
+  [Download documentation](https://www.ponomar.net/files/documentation_3.5.pdf)
+
+  <div class="shafarik sample" contenteditable="true">
+    Ⰸⰰⱍⱔⰾⱁ ⰵⰲⰰ︮ⰼ︦ⰾ︯ⰻⱑ · ⰺ︮ⱄ︯ ⱈ͠ⰲⰰ ⱄ︮ⱀ︦ⰰ︯ ⰱ︮ⰶ︦ⰻ︯ⱑ ·
+    Зачѧло Ева︮ꙉ︦л︯иѣ. ꙇ͠с х͠ва с︮н︦а︯ б︮ж︦и︯ѣ.
+  </div>
+  <div class="shafarik3 sample" contenteditable="true">
+    Ⰱⱃⰰⱅⰻⱑ, ⱞⱁⰾⰻⱞ ⰲⰻ ⰻ ⱂⱃⱁⱄⰻⱞⱜ ⱁ ⰳⱁⱄⱂⱁⰴⱑ Ⰻⱄⱆⱄⱑ, ⰴⰰ ⱑⰽⱁⰶⰵ ⱂⱃⰻⱑⱄⱅⰵ ⱍⱅⱁ ⱁⱅ ⱀⰰⱄⱜ, ⰽⰰⰽⱁ ⱂⱁⰴⱁⰱⰰⰵⱅⱜ ⰲⰰⱞⱜ ⱈⱁⰴⰻⱅⰻ ⰻ ⱆⰳⰰⰶⰴⰰⱅⰻ Ⰱⱁⰳⱆ
+  </div>
+
 ### Decorative Fonts
 
 * Indiction Unicode is used for decorative drop caps (*bukvitsi*) in liturgical books of the Russian Orthodox Church 
