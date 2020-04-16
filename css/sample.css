@@ -60,6 +60,8 @@
   font-size: 4em;
   float : left;
   color : #CC0502;
+  margin-top: -0.5em;
+  margin-bottom: 0.3em;
   margin-right: 0.05em;
 }
 
@@ -68,7 +70,9 @@
   font-size: 4em;
   float: left;
   color: #CC0502;
+  margin-top: -0.5em;
   margin-right: 0.05em;
+  margin-bottom: 0.3em;
 }
 
 .sample {
