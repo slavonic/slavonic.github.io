@@ -16,26 +16,26 @@ css:
 ### Fonts for Synodal Slavonic
 
 * Ponomar Unicode (previously called Hirmos Ponomar) is a font for typesetting Synodal Church Slavonic (that is, Church Slavonic used in modern 
-  liturgical texts of the Russian Orthodox Church). 
-  It may also be used to typeset liturgical texts in Romanian (Moldovan) Cyrillic, Aleut and Sakha (Yakut)
-  [Download](https://www.ponomar.net/files/PonomarUnicode.zip)
-  <div class="ponomar sample" contenteditable="true">
-    Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
-  </div>
+liturgical texts of the Russian Orthodox Church). 
+It may also be used to typeset liturgical texts in Romanian (Moldovan) Cyrillic, Aleut and Sakha (Yakut)
+[Download](https://www.ponomar.net/files/PonomarUnicode.zip)
+<div class="ponomar sample" contenteditable="true">
+  Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
+</div>
 
 * Pochaevsk Unicode reproduces the typeface used in editions published by the Holy Dormition Pochayev Lavra in the late 19th century and, subsequently, in editions published in the 20th century by Holy Trinity Monastery in Jordanville, New York.
-  [Download](https://www.ponomar.net/files/PochaevskUnicode.zip)
-  <div class="pochaevsk sample" contenteditable="true">
-    Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
-  </div>
+[Download](https://www.ponomar.net/files/PochaevskUnicode.zip)
+<div class="pochaevsk sample" contenteditable="true">
+  Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
+</div>
 
 * Triodion Unicode is another font for typesetting Synodal Church Slavonic. 
-  It is intended to reproduce the typeface of liturgical books published in Russia
-  at the beginning of the 20th century
-  [Download](https://www.ponomar.net/files/TriodionUnicode.zip)
-  <div class="triodion sample" contenteditable="true">
-    Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
-  </div>
+It is intended to reproduce the typeface of liturgical books published in Russia
+at the beginning of the 20th century
+[Download](https://www.ponomar.net/files/TriodionUnicode.zip)
+<div class="triodion sample" contenteditable="true">
+  Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
+</div>
 
 * Acathist reproduces another typeface that was used in the Synodal editions of the
 second half of the 19th and early 20th centuries. This typeface was used for large
@@ -48,49 +48,49 @@ format editions such as Altar Gospel Books and Acathists
 ### Fonts for Pre-Nikonian Printed Slavonic
 
 * Fedorovsk Unicode is designed to mimic the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
-  primarily for reproducing publications from that era, either in an academic setting, or as modern Old Rite liturgical texts.
-  [Download](https://www.ponomar.net/files/FedorovskUnicode.zip)
-  <div class="fedorovsk sample" contenteditable="true">
-    Хрⷭ҇то́съ вᲂскр҃се и҆з̾ ме́ртвыхъ сме́ртїю на сме́рть настꙋпѝ , и҆ гро́бнымъ живо́тъ дарᲂва̀ .
-  </div>
+primarily for reproducing publications from that era, either in an academic setting, or as modern Old Rite liturgical texts.
+[Download](https://www.ponomar.net/files/FedorovskUnicode.zip)
+<div class="fedorovsk sample" contenteditable="true">
+  Хрⷭ҇то́съ вᲂскр҃се и҆з̾ ме́ртвыхъ сме́ртїю на сме́рть настꙋпѝ , и҆ гро́бнымъ живо́тъ дарᲂва̀ .
+</div>
 
 ### Fonts for Working with Manuscripts
 
 * Menaion Unicode provides both Cyrillic and Glagolitic characters and is intended for representing text from Ustav-era 
-  Church Slavonic manuscripts.
-  [Download](https://www.ponomar.net/files/MenaionUnicode.zip)
-  <div class="menaion sample" contenteditable="true">
-     Искони бѣ слово и слово бѣ отъ б҃а и б҃ъ бѣ слово  𝀏
-  </div>
-  <div class="menaion sample" contenteditable="true">
-      Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
-  </div>
+Church Slavonic manuscripts.
+[Download](https://www.ponomar.net/files/MenaionUnicode.zip)
+<div class="menaion sample" contenteditable="true">
+    Искони бѣ слово и слово бѣ отъ б҃а и б҃ъ бѣ слово  𝀏
+</div>
+<div class="menaion sample" contenteditable="true">
+    Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
+</div>
 
 ### Fonts for Academic Work
 
 * Monomakh Unicode is a Cyrillic font implemented in a mixed ustav/poluustav style and intended to cover needs of researches 
-  dealing with Slavic history and philology. It also provides Latin characters in a similar typeface, which is useful for 
-  working with multilingual academic editions.
-  [Download](https://www.ponomar.net/files/MonomakhUnicode.zip)
-  <div class="monomakh sample" contenteditable="true">
-    Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де на совѣ́тъ нечести́выхъ, и҆ на пꙋтѝ грѣ́шныхъ не ста̀, и҆ на сѣда́лищи гꙋби́телей не сѣ́де: но въ зако́нѣ гдⷭ҇ни во́лѧ є҆гѡ̀, и҆ въ зако́нѣ є҆гѡ̀ поꙋчи́тсѧ де́нь и҆ но́щь.
-  </div>
-  <div class="monomakh sample" contenteditable="true">
-    Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
-  </div>
+dealing with Slavic history and philology. It also provides Latin characters in a similar typeface, which is useful for 
+working with multilingual academic editions.
+[Download](https://www.ponomar.net/files/MonomakhUnicode.zip)
+<div class="monomakh sample" contenteditable="true">
+  Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де на совѣ́тъ нечести́выхъ, и҆ на пꙋтѝ грѣ́шныхъ не ста̀, и҆ на сѣда́лищи гꙋби́телей не сѣ́де: но въ зако́нѣ гдⷭ҇ни во́лѧ є҆гѡ̀, и҆ въ зако́нѣ є҆гѡ̀ поꙋчи́тсѧ де́нь и҆ но́щь.
+</div>
+<div class="monomakh sample" contenteditable="true">
+  Fericit bărbatul, care n-a umblat în sfatul necredincioșilor și în calea păcătoșilor nu a stat și pe scaunul hulitorilor n-a șezut; ci în legea Domnului e voia lui și la legea Lui va cugeta ziua și noaptea.
+</div>
 
 * Shafarik is a Unicode font, named after
 [Pavel Jozef Šafárik](https://en.wikipedia.org/wiki/Pavel_Jozef_%C5%A0af%C3%A1rik), Slovak-born scholar and one of the founders of modern Slavic philology, intended for an academic presentation of Old Church Slavonic (OCS) texts written in both the Cyrillic and Glagolitic alphabets. The font supports both round (Bulgarian) Glagolitic and angular (Croatian) Glagolitic.
-  [Download font](https://www.ponomar.net/files/Shafarik.zip) |
-  [Download documentation](https://www.ponomar.net/files/documentation_3.5.pdf)
+[Download font](https://www.ponomar.net/files/Shafarik.zip) |
+[Download documentation](https://www.ponomar.net/files/documentation_3.5.pdf)
 
-  <div class="shafarik sample" contenteditable="true">
-    Ⰸⰰⱍⱔⰾⱁ ⰵⰲⰰ︮ⰼ︦ⰾ︯ⰻⱑ · ⰺ︮ⱄ︯ ⱈ͠ⰲⰰ ⱄ︮ⱀ︦ⰰ︯ ⰱ︮ⰶ︦ⰻ︯ⱑ ·
-    Зачѧло Ева︮ꙉ︦л︯иѣ. ꙇ͠с х͠ва с︮н︦а︯ б︮ж︦и︯ѣ.
-  </div>
-  <div class="shafarik3 sample" contenteditable="true">
-    Ⰱⱃⰰⱅⰻⱑ, ⱞⱁⰾⰻⱞ ⰲⰻ ⰻ ⱂⱃⱁⱄⰻⱞⱜ ⱁ ⰳⱁⱄⱂⱁⰴⱑ Ⰻⱄⱆⱄⱑ, ⰴⰰ ⱑⰽⱁⰶⰵ ⱂⱃⰻⱑⱄⱅⰵ ⱍⱅⱁ ⱁⱅ ⱀⰰⱄⱜ, ⰽⰰⰽⱁ ⱂⱁⰴⱁⰱⰰⰵⱅⱜ ⰲⰰⱞⱜ ⱈⱁⰴⰻⱅⰻ ⰻ ⱆⰳⰰⰶⰴⰰⱅⰻ Ⰱⱁⰳⱆ
-  </div>
+<div class="shafarik sample" contenteditable="true">
+  Ⰸⰰⱍⱔⰾⱁ ⰵⰲⰰ︮ⰼ︦ⰾ︯ⰻⱑ · ⰺ︮ⱄ︯ ⱈ͠ⰲⰰ ⱄ︮ⱀ︦ⰰ︯ ⰱ︮ⰶ︦ⰻ︯ⱑ ·
+  Зачѧло Ева︮ꙉ︦л︯иѣ. ꙇ͠с х͠ва с︮н︦а︯ б︮ж︦и︯ѣ.
+</div>
+<div class="shafarik3 sample" contenteditable="true">
+  Ⰱⱃⰰⱅⰻⱑ, ⱞⱁⰾⰻⱞ ⰲⰻ ⰻ ⱂⱃⱁⱄⰻⱞⱜ ⱁ ⰳⱁⱄⱂⱁⰴⱑ Ⰻⱄⱆⱄⱑ, ⰴⰰ ⱑⰽⱁⰶⰵ ⱂⱃⰻⱑⱄⱅⰵ ⱍⱅⱁ ⱁⱅ ⱀⰰⱄⱜ, ⰽⰰⰽⱁ ⱂⱁⰴⱁⰱⰰⰵⱅⱜ ⰲⰰⱞⱜ ⱈⱁⰴⰻⱅⰻ ⰻ ⱆⰳⰰⰶⰴⰰⱅⰻ Ⰱⱁⰳⱆ
+</div>
 
 ### Decorative Fonts
 
