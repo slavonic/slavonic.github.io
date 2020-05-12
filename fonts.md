@@ -37,6 +37,14 @@ css:
     Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
   </div>
 
+* Acathist reproduces another typeface that was used in the Synodal editions of the
+second half of the 19th and early 20th centuries. This typeface was used for large
+format editions such as Altar Gospel Books and Acathists
+[Download](https://www.ponomar.net/files/Acathist.zip)
+<div class="acathist sample" contenteditable="true">
+  Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.
+</div>
+
 ### Fonts for Pre-Nikonian Printed Slavonic
 
 * Fedorovsk Unicode is designed to mimic the typeface used by Ivan Fedorov, who produced some of the first printed books in Moscow. It is intended 
@@ -87,39 +95,39 @@ css:
 ### Decorative Fonts
 
 * Indiction Unicode is used for decorative drop caps (*bukvitsi*) in liturgical books of the Russian Orthodox Church 
-  published since the late 19th century.
-  [Download](https://www.ponomar.net/files/IndictionUnicode.zip)
-  <div class="ponomar sample" contenteditable="true">
-    <span class="indiction-dropcaps">В</span>лⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, 
-    моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
-    приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
-    предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
-  </div>
+published since the late 19th century.
+[Download](https://www.ponomar.net/files/IndictionUnicode.zip)
+<div class="ponomar sample" contenteditable="true">
+  <span class="indiction-dropcaps">В</span>лⷣко многомлⷭ҇тиве гдⷭ҇и, і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, 
+  моли́твами всепречⷭ҇тыѧ влⷣчцы на́шеѧ бцⷣы и҆
+  приснодв҃ы мр҃і́и: си́лою чⷭ҇тна́гѡ и҆ животворѧ́щагѡ крⷭ҇та̀:
+  предста́тельствы честны́хъ нб҃е́сныхъ си́лъ безпло́тныхъ:
+</div>
 
 * Vertograd Unicode is another font used for decorative drop caps and titling, commonly found in liturgical books of the late 19th and early 20th centuries.
 [Download](https://www.ponomar.net/files/VertogradUnicode.zip)
-  <div class="ponomar sample" contenteditable="true">
-    <span class="vertograd-dropcaps">В</span>о ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи, са́мое живоно́сное воскресе́нїе пра́зднꙋемъ гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀, є҆́же ᲂу҆́бѡ и҆ па́схꙋ и҆менꙋ́емъ: ꙗ҆́же є҆вре́йскою бесѣ́дою преведе́нїе толкꙋ́етсѧ. То́й бо є҆́сть де́нь, во́ньже бг҃ъ въ нача́лѣ мі́ръ ѿ небытїѧ̀ приведѐ.
-  </div>
+<div class="ponomar sample" contenteditable="true">
+  <span class="vertograd-dropcaps">В</span>о ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи, са́мое живоно́сное воскресе́нїе пра́зднꙋемъ гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀, є҆́же ᲂу҆́бѡ и҆ па́схꙋ и҆менꙋ́емъ: ꙗ҆́же є҆вре́йскою бесѣ́дою преведе́нїе толкꙋ́етсѧ. То́й бо є҆́сть де́нь, во́ньже бг҃ъ въ нача́лѣ мі́ръ ѿ небытїѧ̀ приведѐ.
+</div>
 
 * Cathisma Unicode is a font used for titling in many 18th-20th century liturgical editions published by the Holy Synod in Russia.
 [Download](https://www.ponomar.net/files/CathismaUnicode.zip)
-  <div class="cathisma decoration" contenteditable="true">
-    ЧИ́НЪ ОУ҆́ТРЕНИ ВСЕНО́ЩНАГѠ БДѢ́НЇѦ
-  </div>
+<div class="cathisma decoration" contenteditable="true">
+  ЧИ́НЪ ОУ҆́ТРЕНИ ВСЕНО́ЩНАГѠ БДѢ́НЇѦ
+</div>
 
 * Oglavie Unicode is another font used for titling in many 18th-20th century liturgical editions.
 [Download](https://www.ponomar.net/files/OglavieUnicode.zip)
-  <div class="oglavie decoration" contenteditable="true">
-    ТРЇѠ́ДЬ НО́ТНАГѠ ПѢ́НЇѦ
-  </div>
+<div class="oglavie decoration" contenteditable="true">
+  ТРЇѠ́ДЬ НО́ТНАГѠ ПѢ́НЇѦ
+</div>
 
 * Pomorsky Unicode is a decorative font intended for drop caps (<i>bukvitsy</i>) and titling in Old Ritualist texts. It reproduces the 
-  calligraphic style of book and chapter titles  used by Priestless Old Ritualists of the Vyg Hermitage.
-  [Download](https://www.ponomar.net/files/PomorskyUnicode.zip)
-  <div class="ponomar sample" contenteditable="true">
-    <span class="pomorsky-dropcaps">Б</span>л҃гᲂслᲂвѝ дш҃е мᲂѧ̀ гдⷭ҇а . гдⷭ҇и бж҃е мо́й вᲂз̾вели́чилсѧ є҆сѝ ѕѣлѡ̀ . во и҆спᲂвѣ́данїе и҆ в̾ велелѣ́пᲂтꙋсѧ ѡ҆блечѐ . Ѡ҆дѣѧ́исѧ свѣ́тᲂмъ ꙗ҆́кѡ ри́зᲂю , прᲂпина́ѧи не́бо ꙗ҆́кѡ ко́жꙋ . Пᲂкрыва́ѧи вᲂда́ми превы́спренѧѧ свᲂѧ̀ . пᲂлага́ѧи ѻ҆́блаки на вᲂсхᲂжде́нїе свᲂѐ , хᲂдѧ́и на крылꙋ̀ вѣ́треню . Твᲂрѧ́и а҆́нг҃лы свᲂѧ̀ дх҃и , и҆ слꙋгѝ свᲂѧ̀ ѻ҆́гнь палѧ́щь .
-  </div>
+calligraphic style of book and chapter titles  used by Priestless Old Ritualists of the Vyg Hermitage.
+[Download](https://www.ponomar.net/files/PomorskyUnicode.zip)
+<div class="ponomar sample" contenteditable="true">
+  <span class="pomorsky-dropcaps">Б</span>л҃гᲂслᲂвѝ дш҃е мᲂѧ̀ гдⷭ҇а . гдⷭ҇и бж҃е мо́й вᲂз̾вели́чилсѧ є҆сѝ ѕѣлѡ̀ . во и҆спᲂвѣ́данїе и҆ в̾ велелѣ́пᲂтꙋсѧ ѡ҆блечѐ . Ѡ҆дѣѧ́исѧ свѣ́тᲂмъ ꙗ҆́кѡ ри́зᲂю , прᲂпина́ѧи не́бо ꙗ҆́кѡ ко́жꙋ . Пᲂкрыва́ѧи вᲂда́ми превы́спренѧѧ свᲂѧ̀ . пᲂлага́ѧи ѻ҆́блаки на вᲂсхᲂжде́нїе свᲂѐ , хᲂдѧ́и на крылꙋ̀ вѣ́треню . Твᲂрѧ́и а҆́нг҃лы свᲂѧ̀ дх҃и , и҆ слꙋгѝ свᲂѧ̀ ѻ҆́гнь палѧ́щь .
+</div>
 
 ### Fonts for Technical Work
 
