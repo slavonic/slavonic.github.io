@@ -15,8 +15,7 @@ The project depends entirely on the work of volunteers like you.
 ### Active Project Members
 
 * [Aleksandr Andreev](https://orthodoxtheologicalschool.academia.edu/AleksandrAndreev).
-  Graduate student at St. Petersburg Theological Academy and liturgics instructor at the Pastoral School,
-  also part of the [Ponomar Project](https://www.ponomar.net/)
+  PhD in Theology, Associate Professor of Classical Languages at St. Petersburg Theological Academy, also part of the [Ponomar Project](https://www.ponomar.net/)
 
 * [Mike Kroutikov](https://github.com/pgmmpk). Software developer and Church Slavonic enthusiast.
 
@@ -29,7 +28,7 @@ If you share our passion for Church Slavonic, join us!
 
 Here are some projects that we are working on right now:
 
-* [Encoding Znamenny notation in Unicode](music.html)
+* [Design of Unicode-compliant fonts for Znamenny Notation](music.html)
 
 * Adding more features to the [cu-tex package](https://github.com/slavonic/cu-tex).
 
