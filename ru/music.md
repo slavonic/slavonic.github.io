@@ -16,11 +16,13 @@ css:
 [приняты для включения](http://www.unicode.org/alloc/Pipeline.html)
 в будущую версию стандарта Юникод, но кодовые точки все еще могут измениться.
 
-* [Просмотреть документацию к знаменным шрифтам](https://www.ponomar.net/files/fonts-znam.pdf) (по-английски)
+* [Документация к знаменным шрифтам](https://www.ponomar.net/files/fonts-znam.pdf) (по-английски)
 
-* [Прочитать предложение по кодированию нотации](https://www.ponomar.net/files/palaeoslavic.pdf) (по-английски)
+* Документация системы признаков [формат ODT](https://www.ponomar.net/files/priznaki-documentation.odt) [формат PDF](https://www.ponomar.net/files/priznaki-documentation.pdf)
 
-* [Смотреть исходный код шрифтов на GitHub](https://github.com/slavonic/fonts-znam/)
+* [Предложение по кодированию нотации](https://www.ponomar.net/files/palaeoslavic.pdf) (по-английски)
+
+* [Исходный код шрифтов на GitHub](https://github.com/slavonic/fonts-znam/)
 
 #### Шрифты для набора знаменной нотации
 

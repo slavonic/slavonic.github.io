@@ -17,9 +17,11 @@ music in Znamenny and Put / Demestvenny (Kazan) Notations.
 into a future version of the Unicode standard, but the codepoints
 may still be subject to change.
 
-* [Read the Znamenny Font documentation](https://www.ponomar.net/files/fonts-znam.pdf)
+* [Znamenny Font documentation](https://www.ponomar.net/files/fonts-znam.pdf)
 
-* [Read the Proposal to Encode Znamenny Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
+* Znamenny Priznaki documentation [ODT format](https://www.ponomar.net/files/priznaki-documentation.odt) [PDF format](https://www.ponomar.net/files/priznaki-documentation.pdf)
+
+* [Proposal to Encode Znamenny Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf)
 
 * [Fork the fonts on GitHub](https://github.com/slavonic/fonts-znam/)
 
