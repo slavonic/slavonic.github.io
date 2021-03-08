@@ -20,7 +20,7 @@ css:
 
 * Документация системы признаков [формат ODT](https://www.ponomar.net/files/priznaki-documentation.odt) [формат PDF](https://www.ponomar.net/files/priznaki-documentation.pdf)
 
-* [Предложение по кодированию нотации](https://www.ponomar.net/files/palaeoslavic.pdf) (по-английски)
+* [Предложение по кодированию нотации](https://www.ponomar.net/files/palaeoslavic.pdf) [Изменения, март 2021](https://www.ponomar.net/files/update0321.pdf) (по-английски)
 
 * [Исходный код шрифтов на GitHub](https://github.com/slavonic/fonts-znam/)
 
