@@ -71,7 +71,7 @@ manuscripts. The typeface is modelled after the characters in the
 Voskresensky Hirmologion. Please note that the neumes are still
 experimental.
 [Download](https://www.ponomar.net/files/Voskresensky.zip)
-<div class="menaion sample" contenteditable="true">
+<div class="voskresensky sample" contenteditable="true">
   Оутроба иѡнꙑ младеньца не врѣди морьскꙑи ꙁвѣрь·
 </div>
 

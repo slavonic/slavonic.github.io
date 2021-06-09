@@ -67,7 +67,7 @@ css:
 
 * Voskresensky содержит кириллические символы и символы Знаменной невменной нотации и также предназначен для набора уставных рукописей. Гарнитура воспроизводит почерк Воскресенского Ирмология. Обратите внимание, что символы нотации пока еще экспериментальные.
 [Download](https://www.ponomar.net/files/Voskresensky.zip)
-<div class="menaion sample" contenteditable="true">
+<div class="voskresensky sample" contenteditable="true">
   Оутроба иѡнꙑ младеньца не врѣди морьскꙑи ꙁвѣрь·
 </div>
 

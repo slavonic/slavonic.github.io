@@ -123,6 +123,17 @@
 }
 
 @font-face {
+    font-family: 'Voskresensky';
+    src: url('../fonts/Voskresensky-Regular.eot');
+    src: url('../fonts/Voskresensky-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Voskresensky-Regular.woff2') format('woff2'),
+	url('../fonts/Voskresensky-Regular.woff') format('woff'),
+	url('../fonts/Voskresensky-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Triodion Unicode';
     src: url('../fonts/TriodionUnicode.eot');
     src: url('../fonts/TriodionUnicode.eot?#iefix') format('embedded-opentype'),
