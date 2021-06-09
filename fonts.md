@@ -66,6 +66,15 @@ Church Slavonic manuscripts.
     Ⰻⱄⰽⱁⱀⰹ ⰱⱑ ⱄⰾⱁⰲⱁ  · ⰻ ⱄⰾⱁⰲⱁ  ⰱⱑ ⱋ̔ ⰱⰰ  · ⰻ ⰱ͞ⱏ ⰱⱑ  ⱄⰾⱁⰲⱁ  ·
 </div>
 
+* Voskresensky provides Cyrillic characters and Znamenny Musical Notation symbols and is also intended for reproducing the text of Ustav-era
+manuscripts. The typeface is modelled after the characters in the
+Voskresensky Hirmologion. Please note that the neumes are still
+experimental.
+[Download](https://www.ponomar.net/files/Voskresensky.zip)
+<div class="menaion sample" contenteditable="true">
+  Оутроба иѡнꙑ младеньца не врѣди морьскꙑи ꙁвѣрь·
+</div>
+
 ### Fonts for Academic Work
 
 * Monomakh Unicode is a Cyrillic font implemented in a mixed ustav/poluustav style and intended to cover needs of researches 
