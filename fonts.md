@@ -54,13 +54,13 @@ primarily for reproducing publications from that era, either in an academic sett
   Хрⷭ҇то́съ вᲂскр҃се и҆з̾ ме́ртвыхъ сме́ртїю на сме́рть настꙋпѝ , и҆ гро́бнымъ живо́тъ дарᲂва̀ .
 </div>
 
-* Vilnius is designed to mimic the typeface used by the
-Mamonichi Press in Vilnius, which produced important editions in
-the late 16th and early 17th century.
-[Download](https://www.ponomar.net/files/Vilnius.zip)
-<div class="vilnius sample" contenteditable="true">
-  Выⷣрꙋкᲂвана сїа кни́га в̾лѣтᲂ ѿ съзⷣанїѧ ми́ра ҂ꙁ҃ч҃ае , з̾дрꙋка́рни до́мꙋ мамоничᲂвъ
-</div>
+[//]: # (* Vilnius is designed to mimic the typeface used by the)
+[//]: # (Mamonichi Press in Vilnius, which produced important editions in)
+[//]: # (the late 16th and early 17th century.)
+[//]: # ([Download](https://www.ponomar.net/files/Vilnius.zip))
+[//]: # (<div class="vilnius sample" contenteditable="true">)
+[//]: # (  Выⷣрꙋкᲂвана сїа кни́га в̾лѣтᲂ ѿ съзⷣанїѧ ми́ра ҂ꙁ҃ч҃ае , з̾дрꙋка́рни до́мꙋ мамоничᲂвъ)
+[//]: # (</div>)
 
 ### Fonts for Working with Manuscripts
 
