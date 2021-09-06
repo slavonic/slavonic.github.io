@@ -123,6 +123,17 @@
 }
 
 @font-face {
+    font-family: 'Vilnius Regular';
+    src: url('../fonts/Vilnius-Regular.eot');
+    src: url('../fonts/Vilnius-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vilnius-Regular.woff2') format('woff2'),
+	url('../fonts/Vilnius-Regular.woff') format('woff'),
+	url('../fonts/Vilnius-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Voskresensky';
     src: url('../fonts/Voskresensky-Regular.eot');
     src: url('../fonts/Voskresensky-Regular.eot?#iefix') format('embedded-opentype'),
