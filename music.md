@@ -19,7 +19,7 @@ may still be subject to change.
 
 * [Znamenny Font documentation](https://www.ponomar.net/files/fonts-znam.pdf)
 
-* Znamenny Priznaki documentation [ODT format](https://www.ponomar.net/files/priznaki-documentation.odt) [PDF format](https://www.ponomar.net/files/priznaki-documentation.pdf)
+* Znamenny Priznaki documentation [ODT format](https://www.ponomar.net/files/priznaki_documentation.odt) [PDF format](https://www.ponomar.net/files/priznaki_documentation.pdf)
 
 * [Proposal to Encode Znamenny Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf) [Updates from March 2021](https://www.ponomar.net/files/update0321.pdf)
 
