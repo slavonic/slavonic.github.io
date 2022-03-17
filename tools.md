@@ -18,6 +18,11 @@ Converters for converting Church Slavonic texts into Unicode from various legacy
 
 * [Church Slavonic converter Extension for LibreOffice 3.0 and higher](https://extensions.libreoffice.org/extensions/church-slavonic-converter)
 
+
+## Automatic translation from civic script to Church Slavonic
+Tooling is published here: https://github.com/slavonic/translator .
+
+Small text can be conveniently converted [in our web application](/translate).
 ### APIs
 
 APIs for developing Church Slavonic-aware applications provide a variety of tools,
