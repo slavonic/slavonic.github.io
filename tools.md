@@ -22,7 +22,7 @@ Converters for converting Church Slavonic texts into Unicode from various legacy
 ## Automatic translation from civic script to Church Slavonic
 Translation tooling is published [in our GitHub repository](https://github.com/slavonic/translator).
 
-Small text can be conveniently translated [in our web application](/translate).
+Small texts can be conveniently translated [in our web application](/translate).
 ### APIs
 
 APIs for developing Church Slavonic-aware applications provide a variety of tools,
