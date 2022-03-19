@@ -23,7 +23,7 @@ to type Church Slavonic text in your favorite OS, and
 information on how to [set up your text editing software](/users.html).
 Don't want the hassle of installing drivers? 
 [Try the web-based keyboard tool](https://www.ponomar.net/cu_vkeyb.html)!
-Type in civic script, we [auto-translate](/translate) to Church Slavonic (mobile users beware: 40+Mb download)!
+Type in modern orthography, [we auto-translate](/translate) to Church Slavonic! (mobile users beware: 40+Mb download)
 
 </div><div class="col-md-4">
 
