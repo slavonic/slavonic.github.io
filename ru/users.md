@@ -96,7 +96,7 @@ lang: ru
 * В табличном редакторе LibreOffice Calc Вы можете сортировать ячейки в церковнославянском алфавитном порядке. 
   Для этого выберите `Сортировка` в меню `Данные`. Откройте панель `Параметры`. В выпадающем списке `Язык` выберите `церковнославянский`.
   
-  ![sorting](https://www.ponomar.net/images/sort_calc.png)
+  ![sorting](/images/sort_calc_ru.png)
 
 * Инициативная группа славянской информатики также предоставляет 
   [надстройку `Church Slavonic Converter`](https://extensions.libreoffice.org/extensions/church-slavonic-converter),
