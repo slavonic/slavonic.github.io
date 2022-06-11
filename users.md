@@ -51,6 +51,8 @@ Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The 
   [Hunspell Church Slavonic dictionary](https://github.com/slavonic/hunspell-cu/releases).
   You can spell-check a Church Slavonic TEX file by running `hunspell -d cu -t your-file-name.tex`.
 
+* Take a look also at [a set of tools](https://github.com/EliseyP/csl_odt2tex) for formatting, layout, and preparation of texts in LibreOffice and TeX.
+
 ### LibreOffice
 
 Beginning with version 5.0, LibreOffice allows you to specify Church Slavonic (which it calls Church Slavic) as a 
