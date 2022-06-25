@@ -23,6 +23,10 @@ Converters for converting Church Slavonic texts into Unicode from various legacy
 Translation tooling is published [in our GitHub repository](https://github.com/slavonic/translator).
 
 Small texts can be conveniently translated [in our web application](/translate). Attention mobile internet users! This web-application will load 40+Mb of code and data.
+
+## Automatic accenting of text in modern orthography
+Check out our web [our web application](/accent). Attention mobile internet users! This web-application will load 40+Mb of code and data.
+
 ### APIs
 
 APIs for developing Church Slavonic-aware applications provide a variety of tools,
