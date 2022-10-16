@@ -24,8 +24,11 @@ Translation tooling is published [in our GitHub repository](https://github.com/s
 
 Small texts can be conveniently translated [in our web application](/translate). Attention mobile internet users! This web-application will load 40+Mb of code and data.
 
-## Automatic accenting of text in modern orthography
+## Automatic accenting of Church Slavonic text in modern orthography
 Check out our web [our web application](/accent). Attention mobile internet users! This web-application will load 40+Mb of code and data.
+
+## Automatic accenting of Russian text
+Check out our web [our web application](/accentru). Attention mobile internet users! This web-application will load 30+Mb of code and data.
 
 ### APIs
 
@@ -35,7 +38,7 @@ and Russian (modern) orthography, automated generation of Slavonic numerals, and
 
 * [Lingua::CU](https://github.com/typiconman/Perl-Lingua-CU) - a
   module for Church Slavonic support in Perl.
-  
+
 * [cslavonic](https://github.com/pgmmpk/cslavonic) - a
    module for Church Slavonic support in Python.
 
