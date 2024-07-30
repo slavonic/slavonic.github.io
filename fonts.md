@@ -13,6 +13,13 @@ css:
 * [Fork me on GitHub](https://github.com/typiconman/fonts-cu)
 * [Web fonts for embedding into websites](tools.html)
 
+### Support our work
+
+If you like our work, consider making a donation to the Slavonic Computing Initiative. This helps pay various fees and buy a coffee for our developers. We are committed to providing free and open source fonts and other Church Slavonic support.
+
+* [Sponsor our organization on GitHub](https://github.com/sponsors/slavonic)
+* [Make a donation using PayPal](https://www.paypal.com/donate/?business=6XR2VM5UDXRUY&no_recurring=0&item_name=Support+the+Slavonic+Computing+Initiative&currency_code=USD) (if you don't have a GitHub account)
+
 ### Fonts for Synodal Slavonic
 
 * Ponomar Unicode (previously called Hirmos Ponomar) is a font for typesetting Synodal Church Slavonic (that is, Church Slavonic used in modern 
