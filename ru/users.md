@@ -170,7 +170,7 @@ Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-chur
 и выключать стилистические наборы, выбрав соответствующий номер
 из контекстного меню Стилистический набор (Stylistic set).
 
-  ![MS Word](images/fontsetup-word.png)
+  ![MS Word](/images/fontsetup-word.png)
 
 Обратите внимание на следующие ограничения MS Office:
 
