@@ -47,9 +47,9 @@ Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The 
 * Here is a [sample TeX file](https://www.ponomar.net/files/sample.tex)
   and its [resulting PDF output](https://www.ponomar.net/files/sample.pdf) to get you started.
 
-* For spell-checking of documents in Church Slavonic, install Hunspell and the
+* For spellchecking of documents in Church Slavonic, install Hunspell and the
   [Hunspell Church Slavonic dictionary](https://github.com/slavonic/hunspell-cu/releases).
-  You can spell-check a Church Slavonic TEX file by running `hunspell -d cu -t your-file-name.tex`.
+  You can spellcheck a Church Slavonic TEX file by running `hunspell -d cu -t your-file-name.tex`.
 
 * Take a look also at [a set of tools](https://github.com/EliseyP/csl_odt2tex) for formatting, layout, and preparation of texts in LibreOffice and TeX.
 
@@ -64,7 +64,7 @@ hyphenation and sorting.
 
 * If you have not already, upgrade LibreOffice to version 5.0 or later. You can download the 
   [latest version from the Document Foundation](http://www.libreoffice.org/download/libreoffice-fresh/). While you can view and edit Church Slavonic text in LibreOffice 4 and earlier, you will not be able to take advantage 
-  of spell-checking, hyphenation and other features.
+  of spellchecking, hyphenation and other features.
 
 * Install the Church Slavonic Spelling and Hyphenation dictionaries. To do this, download 
   [the extension](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary).
@@ -138,30 +138,39 @@ or select the command `Church Slavonic Keyboard: Toggle` from the palette.
 See our [FiraSlav font](fonts.html). To change the font for the editor,
 place the line `"editor.fontFamily": "Fira Slav"` in the `User Settings` file.
 
-### Apache OpenOffice
-
-[Apache Office](http://www.openoffice.org/) is not well maintained. While you can view and edit Church Slavonic texts, 
-the software will not allow declaring Church Slavonic as a language. Hence, you will not be able to use hyphenation or 
-spell checking and you will not have access to Cyrillic numerals and other features. 
-
-We suggest [using LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/) instead.
-
 ### Microsoft Office
 
-Microsoft Corporation does not recognize Church Slavonic as a language, and so hyphenation and spell checking are 
-not available, even in third-party extensions.
-Church Slavonic texts **may** display correctly in Microsoft Office using the Ponomar Unicode font. 
-However, your results may vary, and you may see incorrectly positioned diacritical marks,
-missing characters and other problems. There are no workarounds for these issues. 
+Starting with Microsoft Office 2016, you can edit Church Slavonic
+texts without needing to install any additional software. Simply
+install the Church Slavonic fonts from [our site](fonts.html) and, if needed, the 
+Church Slavonic [keyboard drivers for Windows](keyboard.html).
 
-*We do not provide any support for Microsoft products*.
+Then select the font in Office and display / edit your text.
+In order to
+support all of the font features (such as ligatures), you
+may need to turn on advanced font features. To do this,
+open the Font dialog and click on the Advanced tab.
+Then, under OpenType Features select All from the dropdown menu
+labeled Ligatures. Stylistic sets may also be turned on
+by selecting them from the dropdown menu labeled Stylistic sets.
 
-We suggest [using LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/) instead.
+  ![MS Word](images/fontsetup-word.png)
+
+Note the following limitations:
+
+* There is no way to turn on multiple Stylistic sets at a time.
+* There is no way to select Stylistic alternatives.
+
+As well, Microsoft still does not recognize Church Slavonic as a
+valid language, so hyphenation and spellchecking are 
+not available, even as third-party extensions.
+We suggest [using LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/) instead,
+or complaining to [Microsoft Technical Support](https://support.microsoft.com/en-us/contactus).
 
 ### Adobe InDesign
 
 Once you have installed the Church Slavonic fonts from [this page](fonts.html), you should be able to work with Church 
-Slavonic texts in Adobe InDesign. To get support for Church Slavonic hyphenation and spell-checking, 
+Slavonic texts in Adobe InDesign. To get support for Church Slavonic hyphenation and spellchecking, 
 download the 
 [Church Slavonic Dictionary Extension for LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary);
 then follow [the instructions](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html) to install it into InDesign.
@@ -178,6 +187,6 @@ Tables of Church Slavonic letters and other symbols are available in the documen
 
 ### I need help!
 
-If you are having difficulties, all questions (except for those related to Microsoft products) may be addressed to 
+If you are having difficulties, all questions may be addressed to 
 the [SCI-Users mailing list](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net).
 
