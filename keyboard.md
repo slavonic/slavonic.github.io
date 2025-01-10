@@ -47,27 +47,11 @@ for more information and installation instructions.
 
 All layouts are available via the m17n-cu package.
 
-* For **Debian-based systems** such as Ubuntu and Linux Mint, add the 
-SCI ppa to your sources:
+* For **Debian-based systems** such as Ubuntu and Linux Mint, [download and install our deb package](https://github.com/typiconman/m17n-cu/releases/download/v.1.2.5/m17n-cu_1.2.5_all.deb).
 
-  ```
-  sudo add-apt-repository ppa:aleksandr-andreev/sci
-  ```
+* For **all other systems**, [download the m17n-cu tarball ](https://github.com/typiconman/m17n-cu/archive/refs/tags/v.1.2.5.tar.gz) and install its contents.
 
-* Update your software sources:
-
-  ```
-  sudo apt update
-  ```
-
-* Install our package:
-
-  ```
-  sudo apt install m17n-cu
-  ```
-
-* For **all other systems**, [download](https://github.com/typiconman/m17n-cu/releases)
-the m17n-cu tarball and install its contents.
+* Or you can [clone the Git repository](https://github.com/typiconman/m17n-cu) and follow the instructions in the INSTALL file.
 
 You will then need to set up IBUS to be your input method and select the wanted
 keyboard layout from the m17n database.

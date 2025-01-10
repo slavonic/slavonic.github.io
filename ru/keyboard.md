@@ -50,27 +50,12 @@ lang: ru
 
 Все раскладки доступны через пакет m17n-cu.
 
-* Для **систем, основанных на Debian**, к примеру Ubuntu и Linux Mint,
-добавьте персональное хранилище приложений SCI:
+* Для **систем Debian**, например Ubuntu и Linux Mint, [скачайте и установите пакет deb](https://github.com/typiconman/m17n-cu/releases/download/v.1.2.5/m17n-cu_1.2.5_all.deb).
 
-  ```
-  sudo add-apt-repository ppa:aleksandr-andreev/sci
-  ```
+* Для **других систем**, [скачайте архив m17n-cu в формате tar](https://github.com/typiconman/m17n-cu/archive/refs/tags/v.1.2.5.tar.gz) и установите его содержание.
 
-* Обновите базу данных источников приложений:
+* Или [можно клонировать репозиторий Git](https://github.com/typiconman/m17n-cu) и следовать инструкции в файле INSTALL.
 
-  ```
-  sudo apt update
-  ```
-
-* Установите наш пакет:
-
-  ```
-  sudo apt install m17n-cu
-  ```
-
-* Для **всех других систем**, [скачайте](https://github.com/typiconman/m17n-cu/releases)
-пакет m17n-cu с сайта и установите его содержимое (обычно в папку /usr/share/m17n/).
 
 Вам нужно выбрать IBUS как систему ввода текста и затем выбрать необходимую
 раскладку из базы данных m17n.
