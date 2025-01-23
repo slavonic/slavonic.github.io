@@ -195,8 +195,7 @@ Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-chur
 то Вы сможете верстать церковнославянский текст в программе Adobe InDesign. Для поддержки переноса слов, 
 скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary); 
 затем следуйте [инструкции](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
-чтобы установить их в InDesign. Нумерация страниц кириллической цифирью не поддерживается. 
-Попытайтесь связаться с [Adobe](https://helpx.adobe.com/contact.html?step=IDSN) или перейдите на LibreOffice.
+чтобы установить их в InDesign. Автоматическая нумерация страниц кириллической цифирью не поддерживается, если она вам нужна, попытайтесь связаться с [Adobe](https://helpx.adobe.com/contact.html?step=IDSN).
 
 ### Где находится нужный мне символ?
 
