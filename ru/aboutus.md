@@ -19,33 +19,23 @@ lang: ru
 
 ### Активные участники
 
-* [Александр Андреев](https://orthodoxtheologicalschool.academia.edu/AleksandrAndreev),
-  кандидат теологии, доцент Санкт-Петербургской духовной академии, участник [проекта Пономарь](https://www.ponomar.net/).
+* [Александр Андреев](https://github.com/typiconman),
+  кандидат теологии, доцент. Университет Осло.
 
 * [Михаил Крутиков](https://github.com/pgmmpk). Программист и энтузиаст в области славянской типографики.
 
-* Никита Симмонс. Музыковед и разработчик шрифтов, автор [проекта Synaxis.info](http://www.synaxis.info/).
-
-Присоединяйтесь к нам! Проект нуждается в специалистах различного профиля.
-
-### Текущие задачи
-
-Задачи, над решением которых мы сейчас работаем:
-
-* [Разработка шрифтов для знаменной нотации в Юникоде](music.html)
-
-* Разработка дополнительных возможностей для [пакета cu-tex](https://github.com/slavonic/cu-tex).
-
-* Разработка проверки церковнославянской орфографии для [Hunspell](https://hunspell.github.io/),
-что можно будет внедрить в LibreOffice, Mozilla Firefox и другие программы.
-
-* Разработка церковнославянских словарей для распознавателя
-[Tesseract OCR](https://github.com/tesseract-ocr/tesseract). 
-
-* Оцифровка [дополнительных богослужебных книг](http://minei.ru/minea/advanced).
+* [Никита Симмонс](http://www.synaxis.info/). Музыковед и разработчик шрифтов. Независимый исследователь.
 
 [Свяжитесь с нами](https://www.ponomar.net/mailman/listinfo/sci-users_ponomar.net)
 чтобы принять участие в работе Инициативной группы.
+
+### Поддержать нашу работу
+
+Если вам полезно то, что мы делаем, вы можете сделать пожертвование на работу Инициативной группы. Средства покрывают расходы, связанные с хостингом сайта и различными взносами, а также идут на чай для наших разработчиков.
+
+* [Спонсировать организацию на GitHub](https://github.com/sponsors/slavonic)
+* [Пожертвование через PayPal](https://www.paypal.com/donate/?business=6XR2VM5UDXRUY&no_recurring=0&item_name=Support+the+Slavonic+Computing+Initiative&currency_code=USD) (если у вас отстутсвует профиль GitHub)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="typiconman" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy us a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 </div><div class="col-md-3 hidden-sm-down">
 
