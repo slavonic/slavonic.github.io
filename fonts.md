@@ -181,16 +181,11 @@ var letter = '(?:ᲂу|Оу|оу\\S)[̀́̑҆̾̏҇҃ⷠⷡⷢⷣⷷⷤⷥꙵꙶ
 
 ### Licenses and Technical Information
 
-Fonts only provided in OpenType-CFF (PostScript) format (OTF extension) with advanced OpenType features. Please [read the 
-documentation](https://www.ponomar.net/files/fonts-churchslavonic.pdf)
-for a description of the OpenType features provided.
-We no longer provide fonts in TrueType format (TTF extension) with SIL Graphite features. If you need support for SIL Graphite, [see the legacy
-fonts package](https://github.com/slavonic/fonts-cu-legacy). 
+Fonts are provided in OpenType-CFF (PostScript) format (with OTF extension) or in TrueType format (with TTF extension). Both formats have advanced OpenType typographic features described in [the documentation](https://www.ponomar.net/files/fonts-churchslavonic.pdf). Generally you should download and install the OpenType font (with OTF extension) for most purposes; the TrueType font (with TTF extension) is needed for older systems that do not support OTF fonts or in web applications where a smaller file size is desirable. As well, we no longer provide fonts with SIL Graphite features, since modern word processing and text layout software supports OpenType features; but if you need support for Graphite, [see the legacy fonts package](https://github.com/slavonic/fonts-cu-legacy).
 
-License information [is indicated on the legal page](legal.html).
+The fonts are licensed under the SIL Open Font License. More information [is indicated on the legal page](legal.html).
 Questions can be addressed to the [SCI-Users mailing 
-list](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (in English
-or Russian).
+list](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (with discussion in English, Russian or any other Slavic language).
 
 ### Please support our work
 
