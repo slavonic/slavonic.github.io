@@ -14,10 +14,7 @@ css:
 
 ### Шрифты для синодального церковнославянского
 
-* Ponomar (в бета-версиях распространялся под наименованием Hirmos Ponomar) — шрифт для работы с 
-современными (богослужебными) церковнославянскими текстами.  Также присутствуют буквы для молдавской (румынской) 
-кириллицы и для алеутского и якутского языков. Шрифт повторяет гарнитуру из изданий Синодальной типографии 
-начала XX  века.
+* Ponomar (в бета-версиях распространялся под наименованием Hirmos Ponomar) — шрифт для работы с современными (богослужебными) церковнославянскими текстами.  Также присутствуют буквы для молдавской (румынской) кириллицы и для алеутского и якутского языков. Шрифт повторяет гарнитуру из изданий Синодальной типографии начала XX века.
 [Скачать в формате OTF](https://raw.githubusercontent.com/slavonic/Ponomar/master/fonts/otf/Ponomar-Regular.otf) | [Скачать в формате TTF](https://raw.githubusercontent.com/slavonic/Ponomar/master/fonts/ttf/Ponomar-Regular.ttf) | [Скачать старую версию с названием Ponomar Unicode](https://raw.githubusercontent.com/typiconman/fonts-cu/master/Ponomar/PonomarUnicode.otf) | [Клонировать на GitHub](https://github.com/slavonic/Ponomar)
 
 <div class="ponomar sample" contenteditable="true">
