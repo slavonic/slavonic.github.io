@@ -111,7 +111,7 @@ working with multilingual academic editions.
 
 <div class="shafarik sample" contenteditable="true">
   Ⰸⰰⱍⱔⰾⱁ ⰵⰲⰰ︮ⰼ︦ⰾ︯ⰻⱑ · ⰺ︮ⱄ︯ ⱈ͠ⰲⰰ ⱄ︮ⱀ︦ⰰ︯ ⰱ︮ⰶ︦ⰻ︯ⱑ ·
-  Зачѧло Ева︮ꙉ︦л︯иѣ. ꙇ͠с х͠ва с︮н︦а︯ б︮ж︦и︯ѣ.
+  ꙁачѧло Ева︮ꙉ︦л︯иѣ. ꙇ͠с х͠ва с︮н︦а︯ б︮ж︦и︯ѣ.
 </div>
 <div class="shafarik3 sample" contenteditable="true">
   Ⰱⱃⰰⱅⰻⱑ, ⱞⱁⰾⰻⱞ ⰲⰻ ⰻ ⱂⱃⱁⱄⰻⱞⱜ ⱁ ⰳⱁⱄⱂⱁⰴⱑ Ⰻⱄⱆⱄⱑ, ⰴⰰ ⱑⰽⱁⰶⰵ ⱂⱃⰻⱑⱄⱅⰵ ⱍⱅⱁ ⱁⱅ ⱀⰰⱄⱜ, ⰽⰰⰽⱁ ⱂⱁⰴⱁⰱⰰⰵⱅⱜ ⰲⰰⱞⱜ ⱈⱁⰴⰻⱅⰻ ⰻ ⱆⰳⰰⰶⰴⰰⱅⰻ Ⰱⱁⰳⱆ
