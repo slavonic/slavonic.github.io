@@ -6,6 +6,32 @@ lang: en
 
 ## For Developers and Programmers
 
+### Web Fonts
+
+If you wish to display Church Slavonic text on your website or blog, you can simply add a reference to our stylesheet in the `HEAD` section of your document:
+
+```
+<link rel="stylesheet" href="https://slavonic.github.io/css/fonts.css" type="text/css">
+```
+
+All of the necessary fonts will be loaded automatically. To use the fonts, just declare the appropriate CSS classes, for example:
+
+```
+.slavonic {
+  font-family: 'Ponomar';
+}
+```
+
+If you do not wish to load the fonts from our server but would rather place
+the embeddable web fonts on your own server, you can download the
+[embeddable web font package](https://www.ponomar.net/files/sci-webfonts.zip) and un-zip it to some directory on your server. 
+
+The package provides all of the fonts in [WOFF2](https://www.w3.org/TR/WOFF2/), [EOT](https://www.w3.org/Submission/EOT/) (for Internet Explorer),
+and TTF formats, which should work with all modern browsers, as well as a
+working CSS stylesheet to get you started. 
+
+The web fonts are distributed under the SIL Open Font License; see the [legal page](legal.html) for details.
+
 ### Converters
 
 Converters for converting Church Slavonic texts into Unicode from various legacy codepages.
@@ -50,37 +76,6 @@ Church Slavic hyphenation patterns
 * [For XeTeX, LuaTeX, and other TeX based systems](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
 * [For web pages using Hyphenator.js](https://mnater.github.io/Hyphenator/)
 
-### Web Fonts
-
-If you wish to display Church Slavonic text on your website or blog, you can simply
-add a reference to our stylesheet in the `HEAD` section of your document:
-
-```
-<link rel="stylesheet" href="https://slavonic.github.io/css/fonts.css" type="text/css">
-```
-
-All of the necessary fonts will be loaded automatically. To use the fonts, just
-declare the appropriate CSS classes, for example:
-
-```
-.slavonic {
-  font-family: 'Ponomar Unicode';
-}
-```
-
-If you do not wish to load the fonts from our server but would rather place
-the embeddable web fonts on your own server, you can download the
-[embeddable web font package](https://www.ponomar.net/files/sci-webfonts.zip)
-and un-zip it to some directory on your server. 
-
-The package provides all of the fonts in [WOFF2](https://www.w3.org/TR/WOFF2/),
-[WOFF](https://www.w3.org/Fonts/WOFF-FAQ),
-[EOT](https://www.w3.org/Submission/EOT/) (for Internet Explorer),
-and TTF formats, which should work with all modern browsers, as well as a
-working CSS stylesheet to get you started. 
-
-The web fonts are distributed
-under the same license as the installable fonts; see the [legal page](legal.html) for details.
 
 ### Miscellaneous Resources
 
