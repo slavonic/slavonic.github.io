@@ -8,56 +8,21 @@ lang: en
 
 You can easily enter, edit, and publish Church Slavonic texts in standard, popular software.
 
-### XeTeX and LuaTeX
+### Google Docs
 
-To work with Church Slavonic texts in TeX, you will need to use a modern Unicode-compatible TeX engine such as XeTeX or LuaTeX.
-Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). The following will be helpful:
+The easiest way to work with Church Slavonic texts is in [Google Docs](https://docs.google.com/document/u/0/). For this you do not need to install any specialized software or fonts. Simply open a new document and select one of our fonts. To do this, in the Font menu click More fonts, then in the window type the name of the font into the search bar. Only those fonts that have been added to Google Fonts are available: for now you can use [Pochaevsk, Ponomar, Triodion, Monomakh or Shafarik](https://fonts.google.com/?lang=cu_Cyrl).
 
-* Install the hyphenation patterns for Church Slavonic. To do this, run the following command: 
+  ![fonts in Google Docs](/images/fontsetup-google.png)
 
-  ```
-  tlmgr install hyphen-churchslavonic
-  ```
-  
-  Then rebuild the XeLaTeX and LuaLaTeX formats with this command: 
-  
-  ```
-  fmtutil --byfmt xelatex 
-  fmtutil --byfmt lualatex
-  ```
-  
-* Install the `churchslavonic` package. This will install a set of Church Slavonic OpenType fonts, additional macros, 
-  and handlers for polyglossia. You can install the package by running the command 
-  
-  ```
-  tlmgr install churchslavonic
-  ```
-  
-* If you have an older version of TeX Live or another distribution of TeX, you may need to install the hyphenation patterns 
-  and additional packages manually. You can get the hyphenation patterns 
-  [from GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation)
-  and [Church Slavonic package on CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
-  Follow the instructions in the documentation.
+This functionality works also in the mobile version of the app on Android, but the Church Slavonic font needs to be first selected in the desktop version of the document.
 
-* You can now type Church Slavonic texts using the standard commands of Polyglossia. The `churchslavonic` package 
-  offers additional macros for Cyrillic numerals, drop caps and other features. See the documentation for 
-  [Polyglossia](http://mirror.unl.edu/ctan/macros/latex/contrib/polyglossia/polyglossia.pdf)
-  and [churchslavonic](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-en.pdf) for details.
+  ![fonts in Android](/images/fontsetup-android.png)
 
-* Here is a [sample TeX file](https://www.ponomar.net/files/sample.tex)
-  and its [resulting PDF output](https://www.ponomar.net/files/sample.pdf) to get you started.
-
-* For spellchecking of documents in Church Slavonic, install Hunspell and the
-  [Hunspell Church Slavonic dictionary](https://github.com/slavonic/hunspell-cu/releases).
-  You can spellcheck a Church Slavonic TEX file by running `hunspell -d cu -t your-file-name.tex`.
-
-* Take a look also at [a set of tools](https://github.com/EliseyP/csl_odt2tex) for formatting, layout, and preparation of texts in LibreOffice and TeX.
+Unfortunately it is not possible to indicate that the language of the document is Church Slavonic, so spell checking and hyphenation are not supported.
 
 ### LibreOffice
 
-Beginning with version 5.0, LibreOffice allows you to specify Church Slavonic (which it calls Church Slavic) as a 
-document language. You can then take advantage of a number of features such as Cyrillic numerals (for page numbering, etc.), 
-hyphenation and sorting.
+The most versatile software for Church Slavonic is [LibreOffice](https://www.libreoffice.org/). Starting with version 5.0, it allows you to specify Church Slavonic (which it calls Church Slavic) as a document language. You can then take advantage of a number of features such as Cyrillic numerals (for page numbering, etc.), hyphenation and spell checking.
 
 * Install the Church Slavonic fonts from [our site](fonts.html) and, if needed, the 
   Church Slavonic [keyboard drivers for your operating system](keyboard.html).
@@ -103,40 +68,10 @@ hyphenation and sorting.
   It converts a selection, or if no selection is made, the entire document. The source code is available 
   [on GitHub](https://github.com/slavonic/cuconverter-LO).
   
-* There are still a number of bugs: 
+* There are still some bugs: 
    - [85731](https://bugs.documentfoundation.org/show_bug.cgi?id=85731): Cannot specify `_` as hyphenation symbol. As a workaround to this bug, you can enable the `ss01` OpenType feature
-(by setting the font name to, e.g., `Ponomar Unicode:ss01`) or the `hyph` Graphite feature
-(by setting the font name to, e.g., `Ponomar Unicode TT:hyph=1`). Please take a look at
+(by setting the font name to, e.g., `Ponomar:ss01`). Please take a look at
 [the font documentation](https://www.ponomar.net/files/fonts-churchslavonic.pdf) for more information.
-
-   - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Cannot convert Cyrillic Extended-B symbols to uppercase
-
-### Visual Studio Code
-
-[Visual Studio Code](https://code.visualstudio.com/) is a free, portable source code editor.
-It is useful for editing the raw Church Slavonic liturgical texts stored in 
-[XML](https://github.com/slavonic/cu-books) and 
-[Markdown](https://github.com/slavonic/cumd) formats. 
-
-  ![VS Code](https://www.ponomar.net/images/vscode.png)
-
-To set up editing Church Slavonic texts in Visual Studio Code:
-
-* Install [Church Slavonic Markdown
-Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
-
-* Open the Markdown preview pane (press `Ctrl+Shift+P` to open the palette and select 
-`Markdown: Open Preview to the Side`).
-
-* Install the [VS Code Church Slavonic
-Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic-keyboard).
-
-* Initially the keyboard is off. To toggle, press `Ctrl+Alt+Space` (on GNU/Linux, `Meta+Space`)
-or select the command `Church Slavonic Keyboard: Toggle` from the palette.
-
-* It is best to edit text using a monospaced font supporting Unicode 10.0 or newer.
-See our [FiraSlav font](fonts.html). To change the font for the editor,
-place the line `"editor.fontFamily": "Fira Slav"` in the `User Settings` file.
 
 ### Microsoft Office
 
@@ -167,11 +102,70 @@ not available, even as third-party extensions.
 We suggest [using LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/) instead,
 or complaining to [Microsoft Technical Support](https://support.microsoft.com/en-us/contactus).
 
+### XeTeX and LuaTeX
+
+To work with Church Slavonic texts in TeX, you will need to use a modern Unicode-compatible TeX engine such as XeTeX or LuaTeX.
+Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). If you have a complete TeX Live installation, you will have the `churchslavonic` package. This means that you can now type Church Slavonic texts using the standard commands of Polyglossia. The `churchslavonic` package offers additional macros for Cyrillic numerals, drop caps and other features. See the documentation for [Polyglossia](http://mirror.unl.edu/ctan/macros/latex/contrib/polyglossia/polyglossia.pdf) and [churchslavonic](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-en.pdf) for details.
+
+* Here is a [sample TeX file](https://www.ponomar.net/files/sample.tex)
+  and its [resulting PDF output](https://www.ponomar.net/files/sample.pdf) to get you started.
+
+* For spellchecking of documents in Church Slavonic, install Hunspell and the [Hunspell Church Slavonic dictionary](https://github.com/slavonic/hunspell-cu/releases).
+  You can spellcheck a Church Slavonic TEX file by running `hunspell -d cu -t your-file-name.tex`.
+
+* Take a look also at [a set of tools](https://github.com/EliseyP/csl_odt2tex) for formatting, layout, and preparation of texts in LibreOffice and TeX.
+
+* If you do not have a full installation of TeX Live or are using an older version, you may need to install the hyphenation patterns for Church Slavonic. To do this, run the following command: 
+
+  ```
+  tlmgr install hyphen-churchslavonic
+  ```
+  
+  Then rebuild the XeLaTeX and LuaLaTeX formats with this command: 
+  
+  ```
+  fmtutil --byfmt xelatex 
+  fmtutil --byfmt lualatex
+  ```
+  
+  Then you need to install the `churchslavonic` package by running the command:
+  
+  ```
+  tlmgr install churchslavonic
+  ```
+  
+* If you have another distribution of TeX, you may need to install the hyphenation patterns and additional packages manually. You can get the hyphenation patterns [from GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation) and [Church Slavonic package on CTAN](https://www.ctan.org/tex-archive/language/churchslavonic). Follow the instructions in the documentation.
+
+### Visual Studio Code
+
+If you use TeX, develop webistes, or write code, you will find [Visual Studio Code](https://code.visualstudio.com/) useful. It is a free, portable source code editor that can be used, among other things, for editing the raw Church Slavonic liturgical texts stored in 
+[XML](https://github.com/slavonic/cu-books) and 
+[Markdown](https://github.com/slavonic/cumd) formats. 
+
+  ![VS Code](https://www.ponomar.net/images/vscode.png)
+
+To set up editing Church Slavonic texts in Visual Studio Code:
+
+* Install [Church Slavonic Markdown
+Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
+
+* Open the Markdown preview pane (press `Ctrl+Shift+P` to open the palette and select 
+`Markdown: Open Preview to the Side`).
+
+* Install the [VS Code Church Slavonic
+Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic-keyboard).
+
+* Initially the keyboard is off. To toggle, press `Ctrl+Alt+Space` (on GNU/Linux, `Meta+Space`)
+or select the command `Church Slavonic Keyboard: Toggle` from the palette.
+
+* It is best to edit text using a monospaced font supporting Unicode 10.0 or newer.
+See our [FiraSlav font](fonts.html). To change the font for the editor,
+place the line `"editor.fontFamily": "Fira Slav"` in the `User Settings` file.
+
 ### Adobe InDesign
 
 Once you have installed the Church Slavonic fonts from [this page](fonts.html), you should be able to work with Church 
-Slavonic texts in Adobe InDesign. To get support for Church Slavonic hyphenation and spellchecking, 
-download the 
+Slavonic texts in Adobe InDesign. To get support for Church Slavonic hyphenation and spellchecking, download the 
 [Church Slavonic Dictionary Extension for LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary);
 then follow [the instructions](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html) to install it into InDesign.
 Automated page numbering using Cyrillic numerals is not available. If you need it, [ask Adobe](https://helpx.adobe.com/contact.html?step=IDSN)

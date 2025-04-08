@@ -141,13 +141,13 @@ lang: ru
   fmtutil --byfmt lualatex
   ```
   
-и установите пакет `churchslavonic`: 
+  и установите пакет `churchslavonic`: 
   
   ```
   tlmgr install churchslavonic
   ```
   
-* Накоенц, если Вы работаете в старой версии TeX Live или в другом дистрибутиве TeX, Вам возможно придется установить шаблоны переноса и 
+* Наконец, если Вы работаете в старой версии TeX Live или в другом дистрибутиве TeX, Вам возможно придется установить шаблоны переноса и 
   пакеты вручную. Шаблоны переноса можно скачать [с хранилища GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation), 
   а пакет [с хранилища CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
   Следуйте инструкциям по установке, предоставленным в документации.
