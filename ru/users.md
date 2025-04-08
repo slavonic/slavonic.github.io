@@ -8,67 +8,26 @@ lang: ru
 
 Можно легко набирать, редактировать и оформлять церковнославянские тексты в разных популярных программах.
 
-### XeTeX и LuaTeX
+### Google документы
 
-Для работы с церковнославянскими текстами в среде TeX, Вам потребуется программа верстки, поддерживающая Юникод, 
-например XeTeX или LuaTeX. Обе распространяются в стандартном 
-дистрибутиве [TeX Live](https://www.tug.org/texlive/).
+Самый простой способ работать с церковнославянским текстом в [Google документах](https://docs.google.com/document/u/0/). Для этого нет необходимости устанавливать специальные шрифты или программы. Просто открывайте документ Гугл и выбирайте в нем один из наших шрифтов. Для этого необходимо в ячейке Шрифт (Font) выбрать Дополнительные шрифты (More fonts) и в открывшемся окне в ячейке поиска ввести название шрифта. Доступны те шрифты, которые включены в платформу Google Fonts: на данный момент это [Pochaevsk, Ponomar, Triodion, Monomakh и Shafarik](https://fonts.google.com/?lang=cu_Cyrl).
 
-Далее Вам следует сделать следующее:
+  ![fonts in Google Docs](/images/fontsetup-google.png)
 
-* Установите шаблоны переноса слов для церковнославянского языка. Это можно сделать, запустив команду: 
+Данная возможность есть и в мобильной версии на Android, но для этого необхоидмо сначала выбрать шрифт документа в десктопной версии программы.
 
-  ```
-  tlmgr install hyphen-churchslavonic
-  ```
+  ![fonts in Android](/images/fontsetup-android.png)
 
-  Затем следует перестроить форматы XeLaTeX и LuaLaTeX используя команду: 
-  
-  ```
-  fmtutil --byfmt xelatex
-  fmtutil --byfmt lualatex
-  ```
-  
-* Установите пакет `churchslavonic`. Этот пакет установит на Вашей системе набор церковнославянских шрифтов, 
-  набор дополнительных макрокоманд и интерфейс для переключения языка в пакете `polyglossia`. 
-  Пакет можно установить, запустив команду 
-  
-  ```
-  tlmgr install churchslavonic
-  ```
-  
-* Если у Вас стоит старая версия TeX Live или другой дистрибутив TeX, Вам возможно придется установить шаблоны переноса и 
-  пакеты вручную. Шаблоны переноса можно скачать [с хранилища GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation), 
-  а пакет [с хранилища CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
-  Следуйте инструкциям по установке, предоставленным в документации.
-
-* Вы теперь готовы работать с церковнославянским текстом используя пакет `polyglossia`. Пакет `churchslavonic` включает
-  ряд дополнительных макрокоманд для кириллической цифири, декоративных буквиц и других элементов набора. 
-  Мы советуем посмотреть документацию [пакета Polyglossia](http://mirror.unl.edu/ctan/macros/latex/contrib/polyglossia/polyglossia.pdf)
-  и [пакета `churchslavonic`](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-ru.pdf).
-  
-* Если Вы не знаете, как начать, смотрите 
-  [примерный TeX файл](https://www.ponomar.net/files/sample.tex) 
-  и его [результат в PDF](https://www.ponomar.net/files/sample.pdf).
-
-* Для проверки орфографии, установите программу Hunspell и пакет
-  [церковнославянских словарей для Hunspell](https://github.com/slavonic/hunspell-cu/releases).
-  Чтобы проверить орфографию документа TEX, написанного на ЦСЯ,
-  запустите комманду `hunspell -d cu -t наименование-документа.tex`.
-
-* Посмотрите также [инструментарий](https://github.com/EliseyP/csl_odt2tex) для оформления, верстки и предпечатной подготовки текстов в LibreOffice и TeX.
+К сожалению в Google документах нет возможности указать, что язык документа церковнославянский, и поэтому нет функционала проверки орфографии или автоматического переноса слов.
 
 ### LibreOffice
 
-Начиная с версии 5.0, программа LibreOffice позволяет указать, что языком текста является церковнославянский. Указав церковнославянский как язык документа, Вы можете нумеровать страницы 
-кириллической цифирью, использовать автоматический перенос слов и сортировать в церковнославянском алфавитном порядке.
+Самый лучший способ работать с церковнославянским текстом -- в [LibreOffice](https://www.libreoffice.org/). Начиная с версии 5.0, программа позволяет указать, что языком текста является церковнославянский, что позволяет нумеровать страницы кириллической цифирью, использовать автоматический перенос слов и проверять орфографию.
 
 * Установите церковнославянские шрифты [с нашего сайта](fonts.html) и, если необходимо,
  [клавиатурные драйверы для Вашей системы](https://www.ponomar.net/cu_support/keyboardru.html)
 
-* Обновите LibreOffice до версии 5.0 или позже. Хотя церковнославянский текст можно редактировать и в LibreOffice 4 и раньше, Вы не сможете указать, что язык 
-  документа церковнославянский и не сможете использовать перенос слов,
-проверку орфографии и другие возможности.
+* Обновите LibreOffice до версии 5.0 или позже. Хотя церковнославянский текст можно редактировать и в LibreOffice 4 и раньше, Вы не сможете указать, что язык  документа церковнославянский и не сможете использовать перенос слов, проверку орфографии и другие возможности.
   
 * Установите словарь церковнославянских переносов и орфографии. Для этого [скачайте
   словарь](https://extensions.libreoffice.org/extensions/church-slavonic-dictionary). 
@@ -119,44 +78,10 @@ lang: ru
    Дополнительную информацию о возможностях OpenType смотрите в
   [документации для шрифтов](https://www.ponomar.net/files/fonts-churchslavonic.pdf).
 
-   - [96343](https://bugs.documentfoundation.org/show_bug.cgi?id=96343): Нет конвертации из строчных букв в заглавные 
-     для символов в блоке Cyrillic Extended-B
-
-### Visual Studio Code
-
-[Visual Studio Code](https://code.visualstudio.com/) — свободный, кроссплатформенный
-редактор исходного кода. В нем удобно редактировать исходный код
-церковнославянских богослужебных текстов, которые хранятся в форматах
-[XML](https://github.com/slavonic/cu-books) и 
-[Markdown](https://github.com/slavonic/cumd). 
-
-  ![VS Code](https://www.ponomar.net/images/vscode.png)
-
-Чтобы начать редактировать церковнославянский текст в Visual Studio Code:
-
-* Установите расширение [Church Slavonic Markdown
-Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
-
-* Откройте панель предварительного просмотра Markdown
-(надавите `Ctrl+Shift+P` чтобы открыть палитру и выберите 
-`Markdown: Open Preview to the Side`).
-
-* Установите расширение [VS Code Church Slavonic
-Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic-keyboard).
-
-* По умолчанию клавиатура отключена. Чтобы ее включить, надавите
-`Ctrl+Alt+Space` (на системах GNU/Linux, `Meta+Space`) или
-выберите команду `Church Slavonic Keyboard: Toggle` из палитры.
-
-* Тексты удобнее всего редактировать используя шрифт фиксированной ширины
-с поддержкой Unicode 10.0 или новее. Скачайте наш [шрифт FiraSlav](fonts.html).
-Чтобы поменять шрифт редактора,
-добавьте строку `"editor.fontFamily": "Fira Slav"` в файл `User Settings`.
-
 ### Microsoft Office
 
 Начиная с версии Microsoft Office 2016, можно отображать и редактировать
-церковнославянский текст используя стандартные возможности этой
+церковнославянский текст используя стандартные возможности и этой
 программы. Для этого нужно всего лишь установить шрифты
 с [нашего сайта](fonts.html), и, если необходимо, 
 [клавиатурные драйверы для Windows](keyboard.html). Далее, указав
@@ -179,23 +104,85 @@ Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-chur
 
 Кроме того, корпорация Майкрософт отказывается признавать
 церковнославянский самостоятельным языком, несмотря на то, что он
-внесен в 
-[Общее хранилище данных о локалях](http://cldr.unicode.org), 
-и поэтому нет возможности в MS Office установить словари для переноса слов или проверки орфографии, 
-даже предоставленные другими разработчиками. Для этого функционала
-мы рекомендуем использовать свободную программу [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh).
-Наконец, обратите внимание, что старые версии Microsoft Windows (напр., XP, Vista) и старые версии Office (напр., XP) не поддерживают диакритические символы для кириллического текста, так что
-церковнославянский текст в принципе не может правильно отображаться в этих версиях. Это является недостатком Windows, а не наших шрифтов, так что
+внесен в  [Общее хранилище данных о локалях](http://cldr.unicode.org), 
+и поэтому нет возможности в MS Office установить словари для переноса слов или проверки орфографии, даже предоставленные другими разработчиками. Для этого функционала мы рекомендуем использовать свободную программу [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh).
+Наконец, обратите внимание, что старые версии Microsoft Windows (напр., XP, Vista) и старые версии Office (напр., XP) не поддерживают диакритические символы для кириллического текста, так что церковнославянский текст в принципе не может правильно отображаться в этих версиях. Это является недостатком Windows, а не наших шрифтов, так что
 проверьте Вашу версию Windows и Office перед тем, как [писать в форум
 поддержки](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net).
 
+### XeTeX и LuaTeX
+
+Для работы с церковнославянскими текстами в среде TeX, Вам потребуется программа верстки, поддерживающая Юникод, например XeTeX или LuaTeX. Обе распространяются в стандартном дистрибутиве [TeX Live](https://www.tug.org/texlive/).
+
+Если у Вас установлено все содерижмое дистрибутива TeX Live, то Вам доступен пакет `churchslavonic`. Вы можете работать с церковнославянским текстом используя пакет `polyglossia`. Пакет `churchslavonic` включает ряд дополнительных макрокоманд для кириллической цифири, декоративных буквиц и других элементов набора. 
+
+* Мы советуем посмотреть документацию [пакета Polyglossia](http://mirror.unl.edu/ctan/macros/latex/contrib/polyglossia/polyglossia.pdf)
+  и [пакета `churchslavonic`](http://ctan.altspu.ru/language/churchslavonic/churchslavonic-ru.pdf).
+  
+* Если Вы не знаете, как начать, смотрите 
+  [примерный TeX файл](https://www.ponomar.net/files/sample.tex) 
+  и его [результат в PDF](https://www.ponomar.net/files/sample.pdf).
+
+* Для проверки орфографии, установите программу Hunspell и пакет
+  [церковнославянских словарей для Hunspell](https://github.com/slavonic/hunspell-cu/releases).  Чтобы проверить орфографию документа TEX, написанного на ЦСЯ, запустите комманду `hunspell -d cu -t наименование-документа.tex`.
+
+* Посмотрите также [инструментарий](https://github.com/EliseyP/csl_odt2tex) для оформления, верстки и предпечатной подготовки текстов в LibreOffice и TeX.
+
+* Если у Вас устанавлено не все содержимое TeX Live и пакет `churchslavonic` отсутствует, то Вы можете его установить [с хранилища CTAN](https://www.ctan.org/tex-archive/language/churchslavonic). Для этого установите шаблоны переноса слов для церковнославянского языка, запустив команду: 
+
+  ```
+  tlmgr install hyphen-churchslavonic
+  ```
+
+  Затем следует перестроите форматы XeLaTeX и LuaLaTeX используя команду: 
+  
+  ```
+  fmtutil --byfmt xelatex
+  fmtutil --byfmt lualatex
+  ```
+  
+и установите пакет `churchslavonic`: 
+  
+  ```
+  tlmgr install churchslavonic
+  ```
+  
+* Накоенц, если Вы работаете в старой версии TeX Live или в другом дистрибутиве TeX, Вам возможно придется установить шаблоны переноса и 
+  пакеты вручную. Шаблоны переноса можно скачать [с хранилища GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation), 
+  а пакет [с хранилища CTAN](https://www.ctan.org/tex-archive/language/churchslavonic).
+  Следуйте инструкциям по установке, предоставленным в документации.
+
+### Visual Studio Code
+
+Если Вы работаете в TeX, разрабатываете сайты или пишите код, обратите внимание на [Visual Studio Code](https://code.visualstudio.com/) — свободный, кроссплатформенный редактор исходного кода. В нем удобно редактировать исходный код церковнославянских богослужебных текстов, которые хранятся в форматах [XML](https://github.com/slavonic/cu-books) и 
+[Markdown](https://github.com/slavonic/cumd). 
+
+  ![VS Code](https://www.ponomar.net/images/vscode.png)
+
+Чтобы начать редактировать церковнославянский текст в Visual Studio Code:
+
+* Установите расширение [Church Slavonic Markdown
+Extensions](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic).
+
+* Откройте панель предварительного просмотра Markdown
+(надавите `Ctrl+Shift+P` чтобы открыть палитру и выберите 
+`Markdown: Open Preview to the Side`).
+
+* Установите расширение [VS Code Church Slavonic
+Keyboard](https://marketplace.visualstudio.com/items?itemName=pgmmpk.vscode-church-slavonic-keyboard).
+
+* По умолчанию клавиатура отключена. Чтобы ее включить, надавите
+`Ctrl+Alt+Space` (на системах GNU/Linux, `Meta+Space`) или
+выберите команду `Church Slavonic Keyboard: Toggle` из палитры.
+
+* Тексты удобнее всего редактировать используя шрифт фиксированной ширины
+с поддержкой Unicode 10.0 или новее. Скачайте наш [шрифт FiraSlav](fonts.html). Чтобы поменять шрифт редактора,
+добавьте строку `"editor.fontFamily": "Fira Slav"` в файл `User Settings`.
+
 ### Adobe InDesign
 
-Если Вы установили церковнославянские шрифты [с нашего сайта](https://www.ponomar.net/cu_support/fonts.html),
-то Вы сможете верстать церковнославянский текст в программе Adobe InDesign. Для поддержки переноса слов, 
-скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary); 
-затем следуйте [инструкции](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html)
-чтобы установить их в InDesign. Автоматическая нумерация страниц кириллической цифирью не поддерживается, если она вам нужна, попытайтесь связаться с [Adobe](https://helpx.adobe.com/contact.html?step=IDSN).
+Если Вы установили церковнославянские шрифты [с нашего сайта](https://www.ponomar.net/cu_support/fonts.html), то Вы сможете верстать церковнославянский текст в программе Adobe InDesign. Для поддержки переноса слов, скачайте [церковнославянские шаблоны переноса слов для LibreOffce](http://extensions.libreoffice.org/extensions/church-slavonic-dictionary); 
+затем следуйте [инструкции](https://helpx.adobe.com/indesign/kb/add_cs_dictionaries.html) чтобы установить их в InDesign. Автоматическая нумерация страниц кириллической цифирью не поддерживается, если она вам нужна, попытайтесь связаться с [Adobe](https://helpx.adobe.com/contact.html?step=IDSN).
 
 ### Где находится нужный мне символ?
 
