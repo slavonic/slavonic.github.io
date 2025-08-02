@@ -9,7 +9,7 @@ css:
 ## Шрифты для христианского палестинского арамейского
 
 Evangelion CPA — шрифт для работы с текстами на христианском палестинском арамейском языке.
-[Скачать в формате OTF](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/blob/main/fonts/otf/EvangelionCPA-Regular.otf) | [Скачать в формате TTF](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/master/fonts/ttf/EvangelionCPA-Regular.ttf) | [Скачать в формате WOFF для внедрения в веб-страницы](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/master/fonts/webfonts/EvangelionCPA-Regular.woff2) | [Клонировать на GitHub](https://github.com/typiconman/Evangelion-CPA/)
+[Скачать в формате OTF](https://github.com/typiconman/Evangelion-CPA/raw/refs/heads/main/fonts/otf/EvangelionCPA-Regular.otf) | [Скачать в формате TTF](https://github.com/typiconman/Evangelion-CPA/raw/refs/heads/main/fonts/ttf/EvangelionCPA-Regular.ttf) | [Скачать в формате WOFF для внедрения в веб-страницы](https://github.com/typiconman/Evangelion-CPA/raw/refs/heads/main/fonts/webfonts/EvangelionCPA-Regular.woff2) | [Клонировать на GitHub](https://github.com/typiconman/Evangelion-CPA/)
 
 <div class="evangelion sample" contenteditable="true" lang="syr" dir="rtl">
    ܐܢܐ ܐܢܐ ܢܘܗܪܐ ܖܥܠܡܐ ⁚ ܫܠܡܐ ܥܠܡܐ ⁖ ܝܫܘܥ ܡܫܝܚܐ

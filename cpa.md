@@ -9,7 +9,7 @@ css:
 ## Fonts for Christian Palestinian Aramaic
 
 Evangelion CPA is a font for typesetting texts in Christian Palestinian Aramaic.
-[Download OTF](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/blob/main/fonts/otf/EvangelionCPA-Regular.otf) | [Download TTF](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/master/fonts/ttf/EvangelionCPA-Regular.ttf) | [Download WOFF for web embedding](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/master/fonts/webfonts/EvangelionCPA-Regular.woff2) | [Clone on GitHub](https://github.com/typiconman/Evangelion-CPA/)
+[Download OTF](https://github.com/typiconman/Evangelion-CPA/raw/refs/heads/main/fonts/otf/EvangelionCPA-Regular.otf) | [Download TTF](https://github.com/typiconman/Evangelion-CPA/raw/refs/heads/main/fonts/ttf/EvangelionCPA-Regular.ttf) | [Download WOFF for web embedding](https://github.com/typiconman/Evangelion-CPA/raw/refs/heads/main/fonts/webfonts/EvangelionCPA-Regular.woff2) | [Clone on GitHub](https://github.com/typiconman/Evangelion-CPA/)
 
 <div class="evangelion sample" contenteditable="true" lang="syr" dir="rtl">
    ܐܢܐ ܐܢܐ ܢܘܗܪܐ ܖܥܠܡܐ ⁚ ܫܠܡܐ ܥܠܡܐ ⁖ ܝܫܘܥ ܡܫܝܚܐ

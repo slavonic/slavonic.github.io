@@ -29,10 +29,8 @@ Type in modern orthography, [we auto-translate](/translate) to Church Slavonic! 
 
 ### Beyond Slavonic
 
-Typeset beatiful liturgical music and chants in modern, Kievan square, or Znamenny notation.
-[View details&nbsp;»](/music.html)
-We also offer fonts for [Christian Palestinian Aramaic](/cpa.html).
-
+Typeset beatiful [liturgical music and chant](/music.html) in modern, Kievan square or Znamenny notation.
+We also offer fonts and support for [Christian Palestinian Aramaic](/cpa.html).
 
 </div></div>
 
