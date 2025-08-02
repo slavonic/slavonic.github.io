@@ -1,0 +1,31 @@
+---
+layout: default
+ref: cpa
+lang: en
+css: 
+  - fonts
+  - sample
+---
+## Fonts for Christian Palestinian Aramaic
+
+Evangelion CPA is a font for typesetting texts in Christian Palestinian Aramaic.
+[Download OTF](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/blob/main/fonts/otf/EvangelionCPA-Regular.otf) | [Download TTF](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/master/fonts/ttf/EvangelionCPA-Regular.ttf) | [Download WOFF for web embedding](https://raw.githubusercontent.com/typiconman/Evangelion-CPA/master/fonts/webfonts/EvangelionCPA-Regular.woff2) | [Clone on GitHub](https://github.com/typiconman/Evangelion-CPA/)
+
+<div class="evangelion sample" contenteditable="true" lang="syr" dir="rtl">
+   ܐܢܐ ܐܢܐ ܢܘܗܪܐ ܖܥܠܡܐ ⁚ ܫܠܡܐ ܥܠܡܐ ⁖ ܝܫܘܥ ܡܫܝܚܐ
+</div>
+
+Read the font's [documentation](https://rawcdn.githack.com/typiconman/Evangelion-CPA/09baac140eb9771ebb9fab5e37e522d4b60dd121/documentation/documentation_EN.html) for more information.
+
+### Licenses and Technical Information
+
+Fonts are provided in OpenType-CFF (PostScript) format (with OTF extension) or in TrueType format (with TTF extension). Generally you should download and install the OpenType font (with OTF extension) for most purposes; the TrueType font (with TTF extension) is needed for older systems that do not support OTF fonts or in web applications where a smaller file size is desirable. The fonts are licensed under the SIL Open Font License. More information [is indicated on the legal page](legal.html).
+Questions can be addressed to the [SCI-Users mailing list](https://ponomar.net/mailman/listinfo/sci-users_ponomar.net) (with discussion in English, Russian or any other Slavic language).
+
+### Please support our work
+
+If you like our work, consider making a donation to the Slavonic Computing Initiative. This helps pay various fees and buy a coffee for our developers. We are committed to providing free and open source fonts and other Church Slavonic support.
+
+* [Sponsor our organization on GitHub](https://github.com/sponsors/slavonic)
+* [Make a donation using PayPal](https://www.paypal.com/donate/?business=6XR2VM5UDXRUY&no_recurring=0&item_name=Support+the+Slavonic+Computing+Initiative&currency_code=USD) (if you don't have a GitHub account)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="typiconman" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy us a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>

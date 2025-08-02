@@ -27,10 +27,11 @@ Type in modern orthography, [we auto-translate](/translate) to Church Slavonic! 
 
 </div><div class="col-md-4">
 
-### Typeset Music
+### Beyond Slavonic
 
 Typeset beatiful liturgical music and chants in modern, Kievan square, or Znamenny notation.
 [View details&nbsp;»](/music.html)
+We also offer fonts for [Christian Palestinian Aramaic](/cpa.html).
 
 
 </div></div>
