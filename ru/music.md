@@ -12,23 +12,13 @@ css:
 
 Инициативная группа предоставляет шрифты для работы с символами знаменной
 и путевой / демественной (казанской) нотаций в рамках стандарта Юникод.
-**Внимание**: символы этих нотаций были недавно
-[приняты для включения](http://www.unicode.org/alloc/Pipeline.html)
-в будущую версию стандарта Юникод, но кодовые точки все еще могут измениться.
-
-* [Документация к знаменным шрифтам](https://www.ponomar.net/files/fonts-znam.pdf) (по-английски)
-
-* Документация системы признаков [формат ODT](https://www.ponomar.net/files/priznaki_documentation.odt) [формат PDF](https://www.ponomar.net/files/priznaki_documentation.pdf)
-
-* [Предложение по кодированию нотации](https://www.ponomar.net/files/palaeoslavic.pdf) [Изменения, март 2021](https://www.ponomar.net/files/update0321.pdf) (по-английски)
-
-* [Исходный код шрифтов на GitHub](https://github.com/slavonic/fonts-znam/)
+Знаменная нотация включена в Юникод начиная с 14-й версии стандарта, принятой в 2021 г.
 
 #### Шрифты для набора знаменной нотации
 
-* Mezenets Unicode разработан для набора символов призначной и беспризначной
-знаменной нотации, а также символов демественной нотации.
-[Скачать шрифт](https://www.ponomar.net/files/MezenetsUnicode.zip)
+* Mezenets позволяет набирать современную знаменную нотацию, как с признаками, так и без них, а также Казанскую (путевую, демественную) нотации. Кроме того, шрифт предоставляет стилизованные кириллические символы, заимствованные из [шрифта Vilnius](https://github.com/slavonic/Vilnius) и символы латиницы, заимствованные из [шрифта Fondamento](https://github.com/librefonts/Fondamento), что позволяет набирает полные партитуры, как на церковнославянском языке, так и на других языках. Шрифт использует технологию COLR/CPAL v.0 для автоматического раскрашивания киноварных помет в красный цвет (точнее, в цвет  #CC0803) в тех программах, которые поддерживают цветовые шрифты.
+
+[Скачать шрифт в формате TTF](https://raw.githubusercontent.com/slavonic/Mezenets/main/fonts/ttf/Mezenets-Regular.ttf) | [Скачать старую версию с названием Mezenets Unicode, которая больше не поддерживается](https://raw.githubusercontent.com/slavonic/fonts-znam/master/Mezenets/MezenetsUnicode.otf) | [Клонировать на GitHub](https://github.com/slavonic/Mezenets/tree/main)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -61,9 +51,9 @@ css:
 	</table>
 </div>
 
-* Smolensky Regular разработан для набора символов архаической знаменной нотации,
-как она встречается в певческих рукописях XII-XV веков.
-[Скачать шрифт](https://www.ponomar.net/files/Smolensky-Regular.zip)
+* Шрифт Voskresensky предназначен для набора знаменных певческих рукописей эпохи кириллического устава. Он содержит необходимые символы архаической знаменной нотации, которые встречаются в певческих рукописях XII-XV веков. Ранее шрифт распространялся как Smolensky Regular, но теперь он объединен со шрифтом Voskresensky, а шрифт Smolensky более не поддерживается.
+
+[Скачать шрифт в формате OTF](https://raw.githubusercontent.com/slavonic/Voskresensky/main/fonts/otf/Voskresensky-Regular.otf) | [Скачать шрифт в формате TTF](https://raw.githubusercontent.com/slavonic/Voskresensky/main/fonts/ttf/Voskresensky-Regular.ttf) | [Скачать старый шрифт Smolensky](https://raw.githubusercontent.com/slavonic/fonts-znam/master/Smolensky/Smolensky-Regular.otf) | [Клонировать на GitHub](https://github.com/slavonic/Voskresensky/tree/main)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -99,14 +89,24 @@ css:
 	</table>
 </div>
 
+#### Documentation
+
+* [Документация к знаменным шрифтам](https://www.ponomar.net/files/fonts-znam.pdf) (по-английски)
+
+* Документация системы признаков [формат ODT](https://www.ponomar.net/files/priznaki_documentation.odt) [формат PDF](https://www.ponomar.net/files/priznaki_documentation.pdf)
+
+* [Предложение по кодированию нотации](https://www.ponomar.net/files/palaeoslavic.pdf) и [Изменения, март 2021](https://www.ponomar.net/files/update0321.pdf) (по-английски)
+
+К сожалению, русскоязычная документация отсутствует. Если у Вас есть такая возможность, помогите нам создать ее.
+
 #### Ввод и редактирование нотации
 
 * В системе верстки текста LaTeX, знаменную нотацию можно набирать,
 используя пакет `churchslavonic` 
 [См. подробнее&nbsp;»](/ru/users.html) 
 
-* Для удобного набора, воспользуйтесь программой
-[набора крюков в HTML](https://www.ponomar.net/znamenny/hookup2.html)
+* Для удобного набора в других программах, воспользуйтесь страницей
+[набора крюков в Юникоде](https://www.ponomar.net/znamenny/hookup2.html)
 
 ### Киевская квадратная (синодальная) нотация
 

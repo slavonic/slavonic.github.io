@@ -1,43 +1,19 @@
 @font-face {
-    font-family: 'Mezenets Unicode';
-    src: url('../fonts/MezenetsUnicode.eot');
-    src: url('../fonts/MezenetsUnicode.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/MezenetsUnicode.woff2') format('woff2'),
-	url('../fonts/MezenetsUnicode.woff') format('woff'),
-	url('../fonts/MezenetsUnicode.ttf') format('truetype');
+    font-family: 'Mezenets';
+    src: url('../fonts/Mezenets-Regular.eot');
+    src: url('../fonts/Mezenets-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Mezenets-Regular.woff2') format('woff2'),
+	url('../fonts/Mezenets-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Smolensky Regular';
-    src: url('../fonts/Smolensky-Regular.eot');
-    src: url('../fonts/Smolensky-Regular.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/Smolensky-Regular.woff2') format('woff2'),
-	url('../fonts/Smolensky-Regular.woff') format('woff'),
-	url('../fonts/Smolensky-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Ponomar Unicode';
-    src: url('../fonts/PonomarUnicode.eot');
-    src: url('../fonts/PonomarUnicode.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/PonomarUnicode.woff2') format('woff2'),
-	url('../fonts/PonomarUnicode.woff') format('woff'),
-	url('../fonts/PonomarUnicode.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-  font-family: 'Menaion Unicode';
-  src: url('../fonts/MenaionUnicode.eot');
-  src: url('../fonts/MenaionUnicode.eot?#iefix') format('embedded-opentype'),
-url('../fonts/MenaionUnicode.woff2') format('woff2'),
-url('../fonts/MenaionUnicode.woff') format('woff'),
-url('../fonts/MenaionUnicode.ttf') format('truetype');
+  font-family: 'Voskresensky';
+  src: url('../fonts/Voskresensky-Regular.eot');
+  src: url('../fonts/Voskresensky-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Voskresensky-Regular.woff2') format('woff2'),
+url('../fonts/Voskresensky-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -50,35 +26,28 @@ url('../fonts/MenaionUnicode.ttf') format('truetype');
 }
 
 .text {
-  font-family: 'Ponomar Unicode';
+  font-family: 'Mezenets';
   text-align: center;
   font-size: 23px;
 }
 
 .neume {
-  font-family: 'Mezenets Unicode';
+  font-family: 'Mezenets';
   text-align: center;
   font-size: 32px;
   vertical-align: bottom;
 }
 
 .neumeB {
-  font-family: 'Smolensky Regular';
+  font-family: 'Voskresensky';
   text-align: center;
   font-size: 32px;
   vertical-align: bottom;
 }
 
 .textB {
-  font-family: 'Menaion Unicode';
+  font-family: 'Voskresensky';
   text-align: center;
   font-size: 23px;
-}
-
-rt {
-  font-family: 'Shaidur Unicode';
-  font-size: 20px;
-  color: #CC0502;
-  margin-bottom: -200%;
 }
 

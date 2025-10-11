@@ -10,25 +10,14 @@ css:
 
 ### Znamenny Notation
 
-The Slavonic Computing Initiative provides Unicode-compliant fonts for typesetting
-music in Znamenny and Put / Demestvenny (Kazan) Notations.
-**Warning**: the characters required for these notational systems have been 
-[accepted for encoding](http://www.unicode.org/alloc/Pipeline.html)
-into a future version of the Unicode standard, but the codepoints
-may still be subject to change.
-
-* [Znamenny Font documentation](https://www.ponomar.net/files/fonts-znam.pdf)
-
-* Znamenny Priznaki documentation [ODT format](https://www.ponomar.net/files/priznaki_documentation.odt) [PDF format](https://www.ponomar.net/files/priznaki_documentation.pdf)
-
-* [Proposal to Encode Znamenny Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf) [Updates from March 2021](https://www.ponomar.net/files/update0321.pdf)
-
-* [Fork the fonts on GitHub](https://github.com/slavonic/fonts-znam/)
+The Slavonic Computing Initiative provides Unicode-compliant fonts for typesetting music in Znamenny and Put / Demestvenny (Kazan) Notations, which has been supported in Unicode since v. 14.0 (2021).
 
 #### Fonts for Znamenny Notation
 
-* Mezenets Unicode is a font for typesetting Znamenny Notation with or without priznaki
- (Type A and Type B notations according to the classification of J. Gardner). [Download the font](https://www.ponomar.net/files/MezenetsUnicode.zip)
+* Mezenets is a font for typesetting modern Znamenny Notation. It provides all of the necessary characters for typesetting music in Znamenny Notation as used since the seventeenth century, with or without priznaki, and in Kazan Notation used for Put / Demestvenny chant. It also provides stylized Cyrillic characters
+borrowed from the [Vilnius font](https://github.com/slavonic/Vilnius) and Latin characters borrowed from the [Fondamento font](https://github.com/librefonts/Fondamento). The font uses COLR/CPAL v.0 for automatically rendering cinnabar marks in red (actually, the shade is #CC0803) in software that supports colored fonts.
+
+[Download TTF](https://raw.githubusercontent.com/slavonic/Mezenets/main/fonts/ttf/Mezenets-Regular.ttf) | [Download legacy Mezenets Unicode font, which is no longer supported](https://raw.githubusercontent.com/slavonic/fonts-znam/master/Mezenets/MezenetsUnicode.otf) | [Clone on GitHub](https://github.com/slavonic/Mezenets/tree/main)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -61,9 +50,9 @@ may still be subject to change.
 	</table>
 </div>
 
-* Smolensky Regular is a font for typesetting archaic Znamenny Notation as found
-  in manuscripts from the 12th--15th centuries.
-  [Download the font](https://www.ponomar.net/files/Smolensky-Regular.zip)
+* Voskresensky is a font for typesetting Ustav-era Slavonic texts and archaic Znamenny Notation. It is intended for representing text from early East Slavic notated manuscripts. Initially, this font was distributed under the name Smolensky, but the Smolensky font has now been discontinued, having been merged with the Voskresensky font.
+
+[Download OTF](https://raw.githubusercontent.com/slavonic/Voskresensky/main/fonts/otf/Voskresensky-Regular.otf) | [Download TTF](https://raw.githubusercontent.com/slavonic/Voskresensky/main/fonts/ttf/Voskresensky-Regular.ttf) | [Download the legacy Smolensky font](https://raw.githubusercontent.com/slavonic/fonts-znam/master/Smolensky/Smolensky-Regular.otf) | [Clone on GitHub](https://github.com/slavonic/Voskresensky/tree/main)
 
 <div class="sample" contenteditable="true">
 	<table align="center">
@@ -98,6 +87,14 @@ may still be subject to change.
 	<td class="textB">ре</td></tr>
 	</table>
 </div>
+
+#### Documentation
+
+* [Znamenny Font documentation](https://www.ponomar.net/files/fonts-znam.pdf)
+
+* Znamenny Priznaki documentation [ODT format](https://www.ponomar.net/files/priznaki_documentation.odt) [PDF format](https://www.ponomar.net/files/priznaki_documentation.pdf)
+
+* [Proposal to Encode Znamenny Notation in Unicode](https://www.ponomar.net/files/palaeoslavic.pdf) and [Updates from March 2021](https://www.ponomar.net/files/update0321.pdf)
 
 #### Input and Editing
 
