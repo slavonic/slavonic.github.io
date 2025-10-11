@@ -28,7 +28,7 @@ url('../fonts/Voskresensky-Regular.ttf') format('truetype');
 .text {
   font-family: 'Mezenets';
   text-align: center;
-  font-size: 23px;
+  font-size: 32px;
 }
 
 .neume {
