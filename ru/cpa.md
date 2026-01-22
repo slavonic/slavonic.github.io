@@ -23,7 +23,6 @@ Evangelion CPA — шрифт для работы с текстами на хр�
 
 * [Проспонсируйте нас на GitHub](https://github.com/sponsors/slavonic)
 * [Пожертвования через PayPal](https://www.paypal.com/donate/?business=6XR2VM5UDXRUY&no_recurring=0&item_name=Support+the+Slavonic+Computing+Initiative&currency_code=USD) (если у Вас нет аккаунта на GitHub)
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="typiconman" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy us a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ### О форматах шрифтов и лицензии
 
