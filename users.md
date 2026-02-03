@@ -136,6 +136,10 @@ Both are part of the [TeX Live distribution](https://www.tug.org/texlive/). If y
   
 * If you have another distribution of TeX, you may need to install the hyphenation patterns and additional packages manually. You can get the hyphenation patterns [from GitHub](https://github.com/slavonic/cu-tex/tree/master/hyphenation) and [Church Slavonic package on CTAN](https://www.ctan.org/tex-archive/language/churchslavonic). Follow the instructions in the documentation.
 
+### MikTeX
+
+MikTeX features automatic installation of packages, referenced by a document. However, hyphenation patterns are not loaded automatically. To make Church Slavonic hyphenation work, enable `churchslavonic` language in MikTeX console.
+
 ### Visual Studio Code
 
 If you use TeX, develop webistes, or write code, you will find [Visual Studio Code](https://code.visualstudio.com/) useful. It is a free, portable source code editor that can be used, among other things, for editing the raw Church Slavonic liturgical texts stored in 
