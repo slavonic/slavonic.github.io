@@ -15,7 +15,7 @@ Evangelion CPA — шрифт для работы с текстами на хр�
    ܐܢܐ ܐܢܐ ܢܘܗܪܐ ܖܥܠܡܐ ⁚ ܫܠܡܐ ܥܠܡܐ ⁖ ܝܫܘܥ ܡܫܝܚܐ
 </div>
 
-Для дополнительной информации смотрите [документацию шрифта](https://rawcdn.githack.com/typiconman/Evangelion-CPA/09baac140eb9771ebb9fab5e37e522d4b60dd121/documentation/documentation_EN.html) (на английском).
+Для дополнительной информации смотрите [документацию шрифта](https://rawcdn.githack.com/typiconman/Evangelion-CPA/b4457be3e7a7a62da0f3af7102285282bd6e789a/documentation/documentation_EN.html) (на английском).
 
 ### Поддержите нашу работу
 
