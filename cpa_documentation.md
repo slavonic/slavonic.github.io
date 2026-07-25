@@ -10,20 +10,20 @@ css:
 ---
 ## Documentation of the Evangelion CPA font
 
-### Aleksandr Andreev
-#### University of Oslo, Faculty of Theology
-
-Evangelion CPA is a font for Christian Palestinian Aramaic (CPA), a Western
-Aramaic dialect used by the Melkite Christian community in Palestine,
-Transjordan and Sinai between the fifth and thirteenth centuries.[^1]
+Evangelion CPA is a font for
+[Christian Palestinian Aramaic](https://en.wikipedia.org/wiki/Christian_Palestinian_Aramaic)
+(CPA), a Western Aramaic dialect used by the Melkite Christian community in
+Palestine, Transjordan and Sinai between the fifth and thirteenth centuries.
 In earlier scholarly literature, names such as Syro-Palestinian and
 Palestinian Syriac were used for this language.
 
-CPA is recorded using a modification of the Esṭrangēlā version of the Syriac
-script.[^2] The Unicode standard does not encode a separate set of characters
+CPA is recorded using a modification of the
+[Esṭrangēlā version of the Syriac script](https://en.wikipedia.org/wiki/Syriac_alphabet#Classical_%CA%BEEs%E1%B9%ADrang%C4%93l%C4%81).
+The Unicode standard does not encode a separate set of characters
 for CPA, but rather specifies the use of the Syriac block with some
-modifications, which are described in Unicode Technical Note 52[^3] and in
-this document.
+modifications, which are described in
+[Unicode Technical Note 52](https://www.unicode.org/notes/tn52/UTN52-Christian-Palestinian-Aramaic-Encoding-2.pdf)
+and in this document.
 
 The font itself can be downloaded from the
 [Christian Palestinian Aramaic font page](cpa.html).
@@ -105,8 +105,9 @@ Note the following:
   inserting U+0640 ARABIC TATWEEL between characters:
   <span lang="syr" dir="rtl">ܐܠــܘܗܐ ܐܠܘܗܐ ܐܠـܘܗܐ ܐܠـــــܘܗܐ</span>
   Note that while this character is encoded in the Arabic block, the Unicode
-  Core Specification specifies[^4] that it should also be used for the Syriac
-  script.
+  Core Specification
+  [specifies](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-9/#G12346)
+  that it should also be used for the Syriac script.
 
 ## Diacritical Marks
 
@@ -234,8 +235,3 @@ The font is free software, distributed under the terms of the
 [Christian Palestinian Aramaic font page](cpa.html).
 
 <span lang="syr" dir="rtl">ܬܫܡܠܡ ܒܛܝܒܘܬܐ ܒܫܢܬ ܐܬܝܢ ܘܚܡܫܐ ܘܥܣܪܝܢ</span>
-
-[^1]: <https://en.wikipedia.org/wiki/Christian_Palestinian_Aramaic>
-[^2]: <https://en.wikipedia.org/wiki/Syriac_alphabet#Classical_%CA%BEEs%E1%B9%ADrang%C4%93l%C4%81>
-[^3]: <https://www.unicode.org/notes/tn52/UTN52-Christian-Palestinian-Aramaic-Encoding-2.pdf>
-[^4]: <https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-9/#G12346>
