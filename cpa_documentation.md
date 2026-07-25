@@ -36,31 +36,36 @@ user does not need to call these forms directly; rather, the glyph forms are
 available in the font and are selected automatically by the rendering software
 based on context.
 
-| Name | Code Point | Isolate | Initial | Medial | Final |
-|:---|:---|:---:|:---:|:---:|:---:|
-| Alaph | U+0710 | <span lang="syr" dir="rtl">ܐ</span> | <span lang="syr" dir="rtl">ܐ‍</span> | <span lang="syr" dir="rtl">‍ܐ‍</span> | <span lang="syr" dir="rtl">‍ܐ</span> |
-| Beth | U+0712 | <span lang="syr" dir="rtl">ܒ</span> | <span lang="syr" dir="rtl">ܒ‍</span> | <span lang="syr" dir="rtl">‍ܒ‍</span> | <span lang="syr" dir="rtl">‍ܒ</span> |
-| Gamal | U+0713 | <span lang="syr" dir="rtl">ܓ</span> | <span lang="syr" dir="rtl">ܓ‍</span> | <span lang="syr" dir="rtl">‍ܓ‍</span> | <span lang="syr" dir="rtl">‍ܓ</span> |
-| Dotless Dalath | U+0716 | <span lang="syr" dir="rtl">ܖ</span> | <span lang="syr" dir="rtl">ܖ‍</span> | <span lang="syr" dir="rtl">‍ܖ‍</span> | <span lang="syr" dir="rtl">‍ܖ</span> |
-| He | U+0717 | <span lang="syr" dir="rtl">ܗ</span> | <span lang="syr" dir="rtl">ܗ‍</span> | <span lang="syr" dir="rtl">‍ܗ‍</span> | <span lang="syr" dir="rtl">‍ܗ</span> |
-| Waw | U+0718 | <span lang="syr" dir="rtl">ܘ</span> | <span lang="syr" dir="rtl">ܘ‍</span> | <span lang="syr" dir="rtl">‍ܘ‍</span> | <span lang="syr" dir="rtl">‍ܘ</span> |
-| Zain | U+0719 | <span lang="syr" dir="rtl">ܙ</span> | <span lang="syr" dir="rtl">ܙ‍</span> | <span lang="syr" dir="rtl">‍ܙ‍</span> | <span lang="syr" dir="rtl">‍ܙ</span> |
-| Heth | U+071A | <span lang="syr" dir="rtl">ܚ</span> | <span lang="syr" dir="rtl">ܚ‍</span> | <span lang="syr" dir="rtl">‍ܚ‍</span> | <span lang="syr" dir="rtl">‍ܚ</span> |
-| Teth | U+071B | <span lang="syr" dir="rtl">ܛ</span> | <span lang="syr" dir="rtl">ܛ‍</span> | <span lang="syr" dir="rtl">‍ܛ‍</span> | <span lang="syr" dir="rtl">‍ܛ</span> |
-| Yudh | U+071D | <span lang="syr" dir="rtl">ܝ</span> | <span lang="syr" dir="rtl">ܝ‍</span> | <span lang="syr" dir="rtl">‍ܝ‍</span> | <span lang="syr" dir="rtl">‍ܝ</span> |
-| Kaph | U+071F | <span lang="syr" dir="rtl">ܟ</span> | <span lang="syr" dir="rtl">ܟ‍</span> | <span lang="syr" dir="rtl">‍ܟ‍</span> | <span lang="syr" dir="rtl">‍ܟ</span> |
-| Lamadh | U+0720 | <span lang="syr" dir="rtl">ܠ</span> | <span lang="syr" dir="rtl">ܠ‍</span> | <span lang="syr" dir="rtl">‍ܠ‍</span> | <span lang="syr" dir="rtl">‍ܠ</span> |
-| Mim | U+0721 | <span lang="syr" dir="rtl">ܡ</span> | <span lang="syr" dir="rtl">ܡ‍</span> | <span lang="syr" dir="rtl">‍ܡ‍</span> | <span lang="syr" dir="rtl">‍ܡ</span> |
-| Nun | U+0722 | <span lang="syr" dir="rtl">ܢ</span> | <span lang="syr" dir="rtl">ܢ‍</span> | <span lang="syr" dir="rtl">‍ܢ‍</span> | <span lang="syr" dir="rtl">‍ܢ</span> |
-| Semkath | U+0723 | <span lang="syr" dir="rtl">ܣ</span> | <span lang="syr" dir="rtl">ܣ‍</span> | <span lang="syr" dir="rtl">‍ܣ‍</span> | <span lang="syr" dir="rtl">‍ܣ</span> |
-| E | U+0725 | <span lang="syr" dir="rtl">ܥ</span> | <span lang="syr" dir="rtl">ܥ‍</span> | <span lang="syr" dir="rtl">‍ܥ‍</span> | <span lang="syr" dir="rtl">‍ܥ</span> |
-| Pe | U+0726 | <span lang="syr" dir="rtl">ܦ</span> | <span lang="syr" dir="rtl">ܦ‍</span> | <span lang="syr" dir="rtl">‍ܦ‍</span> | <span lang="syr" dir="rtl">‍ܦ</span> |
-| Pe Alt | U+0727 | <span lang="syr" dir="rtl">ܧ</span> | <span lang="syr" dir="rtl">ܧ‍</span> | <span lang="syr" dir="rtl">‍ܧ‍</span> | <span lang="syr" dir="rtl">‍ܧ</span> |
-| Sadhe | U+0728 | <span lang="syr" dir="rtl">ܨ</span> | <span lang="syr" dir="rtl">ܨ‍</span> | <span lang="syr" dir="rtl">‍ܨ‍</span> | <span lang="syr" dir="rtl">‍ܨ</span> |
-| Qaph | U+0729 | <span lang="syr" dir="rtl">ܩ</span> | <span lang="syr" dir="rtl">ܩ‍</span> | <span lang="syr" dir="rtl">‍ܩ‍</span> | <span lang="syr" dir="rtl">‍ܩ</span> |
-| Rish | U+072A | <span lang="syr" dir="rtl">ܪ</span> | <span lang="syr" dir="rtl">ܪ‍</span> | <span lang="syr" dir="rtl">‍ܪ‍</span> | <span lang="syr" dir="rtl">‍ܪ</span> |
-| Shin | U+072B | <span lang="syr" dir="rtl">ܫ</span> | <span lang="syr" dir="rtl">ܫ‍</span> | <span lang="syr" dir="rtl">‍ܫ‍</span> | <span lang="syr" dir="rtl">‍ܫ</span> |
-| Taw | U+072C | <span lang="syr" dir="rtl">ܬ</span> | <span lang="syr" dir="rtl">ܬ‍</span> | <span lang="syr" dir="rtl">‍ܬ‍</span> | <span lang="syr" dir="rtl">‍ܬ</span> |
+<table class="table table-bordered">
+<thead>
+<tr><th style="text-align: left;">Name</th><th style="text-align: left;">Code Point</th><th style="text-align: center;">Isolate</th><th style="text-align: center;">Initial</th><th style="text-align: center;">Medial</th><th style="text-align: center;">Final</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align: left;">Alaph</td><td style="text-align: left;">U+0710</td><td lang="syr" dir="rtl" style="text-align: center;">ܐ</td><td lang="syr" dir="rtl" style="text-align: center;">ܐ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܐ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܐ</td></tr>
+<tr><td style="text-align: left;">Beth</td><td style="text-align: left;">U+0712</td><td lang="syr" dir="rtl" style="text-align: center;">ܒ</td><td lang="syr" dir="rtl" style="text-align: center;">ܒ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܒ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܒ</td></tr>
+<tr><td style="text-align: left;">Gamal</td><td style="text-align: left;">U+0713</td><td lang="syr" dir="rtl" style="text-align: center;">ܓ</td><td lang="syr" dir="rtl" style="text-align: center;">ܓ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܓ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܓ</td></tr>
+<tr><td style="text-align: left;">Dotless Dalath</td><td style="text-align: left;">U+0716</td><td lang="syr" dir="rtl" style="text-align: center;">ܖ</td><td lang="syr" dir="rtl" style="text-align: center;">ܖ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܖ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܖ</td></tr>
+<tr><td style="text-align: left;">He</td><td style="text-align: left;">U+0717</td><td lang="syr" dir="rtl" style="text-align: center;">ܗ</td><td lang="syr" dir="rtl" style="text-align: center;">ܗ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܗ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܗ</td></tr>
+<tr><td style="text-align: left;">Waw</td><td style="text-align: left;">U+0718</td><td lang="syr" dir="rtl" style="text-align: center;">ܘ</td><td lang="syr" dir="rtl" style="text-align: center;">ܘ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܘ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܘ</td></tr>
+<tr><td style="text-align: left;">Zain</td><td style="text-align: left;">U+0719</td><td lang="syr" dir="rtl" style="text-align: center;">ܙ</td><td lang="syr" dir="rtl" style="text-align: center;">ܙ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܙ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܙ</td></tr>
+<tr><td style="text-align: left;">Heth</td><td style="text-align: left;">U+071A</td><td lang="syr" dir="rtl" style="text-align: center;">ܚ</td><td lang="syr" dir="rtl" style="text-align: center;">ܚ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܚ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܚ</td></tr>
+<tr><td style="text-align: left;">Teth</td><td style="text-align: left;">U+071B</td><td lang="syr" dir="rtl" style="text-align: center;">ܛ</td><td lang="syr" dir="rtl" style="text-align: center;">ܛ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܛ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܛ</td></tr>
+<tr><td style="text-align: left;">Yudh</td><td style="text-align: left;">U+071D</td><td lang="syr" dir="rtl" style="text-align: center;">ܝ</td><td lang="syr" dir="rtl" style="text-align: center;">ܝ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܝ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܝ</td></tr>
+<tr><td style="text-align: left;">Kaph</td><td style="text-align: left;">U+071F</td><td lang="syr" dir="rtl" style="text-align: center;">ܟ</td><td lang="syr" dir="rtl" style="text-align: center;">ܟ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܟ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܟ</td></tr>
+<tr><td style="text-align: left;">Lamadh</td><td style="text-align: left;">U+0720</td><td lang="syr" dir="rtl" style="text-align: center;">ܠ</td><td lang="syr" dir="rtl" style="text-align: center;">ܠ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܠ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܠ</td></tr>
+<tr><td style="text-align: left;">Mim</td><td style="text-align: left;">U+0721</td><td lang="syr" dir="rtl" style="text-align: center;">ܡ</td><td lang="syr" dir="rtl" style="text-align: center;">ܡ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܡ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܡ</td></tr>
+<tr><td style="text-align: left;">Nun</td><td style="text-align: left;">U+0722</td><td lang="syr" dir="rtl" style="text-align: center;">ܢ</td><td lang="syr" dir="rtl" style="text-align: center;">ܢ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܢ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܢ</td></tr>
+<tr><td style="text-align: left;">Semkath</td><td style="text-align: left;">U+0723</td><td lang="syr" dir="rtl" style="text-align: center;">ܣ</td><td lang="syr" dir="rtl" style="text-align: center;">ܣ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܣ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܣ</td></tr>
+<tr><td style="text-align: left;">E</td><td style="text-align: left;">U+0725</td><td lang="syr" dir="rtl" style="text-align: center;">ܥ</td><td lang="syr" dir="rtl" style="text-align: center;">ܥ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܥ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܥ</td></tr>
+<tr><td style="text-align: left;">Pe</td><td style="text-align: left;">U+0726</td><td lang="syr" dir="rtl" style="text-align: center;">ܦ</td><td lang="syr" dir="rtl" style="text-align: center;">ܦ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܦ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܦ</td></tr>
+<tr><td style="text-align: left;">Pe Alt</td><td style="text-align: left;">U+0727</td><td lang="syr" dir="rtl" style="text-align: center;">ܧ</td><td lang="syr" dir="rtl" style="text-align: center;">ܧ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܧ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܧ</td></tr>
+<tr><td style="text-align: left;">Sadhe</td><td style="text-align: left;">U+0728</td><td lang="syr" dir="rtl" style="text-align: center;">ܨ</td><td lang="syr" dir="rtl" style="text-align: center;">ܨ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܨ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܨ</td></tr>
+<tr><td style="text-align: left;">Qaph</td><td style="text-align: left;">U+0729</td><td lang="syr" dir="rtl" style="text-align: center;">ܩ</td><td lang="syr" dir="rtl" style="text-align: center;">ܩ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܩ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܩ</td></tr>
+<tr><td style="text-align: left;">Rish</td><td style="text-align: left;">U+072A</td><td lang="syr" dir="rtl" style="text-align: center;">ܪ</td><td lang="syr" dir="rtl" style="text-align: center;">ܪ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܪ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܪ</td></tr>
+<tr><td style="text-align: left;">Shin</td><td style="text-align: left;">U+072B</td><td lang="syr" dir="rtl" style="text-align: center;">ܫ</td><td lang="syr" dir="rtl" style="text-align: center;">ܫ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܫ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܫ</td></tr>
+<tr><td style="text-align: left;">Taw</td><td style="text-align: left;">U+072C</td><td lang="syr" dir="rtl" style="text-align: center;">ܬ</td><td lang="syr" dir="rtl" style="text-align: center;">ܬ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܬ‍</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܬ</td></tr>
+</tbody>
+</table>
 
 Note the following:
 
@@ -73,18 +78,28 @@ Note the following:
 - Initial, medial, and final forms can be called out of context by entering
   U+200D ZERO WIDTH JOINER, as in:
 
-  | Input | Result |
-  |:---:|:---:|
-  | <span lang="syr" dir="rtl">ܐ</span> + ZWJ | <span lang="syr" dir="rtl">ܐ‍</span> |
-  | ZWJ + <span lang="syr" dir="rtl">ܐ</span> + ZWJ | <span lang="syr" dir="rtl">‍ܐ‍</span> |
-  | ZWJ + <span lang="syr" dir="rtl">ܐ</span> | <span lang="syr" dir="rtl">‍ܐ</span> |
+  <table class="table table-bordered">
+  <thead>
+  <tr><th style="text-align: center;">Input</th><th style="text-align: center;">Result</th></tr>
+  </thead>
+  <tbody>
+  <tr><td style="text-align: center;"><span lang="syr" dir="rtl">ܐ</span> + ZWJ</td><td lang="syr" dir="rtl" style="text-align: center;">ܐ‍</td></tr>
+  <tr><td style="text-align: center;">ZWJ + <span lang="syr" dir="rtl">ܐ</span> + ZWJ</td><td lang="syr" dir="rtl" style="text-align: center;">‍ܐ‍</td></tr>
+  <tr><td style="text-align: center;">ZWJ + <span lang="syr" dir="rtl">ܐ</span></td><td lang="syr" dir="rtl" style="text-align: center;">‍ܐ</td></tr>
+  </tbody>
+  </table>
 
 - Default joining behavior can be overridden by entering U+200C ZERO WIDTH
   NON-JOINER:
 
-  | Without ZWNJ | With ZWNJ |
-  |:---:|:---:|
-  | <span lang="syr" dir="rtl">ܐܒ</span> | <span lang="syr" dir="rtl">ܐ‌ܒ</span> |
+  <table class="table table-bordered">
+  <thead>
+  <tr><th style="text-align: center;">Without ZWNJ</th><th style="text-align: center;">With ZWNJ</th></tr>
+  </thead>
+  <tbody>
+  <tr><td lang="syr" dir="rtl" style="text-align: center;">ܐܒ</td><td lang="syr" dir="rtl" style="text-align: center;">ܐ‌ܒ</td></tr>
+  </tbody>
+  </table>
 
 - You can lengthen the joiner between characters (stretch the characters) by
   inserting U+0640 ARABIC TATWEEL between characters:
@@ -155,14 +170,19 @@ indicating that an error has been made: <span lang="syr" dir="rtl">ܒ̇̈</span>
 
 The following punctuation marks are available:
 
-| Mark | Code Point |
-|:---:|:---|
-| <span lang="syr" dir="rtl">܁</span> | U+0701 SYRIAC SUPRALINEAR FULL STOP |
-| <span lang="syr" dir="rtl">⁚</span> | U+205A TWO DOT PUNCTUATION |
-| <span lang="syr" dir="rtl">⁖</span> | U+2056 THREE DOT PUNCTUATION |
-| <span lang="syr" dir="rtl">⁝</span> | U+205D TRICOLON |
-| <span lang="syr" dir="rtl">⁘</span> | U+2058 FOUR DOT PUNCTUATION |
-| <span lang="syr" dir="rtl">܍</span> | U+070D SYRIAC HARKLEAN ASTERISCUS |
+<table class="table table-bordered">
+<thead>
+<tr><th style="text-align: center;">Mark</th><th style="text-align: left;">Code Point</th></tr>
+</thead>
+<tbody>
+<tr><td lang="syr" dir="rtl" style="text-align: center;">܁</td><td style="text-align: left;">U+0701 SYRIAC SUPRALINEAR FULL STOP</td></tr>
+<tr><td lang="syr" dir="rtl" style="text-align: center;">⁚</td><td style="text-align: left;">U+205A TWO DOT PUNCTUATION</td></tr>
+<tr><td lang="syr" dir="rtl" style="text-align: center;">⁖</td><td style="text-align: left;">U+2056 THREE DOT PUNCTUATION</td></tr>
+<tr><td lang="syr" dir="rtl" style="text-align: center;">⁝</td><td style="text-align: left;">U+205D TRICOLON</td></tr>
+<tr><td lang="syr" dir="rtl" style="text-align: center;">⁘</td><td style="text-align: left;">U+2058 FOUR DOT PUNCTUATION</td></tr>
+<tr><td lang="syr" dir="rtl" style="text-align: center;">܍</td><td style="text-align: left;">U+070D SYRIAC HARKLEAN ASTERISCUS</td></tr>
+</tbody>
+</table>
 
 ## Testing
 
