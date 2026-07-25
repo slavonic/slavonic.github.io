@@ -15,7 +15,7 @@ Evangelion CPA is a font for typesetting texts in Christian Palestinian Aramaic.
    ܐܢܐ ܐܢܐ ܢܘܗܪܐ ܖܥܠܡܐ ⁚ ܫܠܡܐ ܥܠܡܐ ⁖ ܝܫܘܥ ܡܫܝܚܐ
 </div>
 
-Read the font's [documentation](https://rawcdn.githack.com/typiconman/Evangelion-CPA/b4457be3e7a7a62da0f3af7102285282bd6e789a/documentation/documentation_EN.html) for more information.
+Read the font's [documentation](cpa_documentation.html) for more information.
 
 ### Licenses and Technical Information
 

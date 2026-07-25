@@ -1,0 +1,35 @@
+/* Font definitions for Christian Palestinian Aramaic */
+/* Slavonic Computing Initiative (https://sci.ponomar.net/) */
+
+@font-face {
+    font-family: 'EvangelionCPA';
+    src: local('EvangelionCPA-Regular'), /* Common PostScript name */
+         local('EvangelionCPA'), /* Common full font name */
+	url('../fonts/EvangelionCPA-Regular.woff2') format('woff2'),
+	url('../fonts/EvangelionCPA-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; /* Improves font loading performance */
+}
+
+/* Styles for Christian Palestinian Aramaic text.
+   Blocks of CPA text are marked up with dir="rtl" and lang="syr". */
+[lang="syr"], [dir="rtl"] {
+    font-family: 'EvangelionCPA', 'Evangelion CPA', sans-serif; /* Prioritize CPA font */
+    direction: rtl; /* Explicitly set Right-to-Left direction */
+    text-align: right; /* Align text to the right for RTL */
+    /* Activate the ccmp feature for complex script shaping */
+    /* 'ccmp' is a standard feature tag for Glyph Composition/Decomposition */
+    font-feature-settings: "ccmp" on;
+    -webkit-font-feature-settings: "ccmp" on; /* For WebKit browsers */
+    -moz-font-feature-settings: "ccmp" on;    /* For Mozilla browsers */
+    -ms-font-feature-settings: "ccmp" on;     /* For IE/Edge (older syntax) */
+    font-size: 1.5em; /* Slightly larger for readability */
+}
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+    [lang="syr"], [dir="rtl"] {
+        font-size: 1em;
+    }
+}

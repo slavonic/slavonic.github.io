@@ -1,4 +1,14 @@
-# Documentation of the Evangelion CPA font
+---
+layout: default
+ref: cpa-documentation
+lang: en
+title: Documentation of the Evangelion CPA font
+css: 
+  - fonts
+  - sample
+  - cpa
+---
+## Documentation of the Evangelion CPA font
 
 ### Aleksandr Andreev
 #### University of Oslo, Faculty of Theology
@@ -14,6 +24,9 @@ script.[^2] The Unicode standard does not encode a separate set of characters
 for CPA, but rather specifies the use of the Syriac block with some
 modifications, which are described in Unicode Technical Note 52[^3] and in
 this document.
+
+The font itself can be downloaded from the
+[Christian Palestinian Aramaic font page](cpa.html).
 
 ## Characters
 
@@ -196,7 +209,9 @@ Please [open an issue on GitHub](https://github.com/typiconman/Evangelion-CPA/is
 ## License
 
 The font is free software, distributed under the terms of the
-[SIL Open Font License](https://openfontlicense.org/).
+[SIL Open Font License](https://openfontlicense.org/). More information
+[is indicated on the legal page](legal.html). Return to the
+[Christian Palestinian Aramaic font page](cpa.html).
 
 <span lang="syr" dir="rtl">ܬܫܡܠܡ ܒܛܝܒܘܬܐ ܒܫܢܬ ܐܬܝܢ ܘܚܡܫܐ ܘܥܣܪܝܢ</span>
 
