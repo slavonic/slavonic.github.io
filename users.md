@@ -20,6 +20,8 @@ This functionality works also in the mobile version of the app on Android, but t
 
 Unfortunately it is not possible to indicate that the language of the document is Church Slavonic, so spell checking and hyphenation are not supported.
 
+If you need to type Church Slavonic without installing a keyboard driver, you can also use the [virtual keyboard](https://github.com/slavonic/cu-virtual-keyboard).
+
 ### LibreOffice
 
 The most versatile software for Church Slavonic is [LibreOffice](https://www.libreoffice.org/). Starting with version 5.0, it allows you to specify Church Slavonic (which it calls Church Slavic) as a document language. You can then take advantage of a number of features such as Cyrillic numerals (for page numbering, etc.), hyphenation and spell checking.
