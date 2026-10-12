@@ -56,6 +56,9 @@ Check out our web [our web application](/accent). Attention mobile internet user
 ## Automatic accenting of Russian text
 Check out our web [our web application](/accentru). Attention mobile internet users! This web-application will load 30+Mb of code and data.
 
+## Church Slavonic syllabifier
+Divides Church Slavonic text into syllables, as a [web application](/syllabify); can also be [used from the command line](https://github.com/slavonic/cu-syllabifier) for batch jobs.
+
 ### APIs
 
 APIs for developing Church Slavonic-aware applications provide a variety of tools,

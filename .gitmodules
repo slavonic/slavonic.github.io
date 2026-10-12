@@ -1,0 +1,3 @@
+[submodule "syllabify"]
+	path = syllabify
+	url = https://github.com/slavonic/cu-syllabifier.git
